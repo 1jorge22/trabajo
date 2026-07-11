@@ -1,0 +1,237 @@
+N_Socio,Productor,ID_Alpaca,Sexo,Edad_Dientes,Peso_Inicial_Kg,Control_1_30d_Kg,Control_2_60d_Kg,Control_3_90d_Kg,Peso_Final_Vivo_120d_Kg,Ganancia_Neta_Kg,Ingreso_Total_Soles
+1,Edgar Cahuana Tacca,ECT-001,M,2 Dientes,34.5,38.0,41.0,43.0,45.41,10.91,385.50
+1,Edgar Cahuana Tacca,ECT-002,M,2 Dientes,32.0,35.0,38.0,40.0,41.77,9.77,354.60
+1,Edgar Cahuana Tacca,ECT-003,M,2 Dientes,39.0,42.0,45.0,47.0,49.03,10.03,416.20
+1,Edgar Cahuana Tacca,ECT-004,M,2 Dientes,38.5,42.5,45.0,47.0,48.64,10.14,412.90
+1,Edgar Cahuana Tacca,ECT-005,H,Boca Llena (Descarte),36.5,39.0,41.0,43.0,44.34,7.84,376.40
+1,Edgar Cahuana Tacca,ECT-006,M,4 Dientes,37.5,39.0,42.0,44.5,46.19,8.69,392.10
+1,Edgar Cahuana Tacca,ECT-007,H,Boca Llena (Descarte),33.5,35.0,37.5,40.5,41.96,8.46,356.20
+1,Edgar Cahuana Tacca,ECT-008,M,2 Dientes,32.0,35.0,38.0,40.0,42.02,10.02,356.70
+1,Edgar Cahuana Tacca,ECT-009,M,2 Dientes,32.5,35.5,38.5,40.5,42.65,10.15,362.10
+1,Edgar Cahuana Tacca,ECT-010,M,2 Dientes,34.5,38.5,41.0,43.0,44.44,9.94,377.30
+2,Martina Choquepata Huanca,MCH-001,M,2 Dientes,37.0,41.0,43.5,45.5,46.88,9.88,398.00
+2,Martina Choquepata Huanca,MCH-002,M,2 Dientes,39.0,41.0,44.0,47.5,49.37,10.37,419.10
+2,Martina Choquepata Huanca,MCH-003,M,2 Dientes,32.0,34.0,37.5,41.0,43.12,11.12,366.10
+2,Martina Choquepata Huanca,MCH-004,M,2 Dientes,37.0,41.0,44.0,46.0,47.44,10.44,402.70
+2,Martina Choquepata Huanca,MCH-005,M,2 Dientes,37.5,39.5,43.0,46.0,48.11,10.61,408.40
+2,Martina Choquepata Huanca,MCH-006,M,4 Dientes,37.5,41.0,43.5,45.0,46.32,8.82,393.20
+2,Martina Choquepata Huanca,MCH-007,M,2 Dientes,32.5,34.5,38.0,41.0,43.27,10.77,367.30
+2,Martina Choquepata Huanca,MCH-008,M,2 Dientes,38.5,43.0,46.0,48.0,49.71,11.21,422.00
+2,Martina Choquepata Huanca,MCH-009,H,Boca Llena (Descarte),48.5,50.0,52.0,54.5,55.74,7.24,473.20
+3,Dionicio Choquetocro Guzman,DCG-001,M,2 Dientes,33.5,37.0,40.5,42.5,45.01,11.51,382.10
+3,Dionicio Choquetocro Guzman,DCG-002,M,2 Dientes,40.5,44.5,47.0,49.0,50.66,10.16,430.10
+3,Dionicio Choquetocro Guzman,DCG-003,H,Boca Llena (Descarte),43.0,44.5,46.5,48.5,50.00,7.00,424.50
+3,Dionicio Choquetocro Guzman,DCG-004,M,2 Dientes,39.0,42.0,45.5,47.5,49.65,10.65,421.50
+3,Dionicio Choquetocro Guzman,DCG-005,M,2 Dientes,32.5,36.5,39.5,41.5,42.87,10.37,363.90
+3,Dionicio Choquetocro Guzman,DCG-006,M,4 Dientes,39.5,42.0,45.0,46.5,48.40,8.90,410.90
+3,Dionicio Choquetocro Guzman,DCG-007,M,2 Dientes,39.5,43.0,46.0,47.5,49.05,9.55,416.40
+3,Dionicio Choquetocro Guzman,DCG-008,M,2 Dientes,39.5,43.5,46.0,48.0,49.37,9.87,419.10
+3,Dionicio Choquetocro Guzman,DCG-009,M,2 Dientes,23.0,25.0,28.0,31.0,33.16,10.16,281.50
+4,Gerardo Chura Chura,GCC-001,M,2 Dientes,38.5,40.5,44.0,47.0,49.04,10.54,416.30
+4,Gerardo Chura Chura,GCC-002,M,2 Dientes,38.0,42.0,45.0,47.0,48.28,10.28,409.90
+4,Gerardo Chura Chura,GCC-003,M,2 Dientes,31.5,35.0,38.5,40.5,42.79,11.29,363.30
+4,Gerardo Chura Chura,GCC-004,M,2 Dientes,30.5,33.5,36.5,38.5,40.69,10.19,345.40
+4,Gerardo Chura Chura,GCC-005,M,4 Dientes,36.0,39.0,42.0,44.0,45.95,9.95,390.10
+4,Gerardo Chura Chura,GCC-006,M,2 Dientes,37.5,39.5,43.0,46.0,48.15,10.65,408.80
+4,Gerardo Chura Chura,GCC-007,M,2 Dientes,30.0,34.0,36.5,38.5,39.91,9.91,338.80
+4,Gerardo Chura Chura,GCC-008,H,Boca Llena (Descarte),38.5,40.0,42.0,44.5,45.75,7.25,388.40
+4,Gerardo Chura Chura,GCC-009,M,2 Dientes,30.0,33.0,36.0,38.0,39.93,9.93,339.00
+5,Nilda Norma Condori Herrara,NNC-001,H,Boca Llena (Descarte),37.5,40.5,43.0,44.5,45.75,8.25,388.40
+5,Nilda Norma Condori Herrara,NNC-002,M,2 Dientes,33.5,38.0,41.0,43.0,44.83,11.33,380.60
+5,Nilda Norma Condori Herrara,NNC-003,M,2 Dientes,42.5,45.5,48.5,50.5,52.72,10.22,447.60
+5,Nilda Norma Condori Herrara,NNC-004,M,2 Dientes,35.5,39.5,43.0,45.0,46.52,11.02,394.90
+5,Nilda Norma Condori Herrara,NNC-005,M,2 Dientes,41.5,44.5,47.0,49.0,50.93,9.43,432.40
+5,Nilda Norma Condori Herrara,NNC-006,M,2 Dientes,41.5,45.0,48.0,50.0,52.37,10.87,444.60
+5,Nilda Norma Condori Herrara,NNC-007,M,4 Dientes,40.5,44.0,46.5,48.0,49.46,8.96,419.90
+5,Nilda Norma Condori Herrara,NNC-008,M,2 Dientes,42.0,44.0,47.0,50.0,52.02,10.02,441.60
+6,Walquer Victor Calderon Sanchez,WVC-001,M,2 Dientes,35.5,38.5,41.0,43.0,45.07,9.57,382.60
+6,Walquer Victor Calderon Sanchez,WVC-002,H,Boca Llena (Descarte),35.5,38.5,40.5,42.5,43.45,7.95,368.90
+6,Walquer Victor Calderon Sanchez,WVC-003,M,2 Dientes,40.5,42.5,46.0,49.5,51.62,11.12,438.20
+6,Walquer Victor Calderon Sanchez,WVC-004,M,4 Dientes,42.5,45.5,48.5,50.5,52.32,9.82,444.20
+6,Walquer Victor Calderon Sanchez,WVC-005,M,2 Dientes,38.5,42.5,45.5,47.5,48.98,10.48,415.80
+6,Walquer Victor Calderon Sanchez,WVC-006,M,2 Dientes,41.5,43.5,46.5,49.0,51.05,9.55,433.40
+6,Walquer Victor Calderon Sanchez,WVC-007,M,2 Dientes,32.0,36.5,39.5,41.5,43.28,11.28,367.40
+6,Walquer Victor Calderon Sanchez,WVC-008,M,2 Dientes,37.0,41.0,43.5,45.5,47.06,10.06,399.50
+7,Pascual Callo Huallpa,PCH-001,M,2 Dientes,32.0,34.0,37.0,40.0,42.24,10.24,358.60
+7,Pascual Callo Huallpa,PCH-002,M,2 Dientes,33.5,36.0,39.0,42.5,44.94,11.44,381.50
+7,Pascual Callo Huallpa,PCH-003,M,2 Dientes,33.0,37.0,40.0,42.5,43.88,10.88,372.50
+7,Pascual Callo Huallpa,PCH-004,M,2 Dientes,38.5,42.0,45.0,47.0,48.12,9.62,408.50
+7,Pascual Callo Huallpa,PCH-005,M,2 Dientes,35.5,37.5,40.5,43.5,45.79,10.29,388.70
+7,Pascual Callo Huallpa,PCH-006,H,Boca Llena (Descarte),37.0,38.5,41.0,43.5,45.01,8.01,382.10
+7,Pascual Callo Huallpa,PCH-007,H,Boca Llena (Descarte),32.5,35.0,37.5,39.0,40.50,8.00,343.80
+7,Pascual Callo Huallpa,PCH-008,M,4 Dientes,38.5,42.0,44.5,46.0,47.51,9.01,403.30
+7,Pascual Callo Huallpa,PCH-009,M,2 Dientes,35.5,39.5,42.5,44.5,46.25,10.75,392.60
+7,Pascual Callo Huallpa,PCH-010,M,2 Dientes,21.5,23.5,26.5,29.5,31.62,10.12,268.40
+8,Felimon Chislla Tito,FCT-001,M,2 Dientes,31.0,35.0,38.0,40.0,41.51,10.51,352.40
+8,Felimon Chislla Tito,FCT-002,M,2 Dientes,31.5,33.5,36.5,40.0,41.84,10.34,355.20
+8,Felimon Chislla Tito,FCT-003,M,2 Dientes,34.0,37.0,40.0,41.5,43.65,9.65,370.60
+8,Felimon Chislla Tito,FCT-004,M,2 Dientes,32.0,36.0,39.0,41.0,42.50,10.50,360.80
+8,Felimon Chislla Tito,FCT-005,M,4 Dientes,39.0,42.5,45.5,47.5,48.73,9.73,413.70
+8,Felimon Chislla Tito,FCT-006,H,Boca Llena (Descarte),39.0,42.0,44.5,46.0,47.12,8.12,400.00
+8,Felimon Chislla Tito,FCT-007,M,2 Dientes,34.5,38.5,41.0,43.0,44.50,10.00,377.80
+8,Felimon Chislla Tito,FCT-008,M,2 Dientes,45.5,47.5,50.5,53.5,55.30,9.80,469.50
+9,Soledad del Carpio Antezana,SDC-001,M,2 Dientes,33.5,37.5,40.5,42.5,44.16,10.66,374.90
+9,Soledad del Carpio Antezana,SDC-002,M,4 Dientes,40.0,43.5,46.0,47.5,48.79,8.79,414.20
+9,Soledad del Carpio Antezana,SDC-003,H,Boca Llena (Descarte),37.5,40.5,42.5,44.0,45.21,7.71,383.80
+9,Soledad del Carpio Antezana,SDC-004,M,2 Dientes,33.0,36.5,39.5,42.0,44.07,11.07,374.10
+9,Soledad del Carpio Antezana,SDC-005,M,2 Dientes,40.0,43.5,46.0,48.0,49.43,9.43,419.60
+9,Soledad del Carpio Antezana,SDC-006,M,2 Dientes,38.5,41.5,44.5,46.5,48.48,9.98,411.60
+9,Soledad del Carpio Antezana,SDC-007,M,2 Dientes,41.0,44.0,47.0,48.5,50.60,9.60,429.60
+9,Soledad del Carpio Antezana,SDC-008,M,2 Dientes,29.0,31.5,34.5,38.0,40.31,11.31,342.20
+10,Edwin del Carpio Antezana,EDC-001,M,2 Dientes,34.0,36.0,39.0,42.0,44.16,10.16,374.90
+10,Edwin del Carpio Antezana,EDC-002,H,Boca Llena (Descarte),42.0,43.5,45.5,47.5,48.88,6.88,415.00
+10,Edwin del Carpio Antezana,EDC-003,M,2 Dientes,40.0,42.0,45.0,48.0,49.90,9.90,423.60
+10,Edwin del Carpio Antezana,EDC-004,M,2 Dientes,39.5,41.5,44.5,47.5,49.26,9.76,418.20
+10,Edwin del Carpio Antezana,EDC-005,M,2 Dientes,34.5,37.5,41.0,43.0,44.95,10.45,381.60
+10,Edwin del Carpio Antezana,EDC-006,M,2 Dientes,41.0,43.0,46.5,49.5,51.56,10.56,437.70
+10,Edwin del Carpio Antezana,EDC-007,M,4 Dientes,40.5,43.0,46.0,47.5,49.27,8.77,418.30
+10,Edwin del Carpio Antezana,EDC-008,M,2 Dientes,37.5,42.0,45.0,47.5,48.85,11.35,414.70
+10,Edwin del Carpio Antezana,EDC-009,M,2 Dientes,26.0,29.5,32.5,35.0,37.22,11.22,316.00
+11,Nayeli Rosario Guerra Condori,NRG-001,M,2 Dientes,36.5,40.5,43.5,46.0,47.37,10.87,402.10
+11,Nayeli Rosario Guerra Condori,NRG-002,M,2 Dientes,32.5,37.0,40.0,42.5,44.03,11.53,373.80
+11,Nayeli Rosario Guerra Condori,NRG-003,M,2 Dientes,36.0,38.0,41.0,44.0,46.22,10.22,392.40
+11,Nayeli Rosario Guerra Condori,NRG-004,M,2 Dientes,35.0,39.0,41.5,43.5,44.90,9.90,381.20
+11,Nayeli Rosario Guerra Condori,NRG-005,M,2 Dientes,40.0,42.0,45.0,48.0,49.77,9.77,422.50
+11,Nayeli Rosario Guerra Condori,NRG-006,H,Boca Llena (Descarte),33.5,36.5,38.5,40.0,40.95,7.45,347.60
+11,Nayeli Rosario Guerra Condori,NRG-007,M,4 Dientes,37.5,40.5,43.0,45.0,46.75,9.25,396.90
+11,Nayeli Rosario Guerra Condori,NRG-008,M,2 Dientes,32.5,34.5,37.5,41.0,42.94,10.44,364.50
+11,Nayeli Rosario Guerra Condori,NRG-009,M,2 Dientes,31.5,36.0,39.0,41.0,42.76,11.26,363.00
+12,Jorge Luis Huaman Quispe,JLH-001,H,Boca Llena (Descarte),39.0,42.0,44.0,45.5,46.56,7.56,395.30
+12,Jorge Luis Huaman Quispe,JLH-002,M,2 Dientes,38.5,42.0,45.0,47.0,48.25,9.75,409.60
+12,Jorge Luis Huaman Quispe,JLH-003,M,2 Dientes,31.5,35.5,38.5,40.5,42.18,10.68,358.10
+12,Jorge Luis Huaman Quispe,JLH-004,M,2 Dientes,32.0,36.0,39.0,41.0,42.68,10.68,362.30
+12,Jorge Luis Huaman Quispe,JLH-005,M,2 Dientes,35.0,39.5,42.5,45.0,46.63,11.63,395.90
+12,Jorge Luis Huaman Quispe,JLH-006,M,2 Dientes,39.5,43.0,46.0,48.0,49.14,9.64,417.20
+12,Jorge Luis Huaman Quispe,JLH-007,M,4 Dientes,32.5,34.5,37.5,40.5,42.48,9.98,360.60
+12,Jorge Luis Huaman Quispe,JLH-008,M,2 Dientes,33.0,35.0,38.0,41.0,42.75,9.75,362.90
+12,Jorge Luis Huaman Quispe,JLH-009,M,2 Dientes,42.5,46.0,49.5,51.5,53.96,11.46,458.10
+13,Salome Mamani Gutierrez,SMG-001,H,Boca Llena (Descarte),38.5,41.0,43.0,44.5,46.05,7.55,390.90
+13,Salome Mamani Gutierrez,SMG-002,M,2 Dientes,40.5,45.0,48.0,50.5,51.85,11.35,440.20
+13,Salome Mamani Gutierrez,SMG-003,M,2 Dientes,36.0,40.0,43.0,45.0,46.75,10.75,396.90
+13,Salome Mamani Gutierrez,SMG-004,M,2 Dientes,40.0,44.0,47.5,49.5,51.02,11.02,433.10
+13,Salome Mamani Gutierrez,SMG-005,M,2 Dientes,39.0,41.0,44.0,47.0,49.21,10.21,417.80
+13,Salome Mamani Gutierrez,SMG-006,M,4 Dientes,38.0,41.5,44.0,46.0,47.02,9.02,399.20
+13,Salome Mamani Gutierrez,SMG-007,M,2 Dientes,42.0,45.0,48.0,50.0,52.08,10.08,442.10
+13,Salome Mamani Gutierrez,SMG-008,M,2 Dientes,33.0,35.0,38.5,41.5,43.56,10.56,369.80
+14,Pedro Mamani Gutierrez,PMG-001,H,Boca Llena (Descarte),34.0,35.5,37.5,40.0,41.44,7.44,351.80
+14,Pedro Mamani Gutierrez,PMG-002,M,2 Dientes,29.0,32.5,36.0,38.0,40.45,11.45,343.40
+14,Pedro Mamani Gutierrez,PMG-003,M,2 Dientes,32.5,36.5,39.5,42.0,43.37,10.87,368.20
+14,Pedro Mamani Gutierrez,PMG-004,M,2 Dientes,34.5,38.0,41.5,43.5,45.88,11.38,389.50
+14,Pedro Mamani Gutierrez,PMG-005,M,4 Dientes,38.5,40.5,43.0,46.0,47.68,9.18,404.80
+14,Pedro Mamani Gutierrez,PMG-006,M,2 Dientes,37.0,39.0,42.5,45.5,47.72,10.72,405.10
+14,Pedro Mamani Gutierrez,PMG-007,M,2 Dientes,28.5,30.5,34.0,37.5,39.57,11.07,335.90
+14,Pedro Mamani Gutierrez,PMG-008,H,Boca Llena (Descarte),33.5,35.0,37.5,39.5,41.11,7.61,349.00
+14,Pedro Mamani Gutierrez,PMG-009,M,2 Dientes,31.0,34.0,37.0,38.5,40.67,9.67,345.30
+14,Pedro Mamani Gutierrez,PMG-010,M,2 Dientes,44.0,47.0,50.0,52.0,53.83,9.83,457.00
+15,Maricielo Cueto Paco,MCP-001,M,4 Dientes,39.0,41.0,43.5,46.5,48.26,9.26,409.70
+15,Maricielo Cueto Paco,MCP-002,M,2 Dientes,42.0,46.0,49.0,51.0,52.28,10.28,443.80
+15,Maricielo Cueto Paco,MCP-003,M,2 Dientes,40.5,43.5,46.5,48.0,50.18,9.68,426.00
+15,Maricielo Cueto Paco,MCP-004,M,2 Dientes,36.5,40.5,43.5,45.5,46.80,10.30,397.30
+15,Maricielo Cueto Paco,MCP-005,M,2 Dientes,38.0,42.0,44.5,46.5,48.04,10.04,407.80
+15,Maricielo Cueto Paco,MCP-006,H,Boca Llena (Descarte),37.5,39.0,41.0,43.0,44.53,7.03,378.00
+15,Maricielo Cueto Paco,MCP-007,M,2 Dientes,40.5,44.0,47.0,49.0,50.18,9.68,426.00
+15,Maricielo Cueto Paco,MCP-008,M,2 Dientes,38.0,41.0,44.5,46.5,48.46,10.46,411.40
+16,Juan Mendoza Vilca,JMV-001,M,2 Dientes,33.0,37.0,40.0,42.0,43.49,10.49,369.20
+16,Juan Mendoza Vilca,JMV-002,H,Boca Llena (Descarte),42.0,44.0,46.5,47.5,49.12,7.12,417.00
+16,Juan Mendoza Vilca,JMV-003,M,2 Dientes,30.5,35.0,38.0,40.5,41.93,11.43,356.00
+16,Juan Mendoza Vilca,JMV-004,M,4 Dientes,39.0,41.5,44.0,46.0,47.66,8.66,404.60
+16,Juan Mendoza Vilca,JMV-005,M,2 Dientes,33.5,37.5,40.5,43.0,44.33,10.83,376.30
+16,Juan Mendoza Vilca,JMV-006,M,2 Dientes,35.5,39.0,42.5,44.5,46.78,11.28,397.10
+16,Juan Mendoza Vilca,JMV-007,M,2 Dientes,40.0,42.0,45.0,48.0,49.77,9.77,422.50
+16,Juan Mendoza Vilca,JMV-008,M,2 Dientes,36.5,39.5,42.5,44.5,46.73,10.23,396.70
+16,Juan Mendoza Vilca,JMV-009,M,2 Dientes,32.0,35.5,38.0,40.0,41.30,9.30,350.60
+17,Julia Paco Gutierrez,JPG-001,M,4 Dientes,36.5,38.5,41.0,44.0,45.60,9.10,387.10
+17,Julia Paco Gutierrez,JPG-002,M,2 Dientes,33.0,35.0,38.5,41.5,43.64,10.64,370.50
+17,Julia Paco Gutierrez,JPG-003,M,2 Dientes,33.5,37.5,40.0,42.0,43.38,9.88,368.30
+17,Julia Paco Gutierrez,JPG-004,H,Boca Llena (Descarte),42.0,45.0,47.0,48.5,49.29,7.29,418.40
+17,Julia Paco Gutierrez,JPG-005,M,2 Dientes,36.5,40.5,43.5,45.5,47.08,10.58,399.70
+17,Julia Paco Gutierrez,JPG-006,M,2 Dientes,38.0,41.5,44.5,46.5,47.66,9.66,404.60
+17,Julia Paco Gutierrez,JPG-007,M,2 Dientes,39.0,41.5,44.5,48.0,50.47,11.47,428.50
+17,Julia Paco Gutierrez,JPG-008,M,2 Dientes,37.0,39.0,42.0,45.0,47.11,10.11,399.90
+17,Julia Paco Gutierrez,JPG-009,M,2 Dientes,48.0,51.0,54.0,56.0,58.07,10.07,493.00
+18,Ninfa Quispe Condori,NQC-001,M,4 Dientes,34.0,36.0,38.5,41.5,43.12,9.12,366.10
+18,Ninfa Quispe Condori,NQC-002,M,2 Dientes,33.0,37.0,40.0,42.5,43.91,10.91,372.80
+18,Ninfa Quispe Condori,NQC-003,H,Boca Llena (Descarte),37.5,39.0,41.5,43.5,45.08,7.58,382.70
+18,Ninfa Quispe Condori,NQC-004,M,2 Dientes,41.0,43.0,46.0,48.5,50.59,9.59,429.50
+18,Ninfa Quispe Condori,NQC-005,M,2 Dientes,38.5,42.5,45.5,47.5,48.83,10.33,414.50
+18,Ninfa Quispe Condori,NQC-006,M,2 Dientes,39.5,44.0,47.0,49.5,50.97,11.47,432.70
+18,Ninfa Quispe Condori,NQC-007,M,2 Dientes,33.5,36.5,39.5,41.5,43.22,9.72,366.90
+18,Ninfa Quispe Condori,NQC-008,M,2 Dientes,41.5,44.5,47.5,49.5,51.22,9.72,434.80
+19,Dianeth Quispe Gutierrez,DQG-001,M,2 Dientes,33.0,35.0,38.5,41.5,43.70,10.70,371.00
+19,Dianeth Quispe Gutierrez,DQG-002,M,2 Dientes,33.5,37.5,40.5,42.5,43.94,10.44,373.00
+19,Dianeth Quispe Gutierrez,DQG-003,M,2 Dientes,40.5,42.5,45.5,48.5,50.23,9.73,426.40
+19,Dianeth Quispe Gutierrez,DQG-004,M,2 Dientes,37.0,41.0,44.0,46.0,47.24,10.24,401.00
+19,Dianeth Quispe Gutierrez,DQG-005,M,2 Dientes,34.5,38.5,41.5,44.0,45.40,10.90,385.40
+19,Dianeth Quispe Gutierrez,DQG-006,M,2 Dientes,36.5,38.5,41.5,45.0,46.99,10.49,398.90
+19,Dianeth Quispe Gutierrez,DQG-007,M,4 Dientes,33.5,35.5,38.5,41.0,43.02,9.52,365.20
+19,Dianeth Quispe Gutierrez,DQG-008,M,2 Dientes,33.5,36.5,39.5,41.5,43.20,9.70,366.70
+19,Dianeth Quispe Gutierrez,DQG-009,H,Boca Llena (Descarte),52.0,54.5,56.5,58.0,59.18,7.18,502.40
+20,Ninfa Sarcco Huaman,NSH-001,M,2 Dientes,34.0,37.5,40.5,43.0,44.99,10.99,381.90
+20,Ninfa Sarcco Huaman,NSH-002,M,2 Dientes,31.0,35.0,38.0,40.0,41.59,10.59,353.10
+20,Ninfa Sarcco Huaman,NSH-003,H,Boca Llena (Descarte),38.0,41.0,43.5,45.0,46.38,8.38,393.70
+20,Ninfa Sarcco Huaman,NSH-004,M,2 Dientes,35.5,39.5,42.5,44.5,46.20,10.70,392.20
+20,Ninfa Sarcco Huaman,NSH-005,M,2 Dientes,35.0,37.5,40.5,44.0,46.47,11.47,394.50
+20,Ninfa Sarcco Huaman,NSH-006,M,2 Dientes,34.0,36.0,39.5,43.0,45.09,11.09,382.80
+20,Ninfa Sarcco Huaman,NSH-007,M,2 Dientes,34.5,38.0,41.0,43.5,45.69,11.19,387.90
+20,Ninfa Sarcco Huaman,NSH-008,M,4 Dientes,32.0,34.0,37.0,39.5,41.51,9.51,352.40
+20,Ninfa Sarcco Huaman,NSH-009,M,2 Dientes,37.5,41.5,44.5,47.0,48.47,10.97,411.50
+21,Justiniana Sayhua de Cayo,JSD-001,M,2 Dientes,38.5,41.5,44.5,46.5,48.35,9.85,410.50
+21,Justiniana Sayhua de Cayo,JSD-002,H,Boca Llena (Descarte),33.5,35.0,37.5,39.5,41.13,7.63,349.20
+21,Justiniana Sayhua de Cayo,JSD-003,M,2 Dientes,35.0,39.0,41.5,43.5,45.16,10.16,383.40
+21,Justiniana Sayhua de Cayo,JSD-004,M,4 Dientes,35.5,39.0,41.5,43.5,44.60,9.10,378.60
+21,Justiniana Sayhua de Cayo,JSD-005,M,2 Dientes,36.0,40.0,42.5,44.5,45.98,9.98,390.30
+21,Justiniana Sayhua de Cayo,JSD-006,M,2 Dientes,37.5,40.5,43.5,45.0,47.14,9.64,400.20
+21,Justiniana Sayhua de Cayo,JSD-007,M,2 Dientes,31.0,33.0,36.0,39.0,40.98,9.98,347.90
+21,Justiniana Sayhua de Cayo,JSD-008,M,2 Dientes,34.5,37.5,40.5,42.5,44.53,10.03,378.00
+21,Justiniana Sayhua de Cayo,JSD-009,M,2 Dientes,32.5,36.0,39.5,41.5,43.81,11.31,371.90
+22,Saturnina Tacca Puma,STP-001,M,2 Dientes,36.5,38.5,41.5,44.5,46.58,10.08,395.40
+22,Saturnina Tacca Puma,STP-002,M,2 Dientes,38.5,40.5,43.0,46.0,47.94,9.44,407.00
+22,Saturnina Tacca Puma,STP-003,H,Boca Llena (Descarte),40.5,43.5,45.5,47.0,47.87,7.37,406.40
+22,Saturnina Tacca Puma,STP-004,M,2 Dientes,35.5,37.5,40.5,44.0,45.92,10.42,389.80
+22,Saturnina Tacca Puma,STP-005,M,2 Dientes,40.5,44.5,47.0,49.0,50.43,9.93,428.10
+22,Saturnina Tacca Puma,STP-006,M,2 Dientes,42.5,44.5,47.5,50.5,52.75,10.25,447.80
+22,Saturnina Tacca Puma,STP-007,M,2 Dientes,43.0,45.0,48.0,51.0,52.90,9.90,449.10
+22,Saturnina Tacca Puma,STP-008,M,4 Dientes,36.0,39.0,42.0,43.5,45.67,9.67,387.70
+22,Saturnina Tacca Puma,STP-009,M,2 Dientes,37.0,39.0,42.5,46.0,48.14,11.14,408.70
+23,Lucio Tito Ccama,LTC-001,M,2 Dientes,41.5,44.5,47.5,49.5,51.42,9.92,436.50
+23,Lucio Tito Ccama,LTC-002,M,2 Dientes,33.5,37.0,40.5,42.5,44.81,11.31,380.40
+23,Lucio Tito Ccama,LTC-003,M,2 Dientes,37.5,40.5,43.5,45.0,47.15,9.65,400.30
+23,Lucio Tito Ccama,LTC-004,M,2 Dientes,36.0,38.5,41.5,45.0,47.29,11.29,401.50
+23,Lucio Tito Ccama,LTC-005,M,2 Dientes,39.5,43.5,46.5,48.5,49.76,10.26,422.40
+23,Lucio Tito Ccama,LTC-006,M,2 Dientes,37.5,41.0,44.5,46.5,48.85,11.35,414.70
+23,Lucio Tito Ccama,LTC-007,M,4 Dientes,38.0,41.0,43.5,45.5,47.51,9.51,403.30
+23,Lucio Tito Ccama,LTC-008,H,Boca Llena (Descarte),30.0,31.5,34.0,36.0,37.80,7.80,320.90
+24,Ceferino Victoriano Ttacca Puma,CVT-001,M,4 Dientes,42.0,44.5,47.5,49.0,50.99,8.99,432.90
+24,Ceferino Victoriano Ttacca Puma,CVT-002,M,2 Dientes,38.5,41.5,44.5,46.5,48.52,10.02,411.90
+24,Ceferino Victoriano Ttacca Puma,CVT-003,H,Boca Llena (Descarte),38.0,39.5,42.0,44.5,45.92,7.92,389.80
+24,Ceferino Victoriano Ttacca Puma,CVT-004,M,2 Dientes,41.0,43.0,46.5,49.5,51.68,10.68,438.70
+24,Ceferino Victoriano Ttacca Puma,CVT-005,M,2 Dientes,34.5,37.5,40.5,42.5,44.36,9.86,376.60
+24,Ceferino Victoriano Ttacca Puma,CVT-006,M,2 Dientes,42.0,44.0,47.0,50.0,51.74,9.74,439.20
+24,Ceferino Victoriano Ttacca Puma,CVT-007,M,2 Dientes,38.5,42.5,45.5,47.5,49.05,10.55,416.40
+24,Ceferino Victoriano Ttacca Puma,CVT-008,M,2 Dientes,27.0,29.0,32.0,35.0,37.05,10.05,314.50
+25,Toribio Ttacca Huaman,TTH-001,M,2 Dientes,39.5,41.5,44.5,47.5,49.67,10.17,421.70
+25,Toribio Ttacca Huaman,TTH-002,M,2 Dientes,36.0,39.5,43.0,45.0,47.44,11.44,402.70
+25,Toribio Ttacca Huaman,TTH-003,M,2 Dientes,41.0,44.0,47.0,49.0,50.89,9.89,432.00
+25,Toribio Ttacca Huaman,TTH-004,M,2 Dientes,40.0,43.0,46.0,48.0,50.25,10.25,426.60
+25,Toribio Ttacca Huaman,TTH-005,M,2 Dientes,36.5,39.5,43.0,45.0,47.32,10.82,401.70
+25,Toribio Ttacca Huaman,TTH-006,H,Boca Llena (Descarte),38.0,39.5,42.0,44.5,46.09,8.09,391.30
+25,Toribio Ttacca Huaman,TTH-007,M,2 Dientes,39.0,41.0,44.0,47.5,49.33,10.33,418.80
+25,Toribio Ttacca Huaman,TTH-008,M,4 Dientes,42.5,46.0,48.5,50.0,51.36,8.86,436.00
+25,Toribio Ttacca Huaman,TTH-009,M,2 Dientes,19.0,22.0,25.0,27.5,29.35,10.35,249.20
+26,Silvia Villanueva Condori,SVC-001,M,2 Dientes,30.5,33.5,37.0,39.0,41.10,10.60,348.90
+26,Silvia Villanueva Condori,SVC-002,M,2 Dientes,33.5,37.5,40.5,43.0,44.36,10.86,376.60
+26,Silvia Villanueva Condori,SVC-003,M,2 Dientes,33.5,37.0,40.0,42.0,43.24,9.74,367.10
+26,Silvia Villanueva Condori,SVC-004,M,2 Dientes,33.0,35.0,38.0,40.5,42.54,9.54,361.10
+26,Silvia Villanueva Condori,SVC-005,M,2 Dientes,34.5,37.5,40.5,42.5,44.33,9.83,376.30
+26,Silvia Villanueva Condori,SVC-006,H,Boca Llena (Descarte),39.5,41.0,43.0,45.0,46.63,7.13,395.90
+26,Silvia Villanueva Condori,SVC-007,M,2 Dientes,35.5,38.5,41.5,43.5,45.34,9.84,384.90
+26,Silvia Villanueva Condori,SVC-008,M,4 Dientes,38.0,40.5,43.0,45.0,46.45,8.45,394.30
+26,Silvia Villanueva Condori,SVC-009,M,2 Dientes,34.5,36.5,39.5,42.0,44.16,9.66,374.90
+27,Lucia Martinez Checmapocco,LMC-001,M,2 Dientes,37.5,41.0,44.0,46.0,47.28,9.78,401.40
+27,Lucia Martinez Checmapocco,LMC-002,M,2 Dientes,32.0,35.0,38.5,40.5,42.69,10.69,362.40
+27,Lucia Martinez Checmapocco,LMC-003,M,2 Dientes,33.0,37.0,40.0,42.0,43.63,10.63,370.40
+27,Lucia Martinez Checmapocco,LMC-004,M,4 Dientes,38.5,41.5,44.5,46.5,48.27,9.77,409.80
+27,Lucia Martinez Checmapocco,LMC-005,H,Boca Llena (Descarte),35.5,38.5,40.5,42.0,42.89,7.39,364.10
+27,Lucia Martinez Checmapocco,LMC-006,M,2 Dientes,36.5,39.5,42.5,44.0,46.16,9.66,391.90
+27,Lucia Martinez Checmapocco,LMC-007,M,2 Dientes,36.0,39.0,42.0,44.0,46.07,10.07,391.10
+27,Lucia Martinez Checmapocco,LMC-008,M,2 Dientes,47.5,50.0,53.0,56.5,58.77,11.27,498.90
