@@ -1,0 +1,460 @@
+N°,Productor,ID Alpaca,Sexo,Edad (Dientes),Peso inicial 02/05 (Kg),Control Mayo 31/05 (Kg),Control Junio 30/06 (Kg),Peso final 30/07 (Kg),Ganancia neta (Kg),Ganancia promedio (Kg/día),Ingreso referencial (S/.),Estado sanitario,Observaciones
+1,Edgar Cahuana Tacca,1,Macho,Boca Llena,29.5,32.5,35.5,38.5,9.0,0.105,322.0,Sano,Pastoreo rotativo
+2,Edgar Cahuana Tacca,2,Macho,2,31.0,34.5,38.0,41.5,10.5,0.108,357.0,Sano,Pastoreo rotativo
+3,Edgar Cahuana Tacca,3,Macho,2,38.0,41.5,45.0,48.0,10.0,0.107,406.0,Sano,Suplementación con forraje
+4,Edgar Cahuana Tacca,4,Hembra,Boca Llena,47.5,51.0,54.5,57.5,10.0,0.113,483.0,Sano,Suplementación con forraje
+5,Edgar Cahuana Tacca,5,Hembra,Boca Llena,32.0,35.0,38.0,41.5,9.5,0.104,343.0,Sano,Suplementación con forraje
+6,Edgar Cahuana Tacca,6,Macho,2,42.5,46.0,49.0,52.5,10.0,0.107,406.0,Sano,Suplementación con forraje
+7,Edgar Cahuana Tacca,7,Macho,2,44.0,47.0,50.0,53.5,9.5,0.104,434.0,Sano,Manejo en ahijadero
+8,Edgar Cahuana Tacca,8,Macho,2,27.0,30.0,33.5,37.0,10.0,0.109,301.0,Sano,Manejo en ahijadero
+9,Edgar Cahuana Tacca,9,Hembra,Boca Llena,37.5,40.5,44.0,47.0,9.5,0.102,385.0,Sano,Pastoreo rotativo
+10,Edgar Cahuana Tacca,10,Hembra,4,34.5,37.5,40.5,44.0,9.5,0.106,343.0,Sano,Manejo en ahijadero
+11,Edgar Cahuana Tacca,11,Macho,Boca Llena,32.5,35.5,39.0,42.5,10.0,0.109,357.0,Sano,Suplementación heno de alfalfa
+12,Edgar Cahuana Tacca,12,Macho,2,36.0,39.5,43.0,46.0,10.0,0.107,378.0,Sano,Desparasitación y vitaminas
+13,Edgar Cahuana Tacca,13,Macho,2,47.5,51.0,54.0,57.0,9.5,0.106,476.0,Sano,Suplementación heno de alfalfa
+14,Edgar Cahuana Tacca,14,Macho,2,27.0,30.0,33.5,37.0,10.0,0.112,322.0,Sano,Suplementación heno de alfalfa
+15,Edgar Cahuana Tacca,15,Macho,4,33.0,36.0,39.0,42.0,9.0,0.101,350.0,Sano,Desparasitación y vitaminas
+16,Edgar Cahuana Tacca,16,Macho,2,38.5,41.5,45.0,48.5,10.0,0.111,406.0,Sano,Manejo en ahijadero
+17,Edgar Cahuana Tacca,17,Macho,2,28.5,31.5,34.5,37.5,9.0,0.101,301.0,Sano,Manejo en ahijadero
+18,Martina Choquepata Huanca,1,Macho,2,31.0,34.5,37.5,41.0,10.0,0.111,336.0,Sano,Pastoreo rotativo
+19,Martina Choquepata Huanca,2,Hembra,Boca Llena,33.0,36.0,39.0,42.0,9.0,0.103,322.0,Sano,Desparasitación y vitaminas
+20,Martina Choquepata Huanca,3,Macho,2,25.5,29.0,32.0,35.5,10.0,0.111,280.0,Sano,Desparasitación y vitaminas
+21,Martina Choquepata Huanca,4,Hembra,4,27.0,30.0,33.0,36.0,9.0,0.101,294.0,Sano,Pastoreo rotativo
+22,Martina Choquepata Huanca,5,Macho,2,33.0,36.0,39.5,43.0,10.0,0.112,357.0,Sano,Manejo en ahijadero
+23,Martina Choquepata Huanca,6,Hembra,2,37.0,40.5,44.0,47.5,10.5,0.114,378.0,Sano,Suplementación con forraje
+24,Martina Choquepata Huanca,7,Macho,2,45.0,48.0,51.5,54.5,9.5,0.103,462.0,Sano,Pastoreo rotativo
+25,Martina Choquepata Huanca,8,Macho,2,30.0,33.0,36.0,39.5,9.5,0.105,336.0,Sano,Suplementación heno de alfalfa
+26,Martina Choquepata Huanca,9,Macho,2,40.5,44.0,47.0,50.5,10.0,0.111,441.0,Baja,Enterotoxemia (mortalidad)
+27,Martina Choquepata Huanca,10,Hembra,Boca Llena,43.5,46.5,49.5,52.5,9.0,0.108,455.0,Sano,Desparasitación y vitaminas
+28,Martina Choquepata Huanca,11,Macho,2,42.5,45.5,49.0,52.0,9.5,0.111,413.0,Sano,Suplementación con forraje
+29,Martina Choquepata Huanca,12,Macho,2,28.0,31.5,34.5,37.5,9.5,0.104,294.0,Sano,Manejo en ahijadero
+30,Martina Choquepata Huanca,13,Macho,2,47.5,51.0,54.0,57.5,10.0,0.107,490.0,Sano,Suplementación heno de alfalfa
+31,Martina Choquepata Huanca,14,Macho,2,43.0,46.0,49.0,52.0,9.0,0.104,448.0,Sano,Suplementación heno de alfalfa
+32,Martina Choquepata Huanca,15,Hembra,2,47.0,50.5,54.0,57.0,10.0,0.11,483.0,En observación,Tratamiento antiparasitario en curso
+33,Martina Choquepata Huanca,16,Macho,2,29.5,33.0,,,,0.102,0.0,Sano,Suplementación con forraje - Muerte prematura
+34,Martina Choquepata Huanca,17,Hembra,2,29.0,32.5,36.0,39.0,10.0,0.104,329.0,Sano,Desparasitación y vitaminas
+35,Dionicio Choquetocro Guzman,1,Hembra,Boca Llena,33.5,36.5,40.0,43.5,10.0,0.108,336.0,Sano,Pastoreo rotativo
+36,Dionicio Choquetocro Guzman,2,Macho,2,36.5,40.0,43.0,46.0,9.5,0.114,378.0,Sano,Desparasitación y vitaminas
+37,Dionicio Choquetocro Guzman,3,Macho,2,32.0,35.5,38.5,41.5,9.5,0.106,343.0,Sano,Suplementación con forraje
+38,Dionicio Choquetocro Guzman,4,Macho,2,46.5,49.5,53.0,56.0,9.5,0.107,462.0,Sano,Suplementación heno de alfalfa
+39,Dionicio Choquetocro Guzman,5,Hembra,Boca Llena,30.5,34.0,37.0,40.0,9.5,0.107,308.0,Sano,Pastoreo rotativo
+40,Dionicio Choquetocro Guzman,6,Hembra,4,35.5,38.5,41.5,44.5,9.0,0.103,364.0,Sano,Desparasitación y vitaminas
+41,Dionicio Choquetocro Guzman,7,Macho,2,30.5,34.0,37.0,40.0,9.5,0.11,322.0,Sano,Suplementación con forraje
+42,Dionicio Choquetocro Guzman,8,Macho,2,40.0,43.5,46.5,49.5,9.5,0.101,420.0,Sano,Pastoreo rotativo
+43,Dionicio Choquetocro Guzman,9,Macho,2,30.5,33.5,36.5,39.5,9.0,0.106,308.0,Sano,Manejo en ahijadero
+44,Dionicio Choquetocro Guzman,10,Macho,2,32.0,35.5,38.5,41.5,9.5,0.103,357.0,Sano,Suplementación con forraje
+45,Dionicio Choquetocro Guzman,11,Macho,2,29.0,32.5,36.0,39.0,10.0,0.103,336.0,Sano,Suplementación heno de alfalfa
+46,Dionicio Choquetocro Guzman,12,Hembra,Boca Llena,42.0,45.5,48.5,52.0,10.0,0.106,406.0,Sano,Suplementación con forraje
+47,Dionicio Choquetocro Guzman,13,Macho,2,44.5,47.5,50.5,54.0,9.5,0.104,455.0,Sano,Desparasitación y vitaminas
+48,Dionicio Choquetocro Guzman,14,Macho,2,41.0,44.5,47.5,51.0,10.0,0.109,441.0,Sano,Suplementación heno de alfalfa
+49,Dionicio Choquetocro Guzman,15,Hembra,Boca Llena,46.5,49.5,53.0,56.5,10.0,0.112,462.0,Sano,Pastoreo rotativo
+50,Dionicio Choquetocro Guzman,16,Hembra,Boca Llena,41.5,45.0,48.0,51.5,10.0,0.107,406.0,Sano,Desparasitación y vitaminas
+51,Dionicio Choquetocro Guzman,17,Macho,2,41.5,45.0,48.0,51.5,10.0,0.11,420.0,Sano,Desparasitación y vitaminas
+52,Gerardo Chura Chura,1,Macho,4,47.5,50.5,53.5,56.5,9.0,0.104,448.0,Sano,Manejo en ahijadero
+53,Gerardo Chura Chura,2,Macho,2,27.5,30.5,33.5,36.5,9.0,0.102,287.0,Sano,Suplementación heno de alfalfa
+54,Gerardo Chura Chura,3,Macho,4,41.0,44.0,47.0,50.0,9.0,0.105,385.0,Sano,Pastoreo rotativo
+55,Gerardo Chura Chura,4,Hembra,Boca Llena,27.0,30.0,33.0,36.5,9.5,0.107,287.0,Sano,Desparasitación y vitaminas
+56,Gerardo Chura Chura,5,Hembra,4,27.0,30.5,33.5,37.0,10.0,0.108,315.0,Sano,Suplementación heno de alfalfa
+57,Gerardo Chura Chura,6,Macho,2,34.0,37.5,41.0,44.0,10.0,0.109,371.0,Baja,Neumonía por friaje (mortalidad)
+58,Gerardo Chura Chura,7,Hembra,2,33.0,36.5,39.5,43.0,10.0,0.109,364.0,Sano,Suplementación heno de alfalfa
+59,Gerardo Chura Chura,8,Macho,2,37.5,41.0,44.5,47.5,10.0,0.11,399.0,Sano,Pastoreo rotativo
+60,Gerardo Chura Chura,9,Hembra,2,48.0,51.0,54.5,57.5,9.5,0.101,490.0,Sano,Manejo en ahijadero
+61,Gerardo Chura Chura,10,Macho,2,28.5,31.5,34.5,37.5,9.0,0.104,315.0,Sano,Pastoreo rotativo
+62,Gerardo Chura Chura,11,Hembra,Boca Llena,39.0,42.5,46.0,49.5,10.5,0.113,392.0,Sano,Suplementación con forraje
+63,Gerardo Chura Chura,12,Macho,2,43.0,46.5,50.0,53.0,10.0,0.103,455.0,Sano,Desparasitación y vitaminas
+64,Gerardo Chura Chura,13,Macho,2,41.5,45.0,48.5,52.0,10.5,0.113,427.0,Sano,Pastoreo rotativo
+65,Gerardo Chura Chura,14,Hembra,2,27.5,30.5,34.0,37.5,10.0,0.112,308.0,Sano,Suplementación heno de alfalfa
+66,Gerardo Chura Chura,15,Macho,2,43.5,47.0,50.0,53.0,9.5,0.109,448.0,Sano,Manejo en ahijadero
+67,Gerardo Chura Chura,16,Macho,2,45.5,48.5,51.5,54.5,9.0,0.104,441.0,Sano,Suplementación heno de alfalfa
+68,Gerardo Chura Chura,17,Macho,2,38.0,41.0,44.0,47.0,9.0,0.104,399.0,Sano,Suplementación con forraje
+69,Nilda Norma Condori Herrara,1,Macho,2,30.5,34.0,37.5,41.0,10.5,0.108,329.0,Sano,Suplementación con forraje
+70,Nilda Norma Condori Herrara,2,Hembra,Boca Llena,44.0,47.5,50.5,54.0,10.0,0.105,448.0,Sano,Manejo en ahijadero
+71,Nilda Norma Condori Herrara,3,Hembra,4,29.0,32.0,35.0,38.0,9.0,0.101,329.0,Sano,Pastoreo rotativo
+72,Nilda Norma Condori Herrara,4,Macho,2,41.5,45.0,48.0,51.0,9.5,0.114,434.0,Sano,Suplementación con forraje
+73,Nilda Norma Condori Herrara,5,Macho,2,33.0,36.0,38.5,41.5,8.5,0.101,322.0,Sano,Suplementación con forraje
+74,Nilda Norma Condori Herrara,6,Macho,2,32.5,35.5,38.5,41.5,9.0,0.114,343.0,Sano,Desparasitación y vitaminas
+75,Nilda Norma Condori Herrara,7,Macho,2,28.0,31.0,34.0,37.0,9.0,0.103,294.0,Sano,Suplementación heno de alfalfa
+76,Nilda Norma Condori Herrara,8,Macho,2,30.5,33.5,37.0,40.0,9.5,0.106,336.0,Sano,Suplementación con forraje
+77,Nilda Norma Condori Herrara,9,Hembra,Boca Llena,32.5,36.0,39.0,42.0,9.5,0.112,350.0,Sano,Manejo en ahijadero
+78,Nilda Norma Condori Herrara,10,Hembra,Boca Llena,28.5,31.5,34.5,37.5,9.0,0.103,301.0,Sano,Desparasitación y vitaminas
+79,Nilda Norma Condori Herrara,11,Macho,2,39.0,42.5,45.5,49.0,10.0,0.11,420.0,Sano,Manejo en ahijadero
+80,Nilda Norma Condori Herrara,12,Macho,2,39.0,42.0,45.0,48.0,9.0,0.103,406.0,Sano,Suplementación heno de alfalfa
+81,Nilda Norma Condori Herrara,13,Hembra,Boca Llena,25.5,28.5,32.0,35.5,10.0,0.113,301.0,En observación,Tratamiento antiparasitario en curso
+82,Nilda Norma Condori Herrara,14,Hembra,Boca Llena,30.5,34.0,37.5,41.0,10.5,0.109,322.0,Sano,Suplementación con forraje
+83,Nilda Norma Condori Herrara,15,Hembra,Boca Llena,32.5,36.0,39.0,42.0,9.5,0.102,343.0,Sano,Suplementación heno de alfalfa
+84,Nilda Norma Condori Herrara,16,Hembra,Boca Llena,45.0,48.0,51.5,55.0,10.0,0.11,427.0,Sano,Pastoreo rotativo
+85,Nilda Norma Condori Herrara,17,Macho,2,43.0,46.5,49.5,52.5,9.5,0.104,448.0,Sano,Suplementación heno de alfalfa
+86,Walquer Victor Calderon Sanchez,1,Macho,4,41.0,44.5,48.0,51.0,10.0,0.111,427.0,Sano,Desparasitación y vitaminas
+87,Walquer Victor Calderon Sanchez,2,Hembra,Boca Llena,40.5,43.0,46.0,49.0,8.5,0.101,392.0,Sano,Desparasitación y vitaminas
+88,Walquer Victor Calderon Sanchez,3,Hembra,2,26.5,29.5,33.0,36.0,9.5,0.11,280.0,Sano,Desparasitación y vitaminas
+89,Walquer Victor Calderon Sanchez,4,Macho,2,45.5,49.0,52.5,56.0,10.5,0.111,469.0,Sano,Suplementación heno de alfalfa
+90,Walquer Victor Calderon Sanchez,5,Macho,2,32.0,35.5,38.5,42.0,10.0,0.109,336.0,En observación,Requiere seguimiento sanitario
+91,Walquer Victor Calderon Sanchez,6,Macho,2,44.0,47.5,51.0,54.5,10.5,0.113,420.0,Sano,Desparasitación y vitaminas
+92,Walquer Victor Calderon Sanchez,7,Macho,2,36.5,40.0,43.5,47.0,10.5,0.111,371.0,Sano,Manejo en ahijadero
+93,Walquer Victor Calderon Sanchez,8,Macho,2,29.0,32.5,36.0,39.5,10.5,0.104,329.0,Sano,Suplementación con forraje
+94,Walquer Victor Calderon Sanchez,9,Hembra,Boca Llena,30.5,34.0,37.0,40.0,9.5,0.103,329.0,Sano,Manejo en ahijadero
+95,Walquer Victor Calderon Sanchez,10,Macho,2,38.0,41.5,44.5,48.0,10.0,0.108,406.0,Sano,Manejo en ahijadero
+96,Walquer Victor Calderon Sanchez,11,Macho,2,44.0,47.0,49.5,52.5,8.5,0.101,427.0,Sano,Suplementación con forraje
+97,Walquer Victor Calderon Sanchez,12,Macho,2,41.5,45.0,48.5,52.0,10.5,0.114,413.0,Sano,Pastoreo rotativo
+98,Walquer Victor Calderon Sanchez,13,Hembra,2,34.0,37.5,40.5,44.0,10.0,0.111,343.0,Sano,Desparasitación y vitaminas
+99,Walquer Victor Calderon Sanchez,14,Macho,4,46.0,49.5,53.0,56.5,10.5,0.11,490.0,Sano,Manejo en ahijadero
+100,Walquer Victor Calderon Sanchez,15,Macho,2,40.5,44.0,47.0,50.0,9.5,0.103,406.0,Sano,Suplementación heno de alfalfa
+101,Walquer Victor Calderon Sanchez,16,Macho,2,30.0,33.0,36.5,39.5,9.5,0.112,315.0,Sano,Suplementación heno de alfalfa
+102,Walquer Victor Calderon Sanchez,17,Macho,2,45.0,48.0,51.0,54.0,9.0,0.102,448.0,Sano,Desparasitación y vitaminas
+103,Pascual Callo Huallpa,1,Hembra,4,35.5,39.0,,,,0.112,0.0,Sano,Suplementación con forraje - Muerte prematura
+104,Pascual Callo Huallpa,2,Macho,2,25.5,28.5,31.5,34.5,9.0,0.102,280.0,Sano,Desparasitación y vitaminas
+105,Pascual Callo Huallpa,3,Macho,2,35.0,38.0,41.0,44.0,9.0,0.102,364.0,Sano,Suplementación heno de alfalfa
+106,Pascual Callo Huallpa,4,Macho,2,47.5,51.0,54.5,58.0,10.5,0.11,448.0,Sano,Desparasitación y vitaminas
+107,Pascual Callo Huallpa,5,Macho,2,35.0,38.5,42.0,45.5,10.5,0.114,378.0,En observación,Baja respuesta al engorde
+108,Pascual Callo Huallpa,6,Macho,2,37.0,40.5,44.0,47.5,10.5,0.104,385.0,Sano,Suplementación heno de alfalfa
+109,Pascual Callo Huallpa,7,Macho,2,38.0,41.5,44.5,47.5,9.5,0.105,378.0,Sano,Suplementación con forraje
+110,Pascual Callo Huallpa,8,Macho,2,46.5,49.5,52.5,55.5,9.0,0.101,434.0,Sano,Manejo en ahijadero
+111,Pascual Callo Huallpa,9,Macho,2,32.0,35.0,38.0,41.0,9.0,0.102,329.0,Sano,Suplementación con forraje
+112,Pascual Callo Huallpa,10,Hembra,4,33.5,37.0,40.5,44.0,10.5,0.112,364.0,Sano,Desparasitación y vitaminas
+113,Pascual Callo Huallpa,11,Macho,2,28.5,32.0,35.0,38.0,9.5,0.111,315.0,Sano,Suplementación heno de alfalfa
+114,Pascual Callo Huallpa,12,Macho,2,28.5,31.5,34.5,37.5,9.0,0.1,308.0,Sano,Pastoreo rotativo
+115,Pascual Callo Huallpa,13,Macho,2,29.0,32.5,35.5,39.0,10.0,0.108,336.0,Sano,Pastoreo rotativo
+116,Pascual Callo Huallpa,14,Macho,4,35.5,38.5,42.0,45.0,9.5,0.112,350.0,Sano,Manejo en ahijadero
+117,Pascual Callo Huallpa,15,Macho,2,47.0,50.0,53.0,56.5,9.5,0.107,490.0,Sano,Suplementación heno de alfalfa
+118,Pascual Callo Huallpa,16,Hembra,Boca Llena,28.0,31.5,34.5,37.5,9.5,0.106,322.0,Sano,Pastoreo rotativo
+119,Pascual Callo Huallpa,17,Hembra,Boca Llena,25.5,29.0,32.5,35.5,10.0,0.113,294.0,Sano,Suplementación con forraje
+120,Felimon Chislla Tito,1,Macho,2,42.5,45.5,49.0,52.0,9.5,0.104,420.0,Sano,Desparasitación y vitaminas
+121,Felimon Chislla Tito,2,Hembra,Boca Llena,27.0,30.5,33.5,36.5,9.5,0.104,315.0,En observación,Baja respuesta al engorde
+122,Felimon Chislla Tito,3,Macho,2,46.5,50.0,53.5,57.0,10.5,0.11,469.0,Sano,Desparasitación y vitaminas
+123,Felimon Chislla Tito,4,Hembra,Boca Llena,35.5,39.0,42.0,45.0,9.5,0.11,364.0,Sano,Manejo en ahijadero
+124,Felimon Chislla Tito,5,Macho,4,41.0,44.5,48.0,51.5,10.5,0.113,406.0,Sano,Manejo en ahijadero
+125,Felimon Chislla Tito,6,Macho,2,43.5,46.5,50.0,53.0,9.5,0.111,406.0,Sano,Manejo en ahijadero
+126,Felimon Chislla Tito,7,Macho,Boca Llena,29.0,32.5,36.0,39.0,10.0,0.105,322.0,Sano,Desparasitación y vitaminas
+127,Felimon Chislla Tito,8,Macho,2,40.5,43.5,47.0,50.0,9.5,0.107,434.0,Sano,Pastoreo rotativo
+128,Felimon Chislla Tito,9,Hembra,Boca Llena,25.0,28.5,32.0,35.0,10.0,0.104,294.0,Sano,Manejo en ahijadero
+129,Felimon Chislla Tito,10,Macho,2,43.5,46.5,50.0,53.5,10.0,0.109,462.0,Sano,Manejo en ahijadero
+130,Felimon Chislla Tito,11,Macho,2,41.5,44.5,47.5,50.5,9.0,0.102,413.0,Baja,Enterotoxemia (mortalidad)
+131,Felimon Chislla Tito,12,Macho,2,44.0,47.5,51.0,,,0.108,0.0,Sano,Manejo en ahijadero - Muerte prematura
+132,Felimon Chislla Tito,13,Hembra,Boca Llena,37.0,40.0,43.0,46.0,9.0,0.11,371.0,Sano,Suplementación heno de alfalfa
+133,Felimon Chislla Tito,14,Macho,2,38.5,41.5,44.5,47.5,9.0,0.102,385.0,Sano,Suplementación heno de alfalfa
+134,Felimon Chislla Tito,15,Macho,2,30.0,33.0,36.5,40.0,10.0,0.109,315.0,Sano,Pastoreo rotativo
+135,Felimon Chislla Tito,16,Macho,2,30.0,33.0,36.5,39.5,9.5,0.106,336.0,Sano,Pastoreo rotativo
+136,Felimon Chislla Tito,17,Hembra,4,35.0,38.5,41.5,45.0,10.0,0.11,378.0,Sano,Manejo en ahijadero
+137,Soledad del Carpio Antezana,1,Hembra,2,25.5,29.0,32.5,36.0,10.5,0.112,294.0,Sano,Suplementación heno de alfalfa
+138,Soledad del Carpio Antezana,2,Macho,2,44.0,47.0,50.5,53.5,9.5,0.109,427.0,Sano,Pastoreo rotativo
+139,Soledad del Carpio Antezana,3,Macho,2,26.5,29.5,33.0,36.0,9.5,0.112,280.0,Sano,Manejo en ahijadero
+140,Soledad del Carpio Antezana,4,Macho,2,33.5,37.0,40.5,43.5,10.0,0.111,357.0,Sano,Manejo en ahijadero
+141,Soledad del Carpio Antezana,5,Hembra,Boca Llena,41.0,44.5,47.5,50.5,9.5,0.104,427.0,Sano,Pastoreo rotativo
+142,Soledad del Carpio Antezana,6,Hembra,Boca Llena,43.5,46.5,49.5,52.5,9.0,0.101,455.0,Sano,Manejo en ahijadero
+143,Soledad del Carpio Antezana,7,Macho,2,43.0,46.0,49.5,52.5,9.5,0.105,441.0,Sano,Suplementación heno de alfalfa
+144,Soledad del Carpio Antezana,8,Macho,2,31.5,34.5,37.5,41.0,9.5,0.103,343.0,Sano,Desparasitación y vitaminas
+145,Soledad del Carpio Antezana,9,Macho,2,39.0,42.0,45.0,48.0,9.0,0.1,413.0,Sano,Desparasitación y vitaminas
+146,Soledad del Carpio Antezana,10,Macho,2,36.5,40.0,43.0,46.5,10.0,0.107,364.0,En observación,Requiere seguimiento sanitario
+147,Soledad del Carpio Antezana,11,Hembra,Boca Llena,34.0,37.5,40.5,43.5,9.5,0.106,350.0,Sano,Pastoreo rotativo
+148,Soledad del Carpio Antezana,12,Macho,2,28.0,31.0,34.5,38.0,10.0,0.113,322.0,Sano,Manejo en ahijadero
+149,Soledad del Carpio Antezana,13,Macho,2,34.5,38.0,41.5,44.5,10.0,0.107,371.0,Sano,Suplementación heno de alfalfa
+150,Soledad del Carpio Antezana,14,Hembra,2,27.5,31.0,34.5,37.5,10.0,0.105,308.0,Sano,Pastoreo rotativo
+151,Soledad del Carpio Antezana,15,Hembra,Boca Llena,43.0,46.5,49.5,52.5,9.5,0.109,434.0,Sano,Pastoreo rotativo
+152,Soledad del Carpio Antezana,16,Macho,2,34.0,37.5,40.5,44.0,10.0,0.11,343.0,Sano,Suplementación con forraje
+153,Soledad del Carpio Antezana,17,Macho,2,39.0,42.0,44.5,,,0.101,0.0,En observación,Baja respuesta al engorde - Muerte prematura
+154,Edwin del Carpio Antezana,1,Macho,2,43.5,47.0,50.0,53.0,9.5,0.11,420.0,Sano,Suplementación heno de alfalfa
+155,Edwin del Carpio Antezana,2,Hembra,Boca Llena,37.5,41.0,44.5,48.0,10.5,0.112,385.0,Sano,Suplementación heno de alfalfa
+156,Edwin del Carpio Antezana,3,Hembra,Boca Llena,29.0,32.0,35.0,38.5,9.5,0.107,322.0,Sano,Suplementación heno de alfalfa
+157,Edwin del Carpio Antezana,4,Macho,2,33.0,36.5,40.0,43.5,10.5,0.112,336.0,Sano,Suplementación con forraje
+158,Edwin del Carpio Antezana,5,Hembra,Boca Llena,34.0,37.0,40.0,43.0,9.0,0.103,336.0,Sano,Manejo en ahijadero
+159,Edwin del Carpio Antezana,6,Hembra,Boca Llena,35.5,38.5,41.5,44.5,9.0,0.1,357.0,Sano,Suplementación heno de alfalfa
+160,Edwin del Carpio Antezana,7,Macho,2,27.5,31.0,34.5,38.0,10.5,0.111,322.0,Sano,Suplementación con forraje
+161,Edwin del Carpio Antezana,8,Macho,2,34.5,37.5,40.5,43.5,9.0,0.102,364.0,Sano,Desparasitación y vitaminas
+162,Edwin del Carpio Antezana,9,Macho,2,29.5,32.5,36.0,39.5,10.0,0.103,315.0,Sano,Desparasitación y vitaminas
+163,Edwin del Carpio Antezana,10,Hembra,Boca Llena,27.5,31.0,34.0,37.0,9.5,0.104,294.0,Sano,Suplementación con forraje
+164,Edwin del Carpio Antezana,11,Macho,2,36.5,40.0,43.5,46.5,10.0,0.113,364.0,En observación,Requiere seguimiento sanitario
+165,Edwin del Carpio Antezana,12,Hembra,Boca Llena,41.5,44.5,47.5,50.5,9.0,0.102,420.0,Sano,Manejo en ahijadero
+166,Edwin del Carpio Antezana,13,Hembra,2,44.5,48.0,51.0,54.0,9.5,0.108,448.0,Sano,Pastoreo rotativo
+167,Edwin del Carpio Antezana,14,Macho,2,38.5,42.0,45.0,48.0,9.5,0.107,378.0,Sano,Pastoreo rotativo
+168,Edwin del Carpio Antezana,15,Macho,2,46.0,49.0,52.5,55.5,9.5,0.103,434.0,Baja,Enterotoxemia (mortalidad)
+169,Edwin del Carpio Antezana,16,Hembra,2,30.5,33.5,37.0,40.0,9.5,0.107,329.0,Sano,Desparasitación y vitaminas
+170,Edwin del Carpio Antezana,17,Macho,2,31.5,34.5,37.5,40.5,9.0,0.102,322.0,Sano,Suplementación heno de alfalfa
+171,Nayeli Rosario Guerra Condori,1,Macho,2,45.0,48.0,51.0,54.5,9.5,0.108,455.0,Sano,Manejo en ahijadero
+172,Nayeli Rosario Guerra Condori,2,Macho,2,42.5,46.0,49.5,53.0,10.5,0.109,448.0,Sano,Suplementación con forraje
+173,Nayeli Rosario Guerra Condori,3,Macho,2,38.0,41.0,44.0,47.5,9.5,0.107,399.0,Sano,Suplementación heno de alfalfa
+174,Nayeli Rosario Guerra Condori,4,Macho,2,34.5,37.5,40.5,43.5,9.0,0.103,357.0,Sano,Suplementación con forraje
+175,Nayeli Rosario Guerra Condori,5,Macho,2,33.5,36.5,40.0,43.0,9.5,0.107,350.0,Sano,Suplementación heno de alfalfa
+176,Nayeli Rosario Guerra Condori,6,Macho,2,33.0,36.0,39.0,42.0,9.0,0.104,357.0,Sano,Suplementación heno de alfalfa
+177,Nayeli Rosario Guerra Condori,7,Macho,2,39.0,42.0,45.5,48.5,9.5,0.108,385.0,Sano,Suplementación con forraje
+178,Nayeli Rosario Guerra Condori,8,Macho,2,32.5,36.0,39.0,42.0,9.5,0.106,350.0,Sano,Suplementación heno de alfalfa
+179,Nayeli Rosario Guerra Condori,9,Macho,2,31.5,35.0,38.0,41.0,9.5,0.104,350.0,Sano,Suplementación con forraje
+180,Nayeli Rosario Guerra Condori,10,Macho,2,44.0,47.0,50.0,53.5,9.5,0.107,420.0,Sano,Suplementación heno de alfalfa
+181,Nayeli Rosario Guerra Condori,11,Hembra,Boca Llena,33.0,36.0,39.0,42.0,9.0,0.106,329.0,Sano,Manejo en ahijadero
+182,Nayeli Rosario Guerra Condori,12,Macho,2,43.5,47.0,50.5,54.0,10.5,0.109,434.0,Sano,Desparasitación y vitaminas
+183,Nayeli Rosario Guerra Condori,13,Macho,2,45.5,48.5,51.5,54.5,9.0,0.1,441.0,Sano,Suplementación heno de alfalfa
+184,Nayeli Rosario Guerra Condori,14,Macho,2,29.0,32.5,36.0,39.0,10.0,0.112,322.0,Sano,Suplementación heno de alfalfa
+185,Nayeli Rosario Guerra Condori,15,Macho,2,33.5,36.5,40.0,43.0,9.5,0.106,343.0,Sano,Suplementación heno de alfalfa
+186,Nayeli Rosario Guerra Condori,16,Hembra,Boca Llena,32.0,35.5,38.5,41.5,9.5,0.11,329.0,Sano,Pastoreo rotativo
+187,Nayeli Rosario Guerra Condori,17,Macho,2,31.0,34.5,37.5,40.5,9.5,0.103,315.0,En observación,Tratamiento antiparasitario en curso
+188,Jorge Luis Huaman Quispe,1,Macho,2,29.0,32.5,35.5,38.5,9.5,0.107,315.0,Sano,Suplementación con forraje
+189,Jorge Luis Huaman Quispe,2,Hembra,Boca Llena,45.0,48.5,52.0,55.5,10.5,0.111,455.0,Sano,Suplementación con forraje
+190,Jorge Luis Huaman Quispe,3,Macho,2,27.0,30.0,33.0,36.0,9.0,0.101,287.0,Sano,Pastoreo rotativo
+191,Jorge Luis Huaman Quispe,4,Macho,2,43.5,47.0,50.5,54.0,10.5,0.111,441.0,Sano,Manejo en ahijadero
+192,Jorge Luis Huaman Quispe,5,Hembra,4,31.0,34.0,37.5,40.5,9.5,0.102,336.0,Sano,Desparasitación y vitaminas
+193,Jorge Luis Huaman Quispe,6,Macho,2,36.0,39.0,42.0,45.0,9.0,0.109,350.0,Sano,Desparasitación y vitaminas
+194,Jorge Luis Huaman Quispe,7,Hembra,Boca Llena,41.5,45.0,48.5,52.0,10.5,0.114,434.0,Sano,Manejo en ahijadero
+195,Jorge Luis Huaman Quispe,8,Macho,2,42.0,45.0,48.5,51.5,9.5,0.102,441.0,Sano,Suplementación heno de alfalfa
+196,Jorge Luis Huaman Quispe,9,Hembra,Boca Llena,39.0,42.0,45.0,48.0,9.0,0.1,385.0,Sano,Suplementación heno de alfalfa
+197,Jorge Luis Huaman Quispe,10,Macho,2,37.0,40.0,43.0,46.0,9.0,0.106,399.0,Sano,Suplementación heno de alfalfa
+198,Jorge Luis Huaman Quispe,11,Hembra,Boca Llena,47.5,50.5,53.5,56.5,9.0,0.105,462.0,Sano,Suplementación con forraje
+199,Jorge Luis Huaman Quispe,12,Macho,2,34.0,37.5,41.0,44.0,10.0,0.114,357.0,Sano,Pastoreo rotativo
+200,Jorge Luis Huaman Quispe,13,Hembra,2,31.0,34.5,37.5,40.5,9.5,0.111,336.0,Sano,Desparasitación y vitaminas
+201,Jorge Luis Huaman Quispe,14,Macho,2,45.0,48.5,51.5,54.5,9.5,0.1,448.0,Sano,Suplementación heno de alfalfa
+202,Jorge Luis Huaman Quispe,15,Macho,2,44.0,47.5,51.0,54.5,10.5,0.111,448.0,Sano,Pastoreo rotativo
+203,Jorge Luis Huaman Quispe,16,Macho,2,30.0,33.5,36.5,40.0,10.0,0.107,343.0,Sano,Desparasitación y vitaminas
+204,Jorge Luis Huaman Quispe,17,Macho,2,38.5,41.5,44.5,48.0,9.5,0.109,413.0,Sano,Desparasitación y vitaminas
+205,Salome Mamani Gutierrez,1,Macho,2,27.0,30.0,33.0,36.0,9.0,0.105,287.0,Sano,Suplementación con forraje
+206,Salome Mamani Gutierrez,2,Macho,Boca Llena,38.0,41.5,44.5,48.0,10.0,0.11,406.0,Sano,Pastoreo rotativo
+207,Salome Mamani Gutierrez,3,Macho,2,35.0,38.0,41.5,44.5,9.5,0.106,357.0,Sano,Manejo en ahijadero
+208,Salome Mamani Gutierrez,4,Macho,2,41.5,45.0,48.5,52.0,10.5,0.105,427.0,Sano,Pastoreo rotativo
+209,Salome Mamani Gutierrez,5,Macho,2,32.5,35.5,39.0,,,0.111,0.0,Sano,Pastoreo rotativo - Muerte prematura
+210,Salome Mamani Gutierrez,6,Macho,2,41.0,44.5,48.0,51.0,10.0,0.109,441.0,Sano,Suplementación heno de alfalfa
+211,Salome Mamani Gutierrez,7,Hembra,Boca Llena,39.5,42.5,45.5,48.5,9.0,0.106,406.0,Sano,Manejo en ahijadero
+212,Salome Mamani Gutierrez,8,Macho,2,25.5,29.0,32.5,35.5,10.0,0.108,287.0,Sano,Pastoreo rotativo
+213,Salome Mamani Gutierrez,9,Hembra,2,37.0,40.5,43.5,47.0,10.0,0.102,364.0,En observación,Tratamiento antiparasitario en curso
+214,Salome Mamani Gutierrez,10,Hembra,4,43.5,47.0,50.5,54.0,10.5,0.109,427.0,Sano,Pastoreo rotativo
+215,Salome Mamani Gutierrez,11,Macho,2,41.5,44.5,47.5,51.0,9.5,0.107,420.0,Sano,Suplementación heno de alfalfa
+216,Salome Mamani Gutierrez,12,Hembra,2,35.0,38.0,41.0,44.0,9.0,0.102,350.0,Sano,Manejo en ahijadero
+217,Salome Mamani Gutierrez,13,Macho,2,43.0,46.0,49.0,52.0,9.0,0.109,406.0,Sano,Manejo en ahijadero
+218,Salome Mamani Gutierrez,14,Macho,2,36.5,39.5,42.5,45.5,9.0,0.107,378.0,Sano,Manejo en ahijadero
+219,Salome Mamani Gutierrez,15,Macho,2,38.5,41.5,45.0,48.5,10.0,0.111,385.0,Sano,Manejo en ahijadero
+220,Salome Mamani Gutierrez,16,Macho,2,40.5,43.5,47.0,50.0,9.5,0.104,420.0,Sano,Desparasitación y vitaminas
+221,Salome Mamani Gutierrez,17,Macho,2,26.0,29.5,33.0,36.0,10.0,0.107,280.0,Sano,Desparasitación y vitaminas
+222,Pedro Mamani Gutierrez,1,Macho,2,41.0,44.5,47.5,50.5,9.5,0.107,392.0,Sano,Pastoreo rotativo
+223,Pedro Mamani Gutierrez,2,Macho,Boca Llena,40.5,44.0,47.0,50.5,10.0,0.108,420.0,Sano,Desparasitación y vitaminas
+224,Pedro Mamani Gutierrez,3,Macho,4,39.0,42.5,46.0,49.5,10.5,0.114,406.0,Sano,Desparasitación y vitaminas
+225,Pedro Mamani Gutierrez,4,Macho,2,33.5,37.0,40.5,43.5,10.0,0.106,350.0,Sano,Desparasitación y vitaminas
+226,Pedro Mamani Gutierrez,5,Macho,2,47.5,51.0,54.0,57.0,9.5,0.106,469.0,Sano,Suplementación heno de alfalfa
+227,Pedro Mamani Gutierrez,6,Macho,2,39.0,42.5,45.5,48.5,9.5,0.102,392.0,Sano,Suplementación heno de alfalfa
+228,Pedro Mamani Gutierrez,7,Macho,2,31.5,34.5,38.0,41.0,9.5,0.104,336.0,Sano,Suplementación heno de alfalfa
+229,Pedro Mamani Gutierrez,8,Hembra,4,32.5,35.5,38.5,41.5,9.0,0.101,357.0,Sano,Suplementación heno de alfalfa
+230,Pedro Mamani Gutierrez,9,Macho,2,45.0,48.0,51.0,54.0,9.0,0.102,420.0,Sano,Desparasitación y vitaminas
+231,Pedro Mamani Gutierrez,10,Hembra,4,27.5,30.5,34.0,37.5,10.0,0.108,301.0,Sano,Pastoreo rotativo
+232,Pedro Mamani Gutierrez,11,Macho,2,33.5,36.5,39.5,43.0,9.5,0.108,343.0,Sano,Pastoreo rotativo
+233,Pedro Mamani Gutierrez,12,Hembra,Boca Llena,26.5,29.0,32.0,35.0,8.5,0.1,287.0,Sano,Suplementación heno de alfalfa
+234,Pedro Mamani Gutierrez,13,Macho,2,34.0,37.0,40.0,43.0,9.0,0.102,371.0,En observación,Baja respuesta al engorde
+235,Pedro Mamani Gutierrez,14,Macho,2,36.0,39.0,42.0,45.5,9.5,0.104,357.0,Sano,Desparasitación y vitaminas
+236,Pedro Mamani Gutierrez,15,Macho,2,27.0,30.0,33.5,37.0,10.0,0.113,315.0,Sano,Pastoreo rotativo
+237,Pedro Mamani Gutierrez,16,Macho,2,45.5,49.0,52.5,55.5,10.0,0.111,455.0,Sano,Suplementación con forraje
+238,Pedro Mamani Gutierrez,17,Macho,2,36.0,39.0,42.0,45.5,9.5,0.107,357.0,Sano,Pastoreo rotativo
+239,Maricielo Cueto Paco,1,Hembra,Boca Llena,44.0,47.5,51.0,54.5,10.5,0.114,441.0,Sano,Desparasitación y vitaminas
+240,Maricielo Cueto Paco,2,Macho,2,29.0,32.0,35.0,38.5,9.5,0.109,336.0,Sano,Desparasitación y vitaminas
+241,Maricielo Cueto Paco,3,Hembra,Boca Llena,43.5,46.5,,,,0.106,0.0,Sano,Pastoreo rotativo - Muerte prematura
+242,Maricielo Cueto Paco,4,Macho,2,36.0,39.0,42.0,45.5,9.5,0.102,385.0,Sano,Desparasitación y vitaminas
+243,Maricielo Cueto Paco,5,Macho,2,40.0,43.0,46.5,49.5,9.5,0.103,399.0,Sano,Manejo en ahijadero
+244,Maricielo Cueto Paco,6,Macho,2,25.5,29.0,32.0,35.5,10.0,0.109,273.0,Sano,Desparasitación y vitaminas
+245,Maricielo Cueto Paco,7,Hembra,Boca Llena,28.0,31.5,35.0,38.5,10.5,0.106,322.0,Sano,Desparasitación y vitaminas
+246,Maricielo Cueto Paco,8,Hembra,Boca Llena,31.5,35.0,38.5,41.5,10.0,0.112,343.0,Sano,Pastoreo rotativo
+247,Maricielo Cueto Paco,9,Macho,2,39.5,42.5,45.5,48.5,9.0,0.103,406.0,Sano,Suplementación heno de alfalfa
+248,Maricielo Cueto Paco,10,Macho,2,41.5,45.0,48.0,51.0,9.5,0.107,441.0,Sano,Pastoreo rotativo
+249,Maricielo Cueto Paco,11,Macho,2,45.5,49.0,52.5,56.0,10.5,0.112,469.0,Baja,Enterotoxemia (mortalidad)
+250,Maricielo Cueto Paco,12,Hembra,4,28.5,31.5,34.5,37.5,9.0,0.111,322.0,Sano,Suplementación heno de alfalfa
+251,Maricielo Cueto Paco,13,Macho,2,46.0,49.0,52.5,55.5,9.5,0.105,462.0,Sano,Desparasitación y vitaminas
+252,Maricielo Cueto Paco,14,Macho,2,47.5,50.5,54.0,57.0,9.5,0.103,462.0,Sano,Manejo en ahijadero
+253,Maricielo Cueto Paco,15,Macho,2,43.0,46.0,49.0,52.0,9.0,0.101,441.0,Sano,Suplementación heno de alfalfa
+254,Maricielo Cueto Paco,16,Macho,2,33.0,36.5,40.0,43.0,10.0,0.105,336.0,Sano,Suplementación con forraje
+255,Maricielo Cueto Paco,17,Macho,2,33.5,36.5,39.5,43.0,9.5,0.101,329.0,Sano,Desparasitación y vitaminas
+256,Juan Mendoza Vilca,1,Macho,2,29.5,33.0,36.0,39.5,10.0,0.107,322.0,Sano,Suplementación con forraje
+257,Juan Mendoza Vilca,2,Macho,2,36.5,39.5,42.5,45.5,9.0,0.102,371.0,Sano,Pastoreo rotativo
+258,Juan Mendoza Vilca,3,Macho,2,41.5,45.0,48.0,51.0,9.5,0.103,406.0,Sano,Suplementación con forraje
+259,Juan Mendoza Vilca,4,Macho,2,44.5,48.0,51.5,55.0,10.5,0.112,441.0,Sano,Pastoreo rotativo
+260,Juan Mendoza Vilca,5,Hembra,2,33.5,37.0,,,,0.11,0.0,Sano,Desparasitación y vitaminas - Muerte prematura
+261,Juan Mendoza Vilca,6,Macho,2,31.5,35.0,38.5,41.5,10.0,0.11,329.0,Sano,Suplementación heno de alfalfa
+262,Juan Mendoza Vilca,7,Macho,2,34.5,37.5,40.5,44.0,9.5,0.103,378.0,Sano,Suplementación heno de alfalfa
+263,Juan Mendoza Vilca,8,Macho,2,41.5,44.5,48.0,51.5,10.0,0.109,406.0,Sano,Desparasitación y vitaminas
+264,Juan Mendoza Vilca,9,Macho,2,34.5,38.0,41.0,44.0,9.5,0.107,364.0,Sano,Suplementación con forraje
+265,Juan Mendoza Vilca,10,Macho,2,28.5,31.5,35.0,38.5,10.0,0.105,329.0,Sano,Desparasitación y vitaminas
+266,Juan Mendoza Vilca,11,Hembra,Boca Llena,43.0,46.0,49.0,52.0,9.0,0.101,399.0,En observación,Requiere seguimiento sanitario
+267,Juan Mendoza Vilca,12,Hembra,Boca Llena,44.5,48.0,51.5,54.5,10.0,0.105,441.0,Sano,Suplementación heno de alfalfa
+268,Juan Mendoza Vilca,13,Macho,Boca Llena,47.5,51.0,54.0,57.0,9.5,0.108,462.0,Sano,Manejo en ahijadero
+269,Juan Mendoza Vilca,14,Hembra,Boca Llena,26.0,29.5,33.0,36.0,10.0,0.112,280.0,Sano,Suplementación heno de alfalfa
+270,Juan Mendoza Vilca,15,Macho,4,26.0,29.5,32.5,36.0,10.0,0.106,308.0,Baja,Complicación parasitaria (mortalidad)
+271,Juan Mendoza Vilca,16,Macho,2,25.0,28.0,31.5,34.5,9.5,0.104,280.0,Sano,Pastoreo rotativo
+272,Juan Mendoza Vilca,17,Macho,2,33.0,36.0,39.0,42.0,9.0,0.104,322.0,Sano,Manejo en ahijadero
+273,Julia Paco Gutierrez,1,Macho,2,36.5,39.5,42.5,46.0,9.5,0.112,399.0,Sano,Pastoreo rotativo
+274,Julia Paco Gutierrez,2,Macho,2,30.5,33.5,37.0,40.5,10.0,0.105,329.0,Sano,Suplementación heno de alfalfa
+275,Julia Paco Gutierrez,3,Macho,2,35.5,38.5,41.5,44.5,9.0,0.102,350.0,Sano,Manejo en ahijadero
+276,Julia Paco Gutierrez,4,Macho,2,43.0,46.0,49.0,52.5,9.5,0.102,441.0,Sano,Pastoreo rotativo
+277,Julia Paco Gutierrez,5,Macho,2,37.5,41.0,44.0,47.5,10.0,0.106,385.0,En observación,Baja respuesta al engorde
+278,Julia Paco Gutierrez,6,Macho,2,44.0,47.5,51.0,54.5,10.5,0.11,434.0,Sano,Suplementación heno de alfalfa
+279,Julia Paco Gutierrez,7,Macho,2,32.5,35.5,39.0,42.0,9.5,0.106,350.0,Sano,Suplementación heno de alfalfa
+280,Julia Paco Gutierrez,8,Hembra,4,28.5,31.5,34.5,38.0,9.5,0.11,322.0,En observación,Requiere seguimiento sanitario
+281,Julia Paco Gutierrez,9,Macho,4,48.0,51.0,54.0,57.0,9.0,0.101,448.0,Sano,Manejo en ahijadero
+282,Julia Paco Gutierrez,10,Hembra,Boca Llena,37.0,40.0,43.0,46.5,9.5,0.1,357.0,Sano,Suplementación heno de alfalfa
+283,Julia Paco Gutierrez,11,Hembra,2,29.0,32.5,36.0,39.5,10.5,0.112,329.0,Sano,Desparasitación y vitaminas
+284,Julia Paco Gutierrez,12,Macho,2,41.5,44.5,47.5,50.5,9.0,0.107,392.0,Sano,Desparasitación y vitaminas
+285,Julia Paco Gutierrez,13,Macho,2,38.0,41.5,44.5,48.0,10.0,0.109,385.0,Sano,Pastoreo rotativo
+286,Julia Paco Gutierrez,14,Macho,2,34.0,37.5,41.0,44.5,10.5,0.114,350.0,Sano,Desparasitación y vitaminas
+287,Julia Paco Gutierrez,15,Macho,2,36.0,39.5,42.5,46.0,10.0,0.108,371.0,Sano,Desparasitación y vitaminas
+288,Julia Paco Gutierrez,16,Macho,2,32.5,35.5,38.5,41.5,9.0,0.104,329.0,Sano,Suplementación con forraje
+289,Julia Paco Gutierrez,17,Macho,2,35.5,38.5,42.0,45.0,9.5,0.112,364.0,Sano,Manejo en ahijadero
+290,Ninfa Quispe Condori,1,Macho,2,31.0,34.0,37.5,40.5,9.5,0.108,350.0,Sano,Pastoreo rotativo
+291,Ninfa Quispe Condori,2,Macho,2,47.5,50.5,54.0,57.0,9.5,0.113,441.0,Sano,Manejo en ahijadero
+292,Ninfa Quispe Condori,3,Macho,2,42.5,45.5,48.5,52.0,9.5,0.11,406.0,Sano,Desparasitación y vitaminas
+293,Ninfa Quispe Condori,4,Macho,2,34.5,37.5,40.5,43.5,9.0,0.101,364.0,Sano,Pastoreo rotativo
+294,Ninfa Quispe Condori,5,Macho,2,47.5,50.5,53.5,57.0,9.5,0.104,476.0,Sano,Suplementación con forraje
+295,Ninfa Quispe Condori,6,Macho,2,46.0,49.0,52.0,55.0,9.0,0.11,455.0,Sano,Manejo en ahijadero
+296,Ninfa Quispe Condori,7,Macho,2,46.0,49.5,53.0,56.0,10.0,0.107,462.0,Sano,Suplementación heno de alfalfa
+297,Ninfa Quispe Condori,8,Macho,2,27.0,30.5,34.0,37.5,10.5,0.113,301.0,Sano,Desparasitación y vitaminas
+298,Ninfa Quispe Condori,9,Macho,2,44.5,48.0,51.0,54.0,9.5,0.104,462.0,Sano,Manejo en ahijadero
+299,Ninfa Quispe Condori,10,Hembra,2,46.0,49.0,52.0,55.0,9.0,0.101,462.0,Sano,Pastoreo rotativo
+300,Ninfa Quispe Condori,11,Macho,2,29.0,32.0,35.0,38.0,9.0,0.105,294.0,Sano,Suplementación con forraje
+301,Ninfa Quispe Condori,12,Macho,2,25.0,28.5,32.0,35.0,10.0,0.103,273.0,Sano,Desparasitación y vitaminas
+302,Ninfa Quispe Condori,13,Hembra,Boca Llena,40.5,43.5,46.5,49.5,9.0,0.106,420.0,Sano,Suplementación con forraje
+303,Ninfa Quispe Condori,14,Macho,2,30.0,33.0,36.0,39.0,9.0,0.106,301.0,Sano,Suplementación heno de alfalfa
+304,Ninfa Quispe Condori,15,Hembra,Boca Llena,40.5,43.5,47.0,50.5,10.0,0.114,434.0,Sano,Desparasitación y vitaminas
+305,Ninfa Quispe Condori,16,Hembra,2,31.0,34.5,38.0,41.0,10.0,0.112,322.0,Sano,Desparasitación y vitaminas
+306,Ninfa Quispe Condori,17,Hembra,Boca Llena,28.5,31.5,35.0,38.0,9.5,0.103,294.0,Sano,Desparasitación y vitaminas
+307,Dianeth Quispe Gutierrez,1,Macho,2,26.0,29.0,32.0,35.5,9.5,0.11,294.0,Sano,Suplementación heno de alfalfa
+308,Dianeth Quispe Gutierrez,2,Macho,2,33.5,37.0,40.5,43.5,10.0,0.101,364.0,Sano,Suplementación con forraje
+309,Dianeth Quispe Gutierrez,3,Macho,2,33.5,37.0,40.5,44.0,10.5,0.113,371.0,Sano,Desparasitación y vitaminas
+310,Dianeth Quispe Gutierrez,4,Hembra,Boca Llena,31.0,34.0,37.0,40.0,9.0,0.105,308.0,Sano,Manejo en ahijadero
+311,Dianeth Quispe Gutierrez,5,Macho,2,36.0,39.5,42.5,46.0,10.0,0.108,385.0,Sano,Pastoreo rotativo
+312,Dianeth Quispe Gutierrez,6,Macho,2,38.5,41.5,44.5,48.0,9.5,0.106,385.0,Sano,Suplementación heno de alfalfa
+313,Dianeth Quispe Gutierrez,7,Macho,2,38.0,41.0,44.0,47.0,9.0,0.101,371.0,Sano,Manejo en ahijadero
+314,Dianeth Quispe Gutierrez,8,Macho,2,39.0,42.0,45.5,48.5,9.5,0.109,378.0,Sano,Pastoreo rotativo
+315,Dianeth Quispe Gutierrez,9,Hembra,Boca Llena,40.5,43.5,46.5,49.5,9.0,0.104,420.0,Sano,Suplementación heno de alfalfa
+316,Dianeth Quispe Gutierrez,10,Macho,2,44.0,47.0,50.0,53.0,9.0,0.105,427.0,Sano,Desparasitación y vitaminas
+317,Dianeth Quispe Gutierrez,11,Hembra,2,38.5,42.0,45.0,48.0,9.5,0.1,378.0,Sano,Suplementación con forraje
+318,Dianeth Quispe Gutierrez,12,Macho,2,33.0,36.0,39.0,42.0,9.0,0.103,343.0,En observación,Tratamiento antiparasitario en curso
+319,Dianeth Quispe Gutierrez,13,Macho,2,29.5,32.5,36.0,39.5,10.0,0.108,308.0,Sano,Pastoreo rotativo
+320,Dianeth Quispe Gutierrez,14,Macho,2,42.0,45.5,48.5,52.0,10.0,0.111,441.0,Sano,Suplementación heno de alfalfa
+321,Dianeth Quispe Gutierrez,15,Hembra,2,32.5,35.5,38.5,41.5,9.0,0.1,336.0,Sano,Desparasitación y vitaminas
+322,Dianeth Quispe Gutierrez,16,Macho,2,32.0,35.0,38.0,41.5,9.5,0.105,343.0,Sano,Manejo en ahijadero
+323,Dianeth Quispe Gutierrez,17,Macho,2,25.5,28.5,31.5,34.5,9.0,0.102,280.0,Sano,Pastoreo rotativo
+324,Ninfa Sarcco Huaman,1,Hembra,Boca Llena,30.5,34.0,37.5,41.0,10.5,0.113,322.0,Sano,Manejo en ahijadero
+325,Ninfa Sarcco Huaman,2,Hembra,2,28.0,31.0,34.5,37.5,9.5,0.108,322.0,Sano,Suplementación heno de alfalfa
+326,Ninfa Sarcco Huaman,3,Macho,2,41.5,45.0,48.0,51.0,9.5,0.108,392.0,Sano,Pastoreo rotativo
+327,Ninfa Sarcco Huaman,4,Macho,2,37.5,40.5,44.0,47.5,10.0,0.108,406.0,Sano,Pastoreo rotativo
+328,Ninfa Sarcco Huaman,5,Macho,2,33.0,36.5,40.0,43.5,10.5,0.114,343.0,Sano,Desparasitación y vitaminas
+329,Ninfa Sarcco Huaman,6,Hembra,Boca Llena,33.5,36.5,39.5,42.5,9.0,0.102,364.0,Sano,Pastoreo rotativo
+330,Ninfa Sarcco Huaman,7,Macho,2,46.0,49.5,53.0,56.0,10.0,0.113,455.0,Sano,Pastoreo rotativo
+331,Ninfa Sarcco Huaman,8,Macho,2,33.5,37.0,40.0,43.5,10.0,0.107,343.0,Sano,Suplementación heno de alfalfa
+332,Ninfa Sarcco Huaman,9,Hembra,Boca Llena,44.5,47.5,50.5,53.5,9.0,0.1,420.0,Sano,Suplementación heno de alfalfa
+333,Ninfa Sarcco Huaman,10,Macho,2,28.0,31.5,34.5,38.0,10.0,0.108,322.0,Sano,Suplementación con forraje
+334,Ninfa Sarcco Huaman,11,Macho,2,46.5,50.0,53.0,56.0,9.5,0.103,448.0,Baja,Complicación parasitaria (mortalidad)
+335,Ninfa Sarcco Huaman,12,Hembra,Boca Llena,42.0,45.0,48.5,52.0,10.0,0.101,434.0,Sano,Pastoreo rotativo
+336,Ninfa Sarcco Huaman,13,Macho,2,38.0,41.0,44.0,47.0,9.0,0.1,378.0,Sano,Suplementación con forraje
+337,Ninfa Sarcco Huaman,14,Hembra,Boca Llena,38.5,42.0,45.0,48.0,9.5,0.111,385.0,Sano,Suplementación heno de alfalfa
+338,Ninfa Sarcco Huaman,15,Macho,2,32.5,35.5,39.0,,,0.104,0.0,Sano,Desparasitación y vitaminas - Muerte prematura
+339,Ninfa Sarcco Huaman,16,Macho,2,30.5,34.0,37.0,40.0,9.5,0.102,350.0,Sano,Suplementación con forraje
+340,Ninfa Sarcco Huaman,17,Macho,2,41.0,44.5,48.0,51.5,10.5,0.107,427.0,Sano,Manejo en ahijadero
+341,Justiniana Sayhua de Cayo,1,Macho,2,31.5,34.5,37.5,40.5,9.0,0.113,329.0,Sano,Desparasitación y vitaminas
+342,Justiniana Sayhua de Cayo,2,Macho,2,39.0,42.5,46.0,49.5,10.5,0.112,385.0,Sano,Suplementación con forraje
+343,Justiniana Sayhua de Cayo,3,Hembra,4,27.5,31.0,34.0,37.5,10.0,0.113,315.0,Sano,Pastoreo rotativo
+344,Justiniana Sayhua de Cayo,4,Macho,2,44.0,47.5,51.0,54.5,10.5,0.113,434.0,Sano,Pastoreo rotativo
+345,Justiniana Sayhua de Cayo,5,Macho,2,37.0,40.0,43.5,46.5,9.5,0.103,371.0,Sano,Manejo en ahijadero
+346,Justiniana Sayhua de Cayo,6,Macho,2,46.0,49.0,52.5,56.0,10.0,0.112,483.0,Sano,Pastoreo rotativo
+347,Justiniana Sayhua de Cayo,7,Macho,2,29.0,32.0,35.5,39.0,10.0,0.109,308.0,Sano,Manejo en ahijadero
+348,Justiniana Sayhua de Cayo,8,Hembra,4,28.5,31.5,35.0,38.0,9.5,0.11,322.0,Sano,Desparasitación y vitaminas
+349,Justiniana Sayhua de Cayo,9,Macho,2,39.5,42.5,45.5,48.5,9.0,0.107,406.0,Baja,Enterotoxemia (mortalidad)
+350,Justiniana Sayhua de Cayo,10,Macho,2,41.5,44.5,47.5,50.5,9.0,0.109,399.0,Sano,Pastoreo rotativo
+351,Justiniana Sayhua de Cayo,11,Macho,2,30.5,34.0,37.5,41.0,10.5,0.107,322.0,Sano,Suplementación con forraje
+352,Justiniana Sayhua de Cayo,12,Hembra,Boca Llena,28.5,32.0,35.0,38.0,9.5,0.114,301.0,Sano,Suplementación con forraje
+353,Justiniana Sayhua de Cayo,13,Macho,2,29.0,32.0,35.5,38.5,9.5,0.11,329.0,Sano,Desparasitación y vitaminas
+354,Justiniana Sayhua de Cayo,14,Hembra,4,43.0,46.0,49.0,52.0,9.0,0.108,399.0,Sano,Desparasitación y vitaminas
+355,Justiniana Sayhua de Cayo,15,Macho,2,38.0,41.5,45.0,48.5,10.5,0.113,406.0,Baja,Neumonía por friaje (mortalidad)
+356,Justiniana Sayhua de Cayo,16,Macho,2,44.5,47.5,50.5,53.5,9.0,0.106,434.0,Sano,Suplementación con forraje
+357,Justiniana Sayhua de Cayo,17,Macho,4,46.5,49.5,52.5,56.0,9.5,0.108,434.0,Sano,Desparasitación y vitaminas
+358,Saturnina Tacca Puma,1,Macho,2,43.0,46.0,49.0,52.0,9.0,0.103,448.0,Sano,Desparasitación y vitaminas
+359,Saturnina Tacca Puma,2,Hembra,4,47.5,50.5,54.0,57.0,9.5,0.103,455.0,Sano,Pastoreo rotativo
+360,Saturnina Tacca Puma,3,Macho,2,32.0,35.0,38.0,41.0,9.0,0.105,343.0,Sano,Suplementación con forraje
+361,Saturnina Tacca Puma,4,Macho,2,35.5,39.0,42.0,45.5,10.0,0.102,364.0,Sano,Suplementación heno de alfalfa
+362,Saturnina Tacca Puma,5,Macho,2,40.0,43.0,46.0,49.0,9.0,0.102,385.0,Sano,Desparasitación y vitaminas
+363,Saturnina Tacca Puma,6,Macho,2,39.0,42.5,46.0,49.5,10.5,0.109,406.0,En observación,Requiere seguimiento sanitario
+364,Saturnina Tacca Puma,7,Macho,2,46.0,49.0,52.0,55.0,9.0,0.107,427.0,Sano,Suplementación heno de alfalfa
+365,Saturnina Tacca Puma,8,Macho,2,30.0,33.5,36.5,39.5,9.5,0.107,329.0,Sano,Manejo en ahijadero
+366,Saturnina Tacca Puma,9,Macho,2,28.0,31.0,34.0,37.0,9.0,0.103,308.0,Sano,Suplementación con forraje
+367,Saturnina Tacca Puma,10,Macho,2,33.5,37.0,40.5,44.0,10.5,0.109,343.0,Sano,Pastoreo rotativo
+368,Saturnina Tacca Puma,11,Macho,4,33.5,36.5,39.5,42.5,9.0,0.107,350.0,Sano,Manejo en ahijadero
+369,Saturnina Tacca Puma,12,Macho,2,29.0,32.0,35.0,38.0,9.0,0.105,329.0,Sano,Manejo en ahijadero
+370,Saturnina Tacca Puma,13,Macho,2,37.5,41.0,44.0,47.5,10.0,0.111,385.0,Sano,Manejo en ahijadero
+371,Saturnina Tacca Puma,14,Macho,2,33.5,36.5,39.5,42.5,9.0,0.103,364.0,Sano,Desparasitación y vitaminas
+372,Saturnina Tacca Puma,15,Macho,2,26.0,29.5,33.0,36.5,10.5,0.112,301.0,Sano,Suplementación con forraje
+373,Saturnina Tacca Puma,16,Macho,2,27.5,31.0,34.0,37.0,9.5,0.103,287.0,Sano,Desparasitación y vitaminas
+374,Saturnina Tacca Puma,17,Hembra,Boca Llena,29.0,32.0,35.5,39.0,10.0,0.103,322.0,Sano,Manejo en ahijadero
+375,Lucio Tito Ccama,1,Macho,2,33.0,36.0,39.0,42.0,9.0,0.1,343.0,Sano,Manejo en ahijadero
+376,Lucio Tito Ccama,2,Macho,2,46.5,50.0,53.0,56.5,10.0,0.105,469.0,Sano,Manejo en ahijadero
+377,Lucio Tito Ccama,3,Macho,2,29.5,32.5,36.0,39.5,10.0,0.11,336.0,Sano,Suplementación heno de alfalfa
+378,Lucio Tito Ccama,4,Macho,2,37.0,40.0,43.0,46.5,9.5,0.103,364.0,Sano,Pastoreo rotativo
+379,Lucio Tito Ccama,5,Macho,2,43.5,47.0,50.0,53.5,10.0,0.108,434.0,Sano,Desparasitación y vitaminas
+380,Lucio Tito Ccama,6,Hembra,Boca Llena,41.5,45.0,48.5,51.5,10.0,0.107,434.0,Sano,Pastoreo rotativo
+381,Lucio Tito Ccama,7,Macho,2,36.0,39.5,43.0,46.5,10.5,0.113,364.0,Sano,Manejo en ahijadero
+382,Lucio Tito Ccama,8,Macho,2,30.5,34.0,37.5,41.0,10.5,0.11,357.0,Sano,Suplementación con forraje
+383,Lucio Tito Ccama,9,Macho,2,42.5,45.5,49.0,52.0,9.5,0.113,427.0,Sano,Manejo en ahijadero
+384,Lucio Tito Ccama,10,Macho,2,41.5,45.0,48.5,51.5,10.0,0.109,413.0,Sano,Suplementación heno de alfalfa
+385,Lucio Tito Ccama,11,Macho,2,40.0,43.0,46.0,49.0,9.0,0.105,399.0,Sano,Suplementación heno de alfalfa
+386,Lucio Tito Ccama,12,Macho,2,29.0,32.0,35.0,37.5,8.5,0.101,308.0,Sano,Desparasitación y vitaminas
+387,Lucio Tito Ccama,13,Macho,2,31.0,34.0,37.0,40.0,9.0,0.105,329.0,Sano,Pastoreo rotativo
+388,Lucio Tito Ccama,14,Hembra,4,40.5,43.5,46.5,50.0,9.5,0.109,399.0,Sano,Suplementación con forraje
+389,Lucio Tito Ccama,15,Macho,2,45.5,48.5,51.5,55.0,9.5,0.11,462.0,Sano,Suplementación heno de alfalfa
+390,Lucio Tito Ccama,16,Hembra,4,28.0,31.5,34.5,38.0,10.0,0.109,322.0,Sano,Suplementación heno de alfalfa
+391,Lucio Tito Ccama,17,Macho,Boca Llena,35.5,39.0,42.0,45.5,10.0,0.105,364.0,En observación,Requiere seguimiento sanitario
+392,Ceferino Victoriano Ttacca Puma,1,Macho,2,42.0,45.0,48.0,51.5,9.5,0.11,434.0,Sano,Pastoreo rotativo
+393,Ceferino Victoriano Ttacca Puma,2,Macho,2,28.5,32.0,35.0,38.0,9.5,0.105,301.0,En observación,Tratamiento antiparasitario en curso
+394,Ceferino Victoriano Ttacca Puma,3,Macho,2,30.5,33.5,36.5,39.5,9.0,0.101,315.0,Sano,Suplementación heno de alfalfa
+395,Ceferino Victoriano Ttacca Puma,4,Hembra,Boca Llena,39.0,42.0,45.5,49.0,10.0,0.11,385.0,Sano,Manejo en ahijadero
+396,Ceferino Victoriano Ttacca Puma,5,Macho,2,37.0,40.0,43.0,46.0,9.0,0.106,357.0,Sano,Suplementación heno de alfalfa
+397,Ceferino Victoriano Ttacca Puma,6,Macho,4,42.0,45.0,48.0,51.0,9.0,0.103,420.0,Sano,Suplementación con forraje
+398,Ceferino Victoriano Ttacca Puma,7,Macho,2,26.5,29.0,32.0,35.0,8.5,0.1,301.0,Sano,Desparasitación y vitaminas
+399,Ceferino Victoriano Ttacca Puma,8,Macho,2,45.5,48.5,52.0,55.5,10.0,0.111,434.0,Sano,Manejo en ahijadero
+400,Ceferino Victoriano Ttacca Puma,9,Macho,4,31.5,34.5,37.5,41.0,9.5,0.104,322.0,Sano,Manejo en ahijadero
+401,Ceferino Victoriano Ttacca Puma,10,Macho,2,38.0,41.0,44.0,47.0,9.0,0.1,371.0,Sano,Suplementación heno de alfalfa
+402,Ceferino Victoriano Ttacca Puma,11,Hembra,Boca Llena,45.5,49.0,52.5,56.0,10.5,0.113,483.0,Sano,Desparasitación y vitaminas
+403,Ceferino Victoriano Ttacca Puma,12,Hembra,Boca Llena,32.5,35.5,39.0,42.5,10.0,0.113,336.0,Sano,Desparasitación y vitaminas
+404,Ceferino Victoriano Ttacca Puma,13,Hembra,Boca Llena,44.0,47.0,50.0,53.5,9.5,0.11,427.0,Sano,Pastoreo rotativo
+405,Ceferino Victoriano Ttacca Puma,14,Macho,2,33.5,37.0,40.0,43.5,10.0,0.108,371.0,Sano,Suplementación heno de alfalfa
+406,Ceferino Victoriano Ttacca Puma,15,Macho,2,25.5,28.5,32.0,35.0,9.5,0.104,301.0,Sano,Suplementación con forraje
+407,Ceferino Victoriano Ttacca Puma,16,Macho,2,29.0,32.5,36.0,39.0,10.0,0.113,308.0,Sano,Pastoreo rotativo
+408,Ceferino Victoriano Ttacca Puma,17,Macho,2,30.0,33.5,37.0,40.5,10.5,0.109,343.0,Sano,Desparasitación y vitaminas
+409,Toribio Ttacca Huaman,1,Macho,2,46.5,49.5,52.5,55.5,9.0,0.109,441.0,Sano,Suplementación heno de alfalfa
+410,Toribio Ttacca Huaman,2,Macho,2,44.0,47.0,50.0,53.0,9.0,0.106,434.0,En observación,Tratamiento antiparasitario en curso
+411,Toribio Ttacca Huaman,3,Hembra,Boca Llena,31.0,34.0,37.5,40.5,9.5,0.111,322.0,Sano,Pastoreo rotativo
+412,Toribio Ttacca Huaman,4,Hembra,4,37.0,40.0,43.5,46.5,9.5,0.103,406.0,Sano,Manejo en ahijadero
+413,Toribio Ttacca Huaman,5,Macho,2,29.5,32.5,36.0,39.0,9.5,0.113,322.0,Sano,Manejo en ahijadero
+414,Toribio Ttacca Huaman,6,Hembra,Boca Llena,37.0,40.0,43.0,46.0,9.0,0.101,392.0,Sano,Suplementación heno de alfalfa
+415,Toribio Ttacca Huaman,7,Hembra,4,41.0,44.0,47.0,50.0,9.0,0.107,434.0,Sano,Manejo en ahijadero
+416,Toribio Ttacca Huaman,8,Macho,2,33.5,37.0,40.5,44.0,10.5,0.111,357.0,Sano,Desparasitación y vitaminas
+417,Toribio Ttacca Huaman,9,Macho,2,45.0,48.0,51.0,54.0,9.0,0.1,448.0,Sano,Desparasitación y vitaminas
+418,Toribio Ttacca Huaman,10,Macho,2,35.0,38.5,42.0,45.0,10.0,0.105,357.0,Sano,Manejo en ahijadero
+419,Toribio Ttacca Huaman,11,Hembra,4,43.0,46.5,50.0,53.0,10.0,0.109,420.0,Sano,Pastoreo rotativo
+420,Toribio Ttacca Huaman,12,Macho,2,36.0,39.0,42.0,45.5,9.5,0.114,392.0,Sano,Desparasitación y vitaminas
+421,Toribio Ttacca Huaman,13,Macho,2,41.0,44.5,47.5,50.5,9.5,0.108,399.0,Sano,Manejo en ahijadero
+422,Toribio Ttacca Huaman,14,Hembra,Boca Llena,43.0,46.5,49.5,52.5,9.5,0.107,406.0,Sano,Manejo en ahijadero
+423,Toribio Ttacca Huaman,15,Macho,4,36.5,39.5,42.5,46.0,9.5,0.107,392.0,Sano,Desparasitación y vitaminas
+424,Toribio Ttacca Huaman,16,Hembra,Boca Llena,33.5,37.0,40.5,43.5,10.0,0.109,350.0,Sano,Pastoreo rotativo
+425,Toribio Ttacca Huaman,17,Hembra,Boca Llena,28.0,31.5,35.0,38.5,10.5,0.112,308.0,Sano,Suplementación heno de alfalfa
+426,Silvia Villanueva Condori,1,Hembra,Boca Llena,31.0,34.0,37.5,41.0,10.0,0.11,315.0,Sano,Desparasitación y vitaminas
+427,Silvia Villanueva Condori,2,Hembra,Boca Llena,31.5,34.5,37.5,40.5,9.0,0.102,350.0,En observación,Tratamiento antiparasitario en curso
+428,Silvia Villanueva Condori,3,Hembra,Boca Llena,27.0,30.0,33.0,36.5,9.5,0.107,280.0,Sano,Suplementación con forraje
+429,Silvia Villanueva Condori,4,Hembra,Boca Llena,28.5,32.0,35.0,38.0,9.5,0.109,301.0,Sano,Suplementación heno de alfalfa
+430,Silvia Villanueva Condori,5,Hembra,4,34.5,37.5,41.0,44.0,9.5,0.107,364.0,Sano,Manejo en ahijadero
+431,Silvia Villanueva Condori,6,Macho,2,42.5,46.0,49.0,52.0,9.5,0.113,448.0,Sano,Pastoreo rotativo
+432,Silvia Villanueva Condori,7,Macho,4,39.5,43.0,46.0,49.5,10.0,0.11,385.0,Sano,Suplementación con forraje
+433,Silvia Villanueva Condori,8,Macho,2,40.0,43.5,46.5,50.0,10.0,0.111,427.0,Sano,Desparasitación y vitaminas
+434,Silvia Villanueva Condori,9,Macho,2,38.5,41.5,44.5,48.0,9.5,0.105,399.0,Sano,Manejo en ahijadero
+435,Silvia Villanueva Condori,10,Macho,2,28.5,31.5,34.5,37.5,9.0,0.102,315.0,Sano,Manejo en ahijadero
+436,Silvia Villanueva Condori,11,Macho,2,37.5,41.0,44.0,47.5,10.0,0.106,406.0,Sano,Suplementación heno de alfalfa
+437,Silvia Villanueva Condori,12,Macho,2,32.5,36.0,39.5,43.0,10.5,0.111,343.0,Sano,Suplementación heno de alfalfa
+438,Silvia Villanueva Condori,13,Macho,2,31.0,34.5,37.5,40.5,9.5,0.11,329.0,Sano,Suplementación heno de alfalfa
+439,Silvia Villanueva Condori,14,Hembra,4,28.0,31.0,34.5,38.0,10.0,0.11,301.0,En observación,Requiere seguimiento sanitario
+440,Silvia Villanueva Condori,15,Macho,2,35.0,38.0,41.5,44.5,9.5,0.102,364.0,Sano,Manejo en ahijadero
+441,Silvia Villanueva Condori,16,Macho,2,39.5,43.0,46.0,49.5,10.0,0.112,413.0,Sano,Suplementación con forraje
+442,Silvia Villanueva Condori,17,Macho,2,30.0,33.5,36.5,40.0,10.0,0.108,343.0,Sano,Desparasitación y vitaminas
+443,Lucia Martinez Checmapocco,1,Hembra,Boca Llena,37.5,41.0,44.5,48.0,10.5,0.107,399.0,Sano,Suplementación heno de alfalfa
+444,Lucia Martinez Checmapocco,2,Macho,2,38.5,42.0,45.0,48.0,9.5,0.109,413.0,Sano,Suplementación con forraje
+445,Lucia Martinez Checmapocco,3,Macho,2,32.0,35.5,39.0,42.5,10.5,0.11,343.0,Sano,Suplementación con forraje
+446,Lucia Martinez Checmapocco,4,Hembra,Boca Llena,43.5,46.5,49.5,52.5,9.0,0.103,413.0,Sano,Pastoreo rotativo
+447,Lucia Martinez Checmapocco,5,Macho,2,32.5,36.0,39.0,42.0,9.5,0.112,336.0,En observación,Baja respuesta al engorde
+448,Lucia Martinez Checmapocco,6,Macho,2,47.5,51.0,54.5,57.5,10.0,0.104,469.0,Sano,Manejo en ahijadero
+449,Lucia Martinez Checmapocco,7,Macho,2,42.5,45.5,49.0,52.0,9.5,0.104,413.0,Sano,Desparasitación y vitaminas
+450,Lucia Martinez Checmapocco,8,Hembra,2,36.0,39.0,42.0,45.5,9.5,0.1,364.0,Sano,Pastoreo rotativo
+451,Lucia Martinez Checmapocco,9,Macho,4,45.0,48.5,51.5,55.0,10.0,0.11,455.0,En observación,Requiere seguimiento sanitario
+452,Lucia Martinez Checmapocco,10,Macho,2,29.5,32.5,35.5,38.5,9.0,0.102,308.0,Sano,Suplementación con forraje
+453,Lucia Martinez Checmapocco,11,Macho,2,44.5,47.5,51.0,54.5,10.0,0.107,427.0,Sano,Suplementación con forraje
+454,Lucia Martinez Checmapocco,12,Macho,2,27.5,30.5,33.5,36.5,9.0,0.105,287.0,Sano,Pastoreo rotativo
+455,Lucia Martinez Checmapocco,13,Macho,4,26.0,29.0,32.5,36.0,10.0,0.105,287.0,Sano,Suplementación con forraje
+456,Lucia Martinez Checmapocco,14,Macho,2,44.5,47.5,50.5,53.5,9.0,0.108,448.0,Sano,Pastoreo rotativo
+457,Lucia Martinez Checmapocco,15,Macho,2,40.0,43.5,47.0,50.5,10.5,0.109,420.0,Sano,Suplementación heno de alfalfa
+458,Lucia Martinez Checmapocco,16,Macho,2,40.0,43.0,46.0,49.0,9.0,0.101,392.0,Sano,Pastoreo rotativo
+459,Lucia Martinez Checmapocco,17,Macho,2,46.0,49.5,53.0,56.5,10.5,0.11,476.0,Sano,Pastoreo rotativo

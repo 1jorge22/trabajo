@@ -1,0 +1,272 @@
+ENERO - ABRIL,,,,,,,,,,,,,,
+Socio,ID,Sexo,Edad,Manejo,Peso Inicial (Kg),Control 1 (Kg),Control 2 (Kg),Control 3 (Kg),Peso Final (Kg),Ganancia Neta (Kg),kg/dia,Peso Carcasa (Kg),Ingreso S/.,Observaciones
+Edgar Cahuana Tacca,1,M,2,Promedio,41,43,45.4,48.5,52,11,0.092,28.6,400.4,Tui macho - engorde en potreros
+Edgar Cahuana Tacca,2,M,2,Promedio,30,32.3,35.2,38.8,43,13,0.108,23.7,331.8,Compra flaco - ganancia compensatoria
+Edgar Cahuana Tacca,3,H,4,Promedio,46,47.4,49.2,51.4,54,8,0.067,29.7,415.8,Descarte hato - limitada por edad
+Edgar Cahuana Tacca,4,M,2,Promedio,39,40.9,43.3,46.3,49.8,10.8,0.09,27.4,383.6,Tui macho - engorde en potreros
+Edgar Cahuana Tacca,5,M,2,Promedio,33,35.3,38,41.5,45.5,12.5,0.104,25,350,Compra flaco - compensatoria
+Edgar Cahuana Tacca,6,H,2,Promedio,42,43.8,46,48.8,52,10,0.083,28.6,400.4,Descarte hato - rotacion
+Edgar Cahuana Tacca,7,M,2,Promedio,35,37.1,39.6,42.8,46.5,11.5,0.096,25.6,358.4,Compra externo - suplementacion
+Edgar Cahuana Tacca,8,M,Boca Llena,Promedio,52,53.2,54.6,56.4,58.5,6.5,0.054,32.2,450.8,Animal viejo - minima por edad
+Edgar Cahuana Tacca,9,M,2,Promedio,44,45.9,48.2,51.1,54.5,10.5,0.088,30,420,Tui macho - engorde en potreros
+Edgar Cahuana Tacca,10,M,2,Promedio,36,38,40.4,43.5,47,11,0.092,25.9,362.6,Compra externo - engorde
+Martina Choquepata Huanca,1,M,2,Bueno,42,44.3,47.1,50.7,54.7,12.7,0.106,30.1,421.4,Tui macho - manejo bueno
+Martina Choquepata Huanca,2,M,2,Bueno,31,33.6,36.8,40.9,45.5,14.5,0.121,25,350,Compra flaco - fuerte compensatoria
+Martina Choquepata Huanca,3,H,4,Bueno,47,48.7,50.7,53.3,56.2,9.2,0.077,30.9,432.6,Descarte hato - engorde para saca
+Martina Choquepata Huanca,4,M,2,Bueno,40,42.2,45,48.4,52.4,12.4,0.103,28.8,403.2,Tui macho - engorde
+Martina Choquepata Huanca,5,M,2,Bueno,34,36.6,39.8,43.8,48.4,14.4,0.12,26.6,372.4,Compra flaco - compensatoria
+Martina Choquepata Huanca,6,H,2,Bueno,43,45.1,47.6,50.8,54.5,11.5,0.096,30,420,Descarte hato - rotacion
+Martina Choquepata Huanca,7,M,2,Bueno,36,38.4,41.3,45,49.2,13.2,0.11,27.1,379.4,Compra externo - suplementacion
+Martina Choquepata Huanca,8,M,Boca Llena,Bueno,53,54.4,56,58.1,60.5,7.5,0.063,33.3,466.2,Animal viejo - limitada por edad
+Martina Choquepata Huanca,9,M,2,Bueno,45,47.2,49.9,53.3,57.1,12.1,0.101,31.4,439.6,Tui macho - engorde
+Martina Choquepata Huanca,10,M,2,Bueno,37,39.3,42.1,,,,,,0,Compra flaco - muerte dia 75 (neumonia)
+Dionicio Choquetocro Guzman,1,M,2,Promedio,41,43,45.4,48.5,52,11,0.092,28.6,400.4,Tui macho - engorde en potreros
+Dionicio Choquetocro Guzman,2,M,2,Promedio,30,32.3,35.2,38.8,43,13,0.108,23.7,331.8,Compra flaco - compensatoria
+Dionicio Choquetocro Guzman,3,H,4,Promedio,46,47.4,49.2,51.4,54,8,0.067,29.7,415.8,Descarte hato - limitada por edad
+Dionicio Choquetocro Guzman,4,M,2,Promedio,39,40.9,43.3,46.3,49.8,10.8,0.09,27.4,383.6,Tui macho - engorde en potreros
+Dionicio Choquetocro Guzman,5,M,2,Promedio,33,35.3,38,41.5,45.5,12.5,0.104,25,350,Compra flaco - compensatoria
+Dionicio Choquetocro Guzman,6,H,2,Promedio,42,43.8,46,48.8,52,10,0.083,28.6,400.4,Descarte hato - rotacion
+Dionicio Choquetocro Guzman,7,M,2,Promedio,35,37.1,39.6,42.8,46.5,11.5,0.096,25.6,358.4,Compra externo - suplementacion
+Dionicio Choquetocro Guzman,8,M,Boca Llena,Promedio,52,53.2,54.6,56.4,58.5,6.5,0.054,32.2,450.8,Animal viejo - minima por edad
+Dionicio Choquetocro Guzman,9,M,2,Promedio,44,45.9,48.2,51.1,54.5,10.5,0.088,30,420,Tui macho - engorde en potreros
+Dionicio Choquetocro Guzman,10,M,2,Promedio,36,38,40.4,,,,,,0,Compra externo - muerte dia 80 (timpanismo)
+Gerardo Chura Chura,1,M,2,Bueno,42,44.3,47.1,50.7,54.7,12.7,0.106,30.1,421.4,Tui macho - manejo bueno
+Gerardo Chura Chura,2,M,2,Bueno,31,33.6,36.8,40.9,45.5,14.5,0.121,25,350,Compra flaco - fuerte compensatoria
+Gerardo Chura Chura,3,H,4,Bueno,47,48.7,50.7,53.3,56.2,9.2,0.077,30.9,432.6,Descarte hato - engorde para saca
+Gerardo Chura Chura,4,M,2,Bueno,40,42.2,45,48.4,52.4,12.4,0.103,28.8,403.2,Tui macho - engorde
+Gerardo Chura Chura,5,M,2,Bueno,34,36.6,39.8,43.8,48.4,14.4,0.12,26.6,372.4,Compra flaco - compensatoria
+Gerardo Chura Chura,6,H,2,Bueno,43,45.1,47.6,50.8,54.5,11.5,0.096,30,420,Descarte hato - rotacion
+Gerardo Chura Chura,7,M,2,Bueno,36,38.4,41.3,45,49.2,13.2,0.11,27.1,379.4,Compra externo - suplementacion
+Gerardo Chura Chura,8,M,Boca Llena,Bueno,53,54.4,56,58.1,60.5,7.5,0.063,33.3,466.2,Animal viejo - limitada por edad
+Gerardo Chura Chura,9,M,2,Bueno,45,47.2,49.9,53.3,57.1,12.1,0.101,31.4,439.6,Tui macho - engorde
+Gerardo Chura Chura,10,M,2,Bueno,37,39.3,42.1,45.7,49.7,12.7,0.106,27.3,382.2,Compra externo - engorde
+Nilda Norma Condori Herrara,1,M,2,Deficiente,40,41.7,43.8,46.4,49.4,9.4,0.078,27.2,380.8,Tui macho - pastoreo pobre en seca
+Nilda Norma Condori Herrara,2,M,2,Deficiente,29,31,33.4,36.5,40,11,0.092,22,308,Compra flaco - recuperacion lenta
+Nilda Norma Condori Herrara,3,H,4,Deficiente,45,46.2,47.7,49.6,51.8,6.8,0.057,28.5,399,Descarte hato - minima
+Nilda Norma Condori Herrara,4,M,2,Deficiente,38,39.7,41.7,44.3,47.2,9.2,0.077,26,364,Tui macho - engorde limitado
+Nilda Norma Condori Herrara,5,M,2,Deficiente,32,33.9,36.2,39.2,42.6,10.6,0.088,23.4,327.6,Compra flaco - compensatoria moderada
+Nilda Norma Condori Herrara,6,H,2,Deficiente,41,42.5,44.4,46.8,49.5,8.5,0.071,27.2,380.8,Descarte hato - rotacion
+Nilda Norma Condori Herrara,7,M,2,Deficiente,34,35.8,37.9,40.7,43.8,9.8,0.082,24.1,337.4,Compra externo - engorde limitado
+Nilda Norma Condori Herrara,8,M,Boca Llena,Deficiente,51,52,53.2,54.8,56.5,5.5,0.046,31.1,435.4,Animal viejo - casi nula por edad
+Nilda Norma Condori Herrara,9,M,2,Deficiente,43,44.6,46.6,49.1,52,9,0.075,28.6,400.4,Tui macho - engorde limitado
+Nilda Norma Condori Herrara,10,M,2,Deficiente,35,36.7,38.8,41.4,44.4,9.4,0.078,24.4,341.6,Compra externo - engorde limitado
+Walquer Victor Calderon Sanchez,1,M,2,Deficiente,40,41.7,43.8,46.4,49.4,9.4,0.078,27.2,380.8,Tui macho - pastoreo pobre en seca
+Walquer Victor Calderon Sanchez,2,M,2,Deficiente,29,31,33.4,36.5,40,11,0.092,22,308,Compra flaco - recuperacion lenta
+Walquer Victor Calderon Sanchez,3,H,4,Deficiente,45,46.2,47.7,49.6,51.8,6.8,0.057,28.5,399,Descarte hato - minima
+Walquer Victor Calderon Sanchez,4,M,2,Deficiente,38,39.7,41.7,44.3,47.2,9.2,0.077,26,364,Tui macho - engorde limitado
+Walquer Victor Calderon Sanchez,5,M,2,Deficiente,32,33.9,36.2,39.2,42.6,10.6,0.088,23.4,327.6,Compra flaco - compensatoria moderada
+Walquer Victor Calderon Sanchez,6,H,2,Deficiente,41,42.5,44.4,46.8,49.5,8.5,0.071,27.2,380.8,Descarte hato - rotacion
+Walquer Victor Calderon Sanchez,7,M,2,Deficiente,34,35.8,37.9,40.7,43.8,9.8,0.082,24.1,337.4,Compra externo - engorde limitado
+Walquer Victor Calderon Sanchez,8,M,Boca Llena,Deficiente,51,52,53.2,54.8,56.5,5.5,0.046,31.1,435.4,Animal viejo - casi nula por edad
+Walquer Victor Calderon Sanchez,9,M,2,Deficiente,43,44.6,46.6,49.1,52,9,0.075,28.6,400.4,Tui macho - engorde limitado
+Walquer Victor Calderon Sanchez,10,M,2,Deficiente,35,36.7,38.8,,,,,,0,Compra flaco - muerte dia 65 (neumonia)
+Pascual Callo Huallpa,1,M,2,Promedio,41,43,45.4,48.5,52,11,0.092,28.6,400.4,Tui macho - engorde en potreros
+Pascual Callo Huallpa,2,M,2,Promedio,30,32.3,35.2,38.8,43,13,0.108,23.7,331.8,Compra flaco - compensatoria
+Pascual Callo Huallpa,3,H,4,Promedio,46,47.4,49.2,51.4,54,8,0.067,29.7,415.8,Descarte hato - limitada por edad
+Pascual Callo Huallpa,4,M,2,Promedio,39,40.9,43.3,46.3,49.8,10.8,0.09,27.4,383.6,Tui macho - engorde en potreros
+Pascual Callo Huallpa,5,M,2,Promedio,33,35.3,38,41.5,45.5,12.5,0.104,25,350,Compra flaco - compensatoria
+Pascual Callo Huallpa,6,H,2,Promedio,42,43.8,46,48.8,52,10,0.083,28.6,400.4,Descarte hato - rotacion
+Pascual Callo Huallpa,7,M,2,Promedio,35,37.1,39.6,42.8,46.5,11.5,0.096,25.6,358.4,Compra externo - suplementacion
+Pascual Callo Huallpa,8,M,Boca Llena,Promedio,52,53.2,54.6,56.4,58.5,6.5,0.054,32.2,450.8,Animal viejo - minima por edad
+Pascual Callo Huallpa,9,M,2,Promedio,44,45.9,48.2,51.1,54.5,10.5,0.088,30,420,Tui macho - engorde en potreros
+Pascual Callo Huallpa,10,M,2,Promedio,36,38,40.4,43.5,47,11,0.092,25.9,362.6,Compra externo - engorde
+Felimon Chislla Tito,1,M,2,Bueno,42,44.3,47.1,50.7,54.7,12.7,0.106,30.1,421.4,Tui macho - manejo bueno
+Felimon Chislla Tito,2,M,2,Bueno,31,33.6,36.8,40.9,45.5,14.5,0.121,25,350,Compra flaco - fuerte compensatoria
+Felimon Chislla Tito,3,H,4,Bueno,47,48.7,50.7,53.3,56.2,9.2,0.077,30.9,432.6,Descarte hato - engorde para saca
+Felimon Chislla Tito,4,M,2,Bueno,40,42.2,45,48.4,52.4,12.4,0.103,28.8,403.2,Tui macho - engorde
+Felimon Chislla Tito,5,M,2,Bueno,34,36.6,39.8,43.8,48.4,14.4,0.12,26.6,372.4,Compra flaco - compensatoria
+Felimon Chislla Tito,6,H,2,Bueno,43,45.1,47.6,50.8,54.5,11.5,0.096,30,420,Descarte hato - rotacion
+Felimon Chislla Tito,7,M,2,Bueno,36,38.4,41.3,45,49.2,13.2,0.11,27.1,379.4,Compra externo - suplementacion
+Felimon Chislla Tito,8,M,Boca Llena,Bueno,53,54.4,56,58.1,60.5,7.5,0.063,33.3,466.2,Animal viejo - limitada por edad
+Felimon Chislla Tito,9,M,2,Bueno,45,47.2,49.9,53.3,57.1,12.1,0.101,31.4,439.6,Tui macho - engorde
+Felimon Chislla Tito,10,M,2,Bueno,37,39.3,42.1,45.7,49.7,12.7,0.106,27.3,382.2,Compra externo - engorde
+Soledad del Carpio Antezana,1,M,2,Deficiente,40,41.7,43.8,46.4,49.4,9.4,0.078,27.2,380.8,Tui macho - pastoreo pobre en seca
+Soledad del Carpio Antezana,2,M,2,Deficiente,29,31,33.4,36.5,40,11,0.092,22,308,Compra flaco - recuperacion lenta
+Soledad del Carpio Antezana,3,H,4,Deficiente,45,46.2,47.7,49.6,51.8,6.8,0.057,28.5,399,Descarte hato - minima
+Soledad del Carpio Antezana,4,M,2,Deficiente,38,39.7,41.7,44.3,47.2,9.2,0.077,26,364,Tui macho - engorde limitado
+Soledad del Carpio Antezana,5,M,2,Deficiente,32,33.9,36.2,39.2,42.6,10.6,0.088,23.4,327.6,Compra flaco - compensatoria moderada
+Soledad del Carpio Antezana,6,H,2,Deficiente,41,42.5,44.4,46.8,49.5,8.5,0.071,27.2,380.8,Descarte hato - rotacion
+Soledad del Carpio Antezana,7,M,2,Deficiente,34,35.8,37.9,40.7,43.8,9.8,0.082,24.1,337.4,Compra externo - engorde limitado
+Soledad del Carpio Antezana,8,M,Boca Llena,Deficiente,51,52,53.2,54.8,56.5,5.5,0.046,31.1,435.4,Animal viejo - casi nula por edad
+Soledad del Carpio Antezana,9,M,2,Deficiente,43,44.6,46.6,49.1,52,9,0.075,28.6,400.4,Tui macho - engorde limitado
+Soledad del Carpio Antezana,10,M,2,Deficiente,35,36.7,38.8,,,,,,0,Compra flaco - muerte dia 88 (timpanismo)
+Edwin del Carpio Antezana,1,M,2,Bueno,42,44.3,47.1,50.7,54.7,12.7,0.106,30.1,421.4,Tui macho - manejo bueno
+Edwin del Carpio Antezana,2,M,2,Bueno,31,33.6,36.8,40.9,45.5,14.5,0.121,25,350,Compra flaco - fuerte compensatoria
+Edwin del Carpio Antezana,3,H,4,Bueno,47,48.7,50.7,53.3,56.2,9.2,0.077,30.9,432.6,Descarte hato - engorde para saca
+Edwin del Carpio Antezana,4,M,2,Bueno,40,42.2,45,48.4,52.4,12.4,0.103,28.8,403.2,Tui macho - engorde
+Edwin del Carpio Antezana,5,M,2,Bueno,34,36.6,39.8,43.8,48.4,14.4,0.12,26.6,372.4,Compra flaco - compensatoria
+Edwin del Carpio Antezana,6,H,2,Bueno,43,45.1,47.6,50.8,54.5,11.5,0.096,30,420,Descarte hato - rotacion
+Edwin del Carpio Antezana,7,M,2,Bueno,36,38.4,41.3,45,49.2,13.2,0.11,27.1,379.4,Compra externo - suplementacion
+Edwin del Carpio Antezana,8,M,Boca Llena,Bueno,53,54.4,56,58.1,60.5,7.5,0.063,33.3,466.2,Animal viejo - limitada por edad
+Edwin del Carpio Antezana,9,M,2,Bueno,45,47.2,49.9,53.3,57.1,12.1,0.101,31.4,439.6,Tui macho - engorde
+Edwin del Carpio Antezana,10,M,2,Bueno,37,39.3,42.1,45.7,49.7,12.7,0.106,27.3,382.2,Compra externo - engorde
+Nayeli Rosario Guerra Condori,1,M,2,Promedio,41,43,45.4,48.5,52,11,0.092,28.6,400.4,Tui macho - engorde en potreros
+Nayeli Rosario Guerra Condori,2,M,2,Promedio,30,32.3,35.2,38.8,43,13,0.108,23.7,331.8,Compra flaco - compensatoria
+Nayeli Rosario Guerra Condori,3,H,4,Promedio,46,47.4,49.2,51.4,54,8,0.067,29.7,415.8,Descarte hato - limitada por edad
+Nayeli Rosario Guerra Condori,4,M,2,Promedio,39,40.9,43.3,46.3,49.8,10.8,0.09,27.4,383.6,Tui macho - engorde en potreros
+Nayeli Rosario Guerra Condori,5,M,2,Promedio,33,35.3,38,41.5,45.5,12.5,0.104,25,350,Compra flaco - compensatoria
+Nayeli Rosario Guerra Condori,6,H,2,Promedio,42,43.8,46,48.8,52,10,0.083,28.6,400.4,Descarte hato - rotacion
+Nayeli Rosario Guerra Condori,7,M,2,Promedio,35,37.1,39.6,42.8,46.5,11.5,0.096,25.6,358.4,Compra externo - suplementacion
+Nayeli Rosario Guerra Condori,8,M,Boca Llena,Promedio,52,53.2,54.6,56.4,58.5,6.5,0.054,32.2,450.8,Animal viejo - minima por edad
+Nayeli Rosario Guerra Condori,9,M,2,Promedio,44,45.9,48.2,51.1,54.5,10.5,0.088,30,420,Tui macho - engorde en potreros
+Nayeli Rosario Guerra Condori,10,M,2,Promedio,36,38,40.4,43.5,47,11,0.092,25.9,362.6,Compra externo - engorde
+Jorge Luis Huaman Quispe,1,M,2,Promedio,41,43,45.4,48.5,52,11,0.092,28.6,400.4,Tui macho - engorde en potreros
+Jorge Luis Huaman Quispe,2,M,2,Promedio,30,32.3,35.2,38.8,43,13,0.108,23.7,331.8,Compra flaco - compensatoria
+Jorge Luis Huaman Quispe,3,H,4,Promedio,46,47.4,49.2,51.4,54,8,0.067,29.7,415.8,Descarte hato - limitada por edad
+Jorge Luis Huaman Quispe,4,M,2,Promedio,39,40.9,43.3,46.3,49.8,10.8,0.09,27.4,383.6,Tui macho - engorde en potreros
+Jorge Luis Huaman Quispe,5,M,2,Promedio,33,35.3,38,41.5,45.5,12.5,0.104,25,350,Compra flaco - compensatoria
+Jorge Luis Huaman Quispe,6,H,2,Promedio,42,43.8,46,48.8,52,10,0.083,28.6,400.4,Descarte hato - rotacion
+Jorge Luis Huaman Quispe,7,M,2,Promedio,35,37.1,39.6,42.8,46.5,11.5,0.096,25.6,358.4,Compra externo - suplementacion
+Jorge Luis Huaman Quispe,8,M,Boca Llena,Promedio,52,53.2,54.6,56.4,58.5,6.5,0.054,32.2,450.8,Animal viejo - minima por edad
+Jorge Luis Huaman Quispe,9,M,2,Promedio,44,45.9,48.2,51.1,54.5,10.5,0.088,30,420,Tui macho - engorde en potreros
+Jorge Luis Huaman Quispe,10,M,2,Promedio,36,38,40.4,,,,,,0,Compra externo - muerte dia 70 (neumonia)
+Salome Mamani Gutierrez,1,M,2,Deficiente,40,41.7,43.8,46.4,49.4,9.4,0.078,27.2,380.8,Tui macho - pastoreo pobre en seca
+Salome Mamani Gutierrez,2,M,2,Deficiente,29,31,33.4,36.5,40,11,0.092,22,308,Compra flaco - recuperacion lenta
+Salome Mamani Gutierrez,3,H,4,Deficiente,45,46.2,47.7,49.6,51.8,6.8,0.057,28.5,399,Descarte hato - minima
+Salome Mamani Gutierrez,4,M,2,Deficiente,38,39.7,41.7,44.3,47.2,9.2,0.077,26,364,Tui macho - engorde limitado
+Salome Mamani Gutierrez,5,M,2,Deficiente,32,33.9,36.2,39.2,42.6,10.6,0.088,23.4,327.6,Compra flaco - compensatoria moderada
+Salome Mamani Gutierrez,6,H,2,Deficiente,41,42.5,44.4,46.8,49.5,8.5,0.071,27.2,380.8,Descarte hato - rotacion
+Salome Mamani Gutierrez,7,M,2,Deficiente,34,35.8,37.9,40.7,43.8,9.8,0.082,24.1,337.4,Compra externo - engorde limitado
+Salome Mamani Gutierrez,8,M,Boca Llena,Deficiente,51,52,53.2,54.8,56.5,5.5,0.046,31.1,435.4,Animal viejo - casi nula por edad
+Salome Mamani Gutierrez,9,M,2,Deficiente,43,44.6,46.6,49.1,52,9,0.075,28.6,400.4,Tui macho - engorde limitado
+Salome Mamani Gutierrez,10,M,2,Deficiente,35,36.7,38.8,41.4,44.4,9.4,0.078,24.4,341.6,Compra externo - engorde limitado
+Pedro Mamani Gutierrez,1,M,2,Bueno,42,44.3,47.1,50.7,54.7,12.7,0.106,30.1,421.4,Tui macho - manejo bueno
+Pedro Mamani Gutierrez,2,M,2,Bueno,31,33.6,36.8,40.9,45.5,14.5,0.121,25,350,Compra flaco - fuerte compensatoria
+Pedro Mamani Gutierrez,3,H,4,Bueno,47,48.7,50.7,53.3,56.2,9.2,0.077,30.9,432.6,Descarte hato - engorde para saca
+Pedro Mamani Gutierrez,4,M,2,Bueno,40,42.2,45,48.4,52.4,12.4,0.103,28.8,403.2,Tui macho - engorde
+Pedro Mamani Gutierrez,5,M,2,Bueno,34,36.6,39.8,43.8,48.4,14.4,0.12,26.6,372.4,Compra flaco - compensatoria
+Pedro Mamani Gutierrez,6,H,2,Bueno,43,45.1,47.6,50.8,54.5,11.5,0.096,30,420,Descarte hato - rotacion
+Pedro Mamani Gutierrez,7,M,2,Bueno,36,38.4,41.3,45,49.2,13.2,0.11,27.1,379.4,Compra externo - suplementacion
+Pedro Mamani Gutierrez,8,M,Boca Llena,Bueno,53,54.4,56,58.1,60.5,7.5,0.063,33.3,466.2,Animal viejo - limitada por edad
+Pedro Mamani Gutierrez,9,M,2,Bueno,45,47.2,49.9,53.3,57.1,12.1,0.101,31.4,439.6,Tui macho - engorde
+Pedro Mamani Gutierrez,10,M,2,Bueno,37,39.3,42.1,,,,,,0,Compra flaco - muerte dia 81 (enterotoxemia)
+Maricielo Cueto Paco,1,M,2,Deficiente,40,41.7,43.8,46.4,49.4,9.4,0.078,27.2,380.8,Tui macho - pastoreo pobre en seca
+Maricielo Cueto Paco,2,M,2,Deficiente,29,31,33.4,36.5,40,11,0.092,22,308,Compra flaco - recuperacion lenta
+Maricielo Cueto Paco,3,H,4,Deficiente,45,46.2,47.7,49.6,51.8,6.8,0.057,28.5,399,Descarte hato - minima
+Maricielo Cueto Paco,4,M,2,Deficiente,38,39.7,41.7,44.3,47.2,9.2,0.077,26,364,Tui macho - engorde limitado
+Maricielo Cueto Paco,5,M,2,Deficiente,32,33.9,36.2,39.2,42.6,10.6,0.088,23.4,327.6,Compra flaco - compensatoria moderada
+Maricielo Cueto Paco,6,H,2,Deficiente,41,42.5,44.4,46.8,49.5,8.5,0.071,27.2,380.8,Descarte hato - rotacion
+Maricielo Cueto Paco,7,M,2,Deficiente,34,35.8,37.9,40.7,43.8,9.8,0.082,24.1,337.4,Compra externo - engorde limitado
+Maricielo Cueto Paco,8,M,Boca Llena,Deficiente,51,52,53.2,54.8,56.5,5.5,0.046,31.1,435.4,Animal viejo - casi nula por edad
+Maricielo Cueto Paco,9,M,2,Deficiente,43,44.6,46.6,49.1,52,9,0.075,28.6,400.4,Tui macho - engorde limitado
+Maricielo Cueto Paco,10,M,2,Deficiente,35,36.7,38.8,,,,,,0,Compra flaco - muerte dia 62 (neumonia)
+Juan Mendoza Vilca,1,M,2,Bueno,42,44.3,47.1,50.7,54.7,12.7,0.106,30.1,421.4,Tui macho - manejo bueno
+Juan Mendoza Vilca,2,M,2,Bueno,31,33.6,36.8,40.9,45.5,14.5,0.121,25,350,Compra flaco - fuerte compensatoria
+Juan Mendoza Vilca,3,H,4,Bueno,47,48.7,50.7,53.3,56.2,9.2,0.077,30.9,432.6,Descarte hato - engorde para saca
+Juan Mendoza Vilca,4,M,2,Bueno,40,42.2,45,48.4,52.4,12.4,0.103,28.8,403.2,Tui macho - engorde
+Juan Mendoza Vilca,5,M,2,Bueno,34,36.6,39.8,43.8,48.4,14.4,0.12,26.6,372.4,Compra flaco - compensatoria
+Juan Mendoza Vilca,6,H,2,Bueno,43,45.1,47.6,50.8,54.5,11.5,0.096,30,420,Descarte hato - rotacion
+Juan Mendoza Vilca,7,M,2,Bueno,36,38.4,41.3,45,49.2,13.2,0.11,27.1,379.4,Compra externo - suplementacion
+Juan Mendoza Vilca,8,M,Boca Llena,Bueno,53,54.4,56,58.1,60.5,7.5,0.063,33.3,466.2,Animal viejo - limitada por edad
+Juan Mendoza Vilca,9,M,2,Bueno,45,47.2,49.9,53.3,57.1,12.1,0.101,31.4,439.6,Tui macho - engorde
+Juan Mendoza Vilca,10,M,2,Bueno,37,39.3,42.1,45.7,49.7,12.7,0.106,27.3,382.2,Compra externo - engorde
+Julia Paco Gutierrez,1,M,2,Promedio,41,43,45.4,48.5,52,11,0.092,28.6,400.4,Tui macho - engorde en potreros
+Julia Paco Gutierrez,2,M,2,Promedio,30,32.3,35.2,38.8,43,13,0.108,23.7,331.8,Compra flaco - compensatoria
+Julia Paco Gutierrez,3,H,4,Promedio,46,47.4,49.2,51.4,54,8,0.067,29.7,415.8,Descarte hato - limitada por edad
+Julia Paco Gutierrez,4,M,2,Promedio,39,40.9,43.3,46.3,49.8,10.8,0.09,27.4,383.6,Tui macho - engorde en potreros
+Julia Paco Gutierrez,5,M,2,Promedio,33,35.3,38,41.5,45.5,12.5,0.104,25,350,Compra flaco - compensatoria
+Julia Paco Gutierrez,6,H,2,Promedio,42,43.8,46,48.8,52,10,0.083,28.6,400.4,Descarte hato - rotacion
+Julia Paco Gutierrez,7,M,2,Promedio,35,37.1,39.6,42.8,46.5,11.5,0.096,25.6,358.4,Compra externo - suplementacion
+Julia Paco Gutierrez,8,M,Boca Llena,Promedio,52,53.2,54.6,56.4,58.5,6.5,0.054,32.2,450.8,Animal viejo - minima por edad
+Julia Paco Gutierrez,9,M,2,Promedio,44,45.9,48.2,51.1,54.5,10.5,0.088,30,420,Tui macho - engorde en potreros
+Julia Paco Gutierrez,10,M,2,Promedio,36,38,40.4,43.5,47,11,0.092,25.9,362.6,Compra externo - engorde
+Ninfa Quispe Condori,1,M,2,Deficiente,40,41.7,43.8,46.4,49.4,9.4,0.078,27.2,380.8,Tui macho - pastoreo pobre en seca
+Ninfa Quispe Condori,2,M,2,Deficiente,29,31,33.4,36.5,40,11,0.092,22,308,Compra flaco - recuperacion lenta
+Ninfa Quispe Condori,3,H,4,Deficiente,45,46.2,47.7,49.6,51.8,6.8,0.057,28.5,399,Descarte hato - minima
+Ninfa Quispe Condori,4,M,2,Deficiente,38,39.7,41.7,44.3,47.2,9.2,0.077,26,364,Tui macho - engorde limitado
+Ninfa Quispe Condori,5,M,2,Deficiente,32,33.9,36.2,39.2,42.6,10.6,0.088,23.4,327.6,Compra flaco - compensatoria moderada
+Ninfa Quispe Condori,6,H,2,Deficiente,41,42.5,44.4,46.8,49.5,8.5,0.071,27.2,380.8,Descarte hato - rotacion
+Ninfa Quispe Condori,7,M,2,Deficiente,34,35.8,37.9,40.7,43.8,9.8,0.082,24.1,337.4,Compra externo - engorde limitado
+Ninfa Quispe Condori,8,M,Boca Llena,Deficiente,51,52,53.2,54.8,56.5,5.5,0.046,31.1,435.4,Animal viejo - casi nula por edad
+Ninfa Quispe Condori,9,M,2,Deficiente,43,44.6,46.6,49.1,52,9,0.075,28.6,400.4,Tui macho - engorde limitado
+Ninfa Quispe Condori,10,M,2,Deficiente,35,36.7,38.8,,,,,,0,Compra flaco - muerte dia 78 (neumonia)
+Dianeth Quispe Gutierrez,1,M,2,Promedio,41,43,45.4,48.5,52,11,0.092,28.6,400.4,Tui macho - engorde en potreros
+Dianeth Quispe Gutierrez,2,M,2,Promedio,30,32.3,35.2,38.8,43,13,0.108,23.7,331.8,Compra flaco - compensatoria
+Dianeth Quispe Gutierrez,3,H,4,Promedio,46,47.4,49.2,51.4,54,8,0.067,29.7,415.8,Descarte hato - limitada por edad
+Dianeth Quispe Gutierrez,4,M,2,Promedio,39,40.9,43.3,46.3,49.8,10.8,0.09,27.4,383.6,Tui macho - engorde en potreros
+Dianeth Quispe Gutierrez,5,M,2,Promedio,33,35.3,38,41.5,45.5,12.5,0.104,25,350,Compra flaco - compensatoria
+Dianeth Quispe Gutierrez,6,H,2,Promedio,42,43.8,46,48.8,52,10,0.083,28.6,400.4,Descarte hato - rotacion
+Dianeth Quispe Gutierrez,7,M,2,Promedio,35,37.1,39.6,42.8,46.5,11.5,0.096,25.6,358.4,Compra externo - suplementacion
+Dianeth Quispe Gutierrez,8,M,Boca Llena,Promedio,52,53.2,54.6,56.4,58.5,6.5,0.054,32.2,450.8,Animal viejo - minima por edad
+Dianeth Quispe Gutierrez,9,M,2,Promedio,44,45.9,48.2,51.1,54.5,10.5,0.088,30,420,Tui macho - engorde en potreros
+Dianeth Quispe Gutierrez,10,M,2,Promedio,36,38,40.4,43.5,47,11,0.092,25.9,362.6,Compra externo - engorde
+Ninfa Sarcco Huaman,1,M,2,Bueno,42,44.3,47.1,50.7,54.7,12.7,0.106,30.1,421.4,Tui macho - manejo bueno
+Ninfa Sarcco Huaman,2,M,2,Bueno,31,33.6,36.8,40.9,45.5,14.5,0.121,25,350,Compra flaco - fuerte compensatoria
+Ninfa Sarcco Huaman,3,H,4,Bueno,47,48.7,50.7,53.3,56.2,9.2,0.077,30.9,432.6,Descarte hato - engorde para saca
+Ninfa Sarcco Huaman,4,M,2,Bueno,40,42.2,45,48.4,52.4,12.4,0.103,28.8,403.2,Tui macho - engorde
+Ninfa Sarcco Huaman,5,M,2,Bueno,34,36.6,39.8,43.8,48.4,14.4,0.12,26.6,372.4,Compra flaco - compensatoria
+Ninfa Sarcco Huaman,6,H,2,Bueno,43,45.1,47.6,50.8,54.5,11.5,0.096,30,420,Descarte hato - rotacion
+Ninfa Sarcco Huaman,7,M,2,Bueno,36,38.4,41.3,45,49.2,13.2,0.11,27.1,379.4,Compra externo - suplementacion
+Ninfa Sarcco Huaman,8,M,Boca Llena,Bueno,53,54.4,56,58.1,60.5,7.5,0.063,33.3,466.2,Animal viejo - limitada por edad
+Ninfa Sarcco Huaman,9,M,2,Bueno,45,47.2,49.9,53.3,57.1,12.1,0.101,31.4,439.6,Tui macho - engorde
+Ninfa Sarcco Huaman,10,M,2,Bueno,37,39.3,42.1,45.7,49.7,12.7,0.106,27.3,382.2,Compra externo - engorde
+Justiniana Sayhua de Cayo,1,M,2,Deficiente,40,41.7,43.8,46.4,49.4,9.4,0.078,27.2,380.8,Tui macho - pastoreo pobre en seca
+Justiniana Sayhua de Cayo,2,M,2,Deficiente,29,31,33.4,36.5,40,11,0.092,22,308,Compra flaco - recuperacion lenta
+Justiniana Sayhua de Cayo,3,H,4,Deficiente,45,46.2,47.7,49.6,51.8,6.8,0.057,28.5,399,Descarte hato - minima
+Justiniana Sayhua de Cayo,4,M,2,Deficiente,38,39.7,41.7,44.3,47.2,9.2,0.077,26,364,Tui macho - engorde limitado
+Justiniana Sayhua de Cayo,5,M,2,Deficiente,32,33.9,36.2,39.2,42.6,10.6,0.088,23.4,327.6,Compra flaco - compensatoria moderada
+Justiniana Sayhua de Cayo,6,H,2,Deficiente,41,42.5,44.4,46.8,49.5,8.5,0.071,27.2,380.8,Descarte hato - rotacion
+Justiniana Sayhua de Cayo,7,M,2,Deficiente,34,35.8,37.9,40.7,43.8,9.8,0.082,24.1,337.4,Compra externo - engorde limitado
+Justiniana Sayhua de Cayo,8,M,Boca Llena,Deficiente,51,52,53.2,54.8,56.5,5.5,0.046,31.1,435.4,Animal viejo - casi nula por edad
+Justiniana Sayhua de Cayo,9,M,2,Deficiente,43,44.6,46.6,49.1,52,9,0.075,28.6,400.4,Tui macho - engorde limitado
+Justiniana Sayhua de Cayo,10,M,2,Deficiente,35,36.7,38.8,,,,,,0,Compra flaco - muerte dia 85 (neumonia)
+Saturnina Tacca Puma,1,M,2,Bueno,42,44.3,47.1,50.7,54.7,12.7,0.106,30.1,421.4,Tui macho - manejo bueno
+Saturnina Tacca Puma,2,M,2,Bueno,31,33.6,36.8,40.9,45.5,14.5,0.121,25,350,Compra flaco - fuerte compensatoria
+Saturnina Tacca Puma,3,H,4,Bueno,47,48.7,50.7,53.3,56.2,9.2,0.077,30.9,432.6,Descarte hato - engorde para saca
+Saturnina Tacca Puma,4,M,2,Bueno,40,42.2,45,48.4,52.4,12.4,0.103,28.8,403.2,Tui macho - engorde
+Saturnina Tacca Puma,5,M,2,Bueno,34,36.6,39.8,43.8,48.4,14.4,0.12,26.6,372.4,Compra flaco - compensatoria
+Saturnina Tacca Puma,6,H,2,Bueno,43,45.1,47.6,50.8,54.5,11.5,0.096,30,420,Descarte hato - rotacion
+Saturnina Tacca Puma,7,M,2,Bueno,36,38.4,41.3,45,49.2,13.2,0.11,27.1,379.4,Compra externo - suplementacion
+Saturnina Tacca Puma,8,M,Boca Llena,Bueno,53,54.4,56,58.1,60.5,7.5,0.063,33.3,466.2,Animal viejo - limitada por edad
+Saturnina Tacca Puma,9,M,2,Bueno,45,47.2,49.9,53.3,57.1,12.1,0.101,31.4,439.6,Tui macho - engorde
+Saturnina Tacca Puma,10,M,2,Bueno,37,39.3,42.1,45.7,49.7,12.7,0.106,27.3,382.2,Compra externo - engorde
+Lucio Tito Ccama,1,M,2,Promedio,41,43,45.4,48.5,52,11,0.092,28.6,400.4,Tui macho - engorde en potreros
+Lucio Tito Ccama,2,M,2,Promedio,30,32.3,35.2,38.8,43,13,0.108,23.7,331.8,Compra flaco - compensatoria
+Lucio Tito Ccama,3,H,4,Promedio,46,47.4,49.2,51.4,54,8,0.067,29.7,415.8,Descarte hato - limitada por edad
+Lucio Tito Ccama,4,M,2,Promedio,39,40.9,43.3,46.3,49.8,10.8,0.09,27.4,383.6,Tui macho - engorde en potreros
+Lucio Tito Ccama,5,M,2,Promedio,33,35.3,38,41.5,45.5,12.5,0.104,25,350,Compra flaco - compensatoria
+Lucio Tito Ccama,6,H,2,Promedio,42,43.8,46,48.8,52,10,0.083,28.6,400.4,Descarte hato - rotacion
+Lucio Tito Ccama,7,M,2,Promedio,35,37.1,39.6,42.8,46.5,11.5,0.096,25.6,358.4,Compra externo - suplementacion
+Lucio Tito Ccama,8,M,Boca Llena,Promedio,52,53.2,54.6,56.4,58.5,6.5,0.054,32.2,450.8,Animal viejo - minima por edad
+Lucio Tito Ccama,9,M,2,Promedio,44,45.9,48.2,51.1,54.5,10.5,0.088,30,420,Tui macho - engorde en potreros
+Lucio Tito Ccama,10,M,2,Promedio,36,38,40.4,43.5,47,11,0.092,25.9,362.6,Compra externo - engorde
+Ceferino Victoriano Ttacca Puma,1,M,2,Promedio,41,43,45.4,48.5,52,11,0.092,28.6,400.4,Tui macho - engorde en potreros
+Ceferino Victoriano Ttacca Puma,2,M,2,Promedio,30,32.3,35.2,38.8,43,13,0.108,23.7,331.8,Compra flaco - compensatoria
+Ceferino Victoriano Ttacca Puma,3,H,4,Promedio,46,47.4,49.2,51.4,54,8,0.067,29.7,415.8,Descarte hato - limitada por edad
+Ceferino Victoriano Ttacca Puma,4,M,2,Promedio,39,40.9,43.3,46.3,49.8,10.8,0.09,27.4,383.6,Tui macho - engorde en potreros
+Ceferino Victoriano Ttacca Puma,5,M,2,Promedio,33,35.3,38,41.5,45.5,12.5,0.104,25,350,Compra flaco - compensatoria
+Ceferino Victoriano Ttacca Puma,6,H,2,Promedio,42,43.8,46,48.8,52,10,0.083,28.6,400.4,Descarte hato - rotacion
+Ceferino Victoriano Ttacca Puma,7,M,2,Promedio,35,37.1,39.6,42.8,46.5,11.5,0.096,25.6,358.4,Compra externo - suplementacion
+Ceferino Victoriano Ttacca Puma,8,M,Boca Llena,Promedio,52,53.2,54.6,56.4,58.5,6.5,0.054,32.2,450.8,Animal viejo - minima por edad
+Ceferino Victoriano Ttacca Puma,9,M,2,Promedio,44,45.9,48.2,51.1,54.5,10.5,0.088,30,420,Tui macho - engorde en potreros
+Ceferino Victoriano Ttacca Puma,10,M,2,Promedio,36,38,40.4,,,,,,0,Compra externo - muerte dia 70 (timpanismo)
+Toribio Ttacca Huaman,1,M,2,Deficiente,40,41.7,43.8,46.4,49.4,9.4,0.078,27.2,380.8,Tui macho - pastoreo pobre en seca
+Toribio Ttacca Huaman,2,M,2,Deficiente,29,31,33.4,36.5,40,11,0.092,22,308,Compra flaco - recuperacion lenta
+Toribio Ttacca Huaman,3,H,4,Deficiente,45,46.2,47.7,49.6,51.8,6.8,0.057,28.5,399,Descarte hato - minima
+Toribio Ttacca Huaman,4,M,2,Deficiente,38,39.7,41.7,44.3,47.2,9.2,0.077,26,364,Tui macho - engorde limitado
+Toribio Ttacca Huaman,5,M,2,Deficiente,32,33.9,36.2,39.2,42.6,10.6,0.088,23.4,327.6,Compra flaco - compensatoria moderada
+Toribio Ttacca Huaman,6,H,2,Deficiente,41,42.5,44.4,46.8,49.5,8.5,0.071,27.2,380.8,Descarte hato - rotacion
+Toribio Ttacca Huaman,7,M,2,Deficiente,34,35.8,37.9,40.7,43.8,9.8,0.082,24.1,337.4,Compra externo - engorde limitado
+Toribio Ttacca Huaman,8,M,Boca Llena,Deficiente,51,52,53.2,54.8,56.5,5.5,0.046,31.1,435.4,Animal viejo - casi nula por edad
+Toribio Ttacca Huaman,9,M,2,Deficiente,43,44.6,46.6,49.1,52,9,0.075,28.6,400.4,Tui macho - engorde limitado
+Toribio Ttacca Huaman,10,M,2,Deficiente,35,36.7,38.8,41.4,44.4,9.4,0.078,24.4,341.6,Compra externo - engorde limitado
+Silvia Villanueva Condori,1,M,2,Bueno,42,44.3,47.1,50.7,54.7,12.7,0.106,30.1,421.4,Tui macho - manejo bueno
+Silvia Villanueva Condori,2,M,2,Bueno,31,33.6,36.8,40.9,45.5,14.5,0.121,25,350,Compra flaco - fuerte compensatoria
+Silvia Villanueva Condori,3,H,4,Bueno,47,48.7,50.7,53.3,56.2,9.2,0.077,30.9,432.6,Descarte hato - engorde para saca
+Silvia Villanueva Condori,4,M,2,Bueno,40,42.2,45,48.4,52.4,12.4,0.103,28.8,403.2,Tui macho - engorde
+Silvia Villanueva Condori,5,M,2,Bueno,34,36.6,39.8,43.8,48.4,14.4,0.12,26.6,372.4,Compra flaco - compensatoria
+Silvia Villanueva Condori,6,H,2,Bueno,43,45.1,47.6,50.8,54.5,11.5,0.096,30,420,Descarte hato - rotacion
+Silvia Villanueva Condori,7,M,2,Bueno,36,38.4,41.3,45,49.2,13.2,0.11,27.1,379.4,Compra externo - suplementacion
+Silvia Villanueva Condori,8,M,Boca Llena,Bueno,53,54.4,56,58.1,60.5,7.5,0.063,33.3,466.2,Animal viejo - limitada por edad
+Silvia Villanueva Condori,9,M,2,Bueno,45,47.2,49.9,53.3,57.1,12.1,0.101,31.4,439.6,Tui macho - engorde
+Silvia Villanueva Condori,10,M,2,Bueno,37,39.3,42.1,45.7,49.7,12.7,0.106,27.3,382.2,Compra externo - engorde
+Lucia Martinez Checmapocco,1,M,2,Deficiente,40,41.7,43.8,46.4,49.4,9.4,0.078,27.2,380.8,Tui macho - pastoreo pobre en seca
+Lucia Martinez Checmapocco,2,M,2,Deficiente,29,31,33.4,36.5,40,11,0.092,22,308,Compra flaco - recuperacion lenta
+Lucia Martinez Checmapocco,3,H,4,Deficiente,45,46.2,47.7,49.6,51.8,6.8,0.057,28.5,399,Descarte hato - minima
+Lucia Martinez Checmapocco,4,M,2,Deficiente,38,39.7,41.7,44.3,47.2,9.2,0.077,26,364,Tui macho - engorde limitado
+Lucia Martinez Checmapocco,5,M,2,Deficiente,32,33.9,36.2,39.2,42.6,10.6,0.088,23.4,327.6,Compra flaco - compensatoria moderada
+Lucia Martinez Checmapocco,6,H,2,Deficiente,41,42.5,44.4,46.8,49.5,8.5,0.071,27.2,380.8,Descarte hato - rotacion
+Lucia Martinez Checmapocco,7,M,2,Deficiente,34,35.8,37.9,40.7,43.8,9.8,0.082,24.1,337.4,Compra externo - engorde limitado
+Lucia Martinez Checmapocco,8,M,Boca Llena,Deficiente,51,52,53.2,54.8,56.5,5.5,0.046,31.1,435.4,Animal viejo - casi nula por edad
+Lucia Martinez Checmapocco,9,M,2,Deficiente,43,44.6,46.6,49.1,52,9,0.075,28.6,400.4,Tui macho - engorde limitado
+Lucia Martinez Checmapocco,10,M,2,Deficiente,35,36.7,38.8,,,,,,0,Compra flaco - muerte dia 72 (neumonia)
