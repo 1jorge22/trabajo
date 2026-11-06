@@ -1,0 +1,2370 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "elements": [
+    {
+      "id": "title",
+      "type": "text",
+      "x": 290,
+      "y": -40,
+      "width": 1000,
+      "height": 35,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 1390851129,
+      "version": 1,
+      "versionNonce": 647892280,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1,
+      "link": null,
+      "locked": false,
+      "text": "PNT «Mejoramiento del manejo productivo de la alpaca» — Lógica de los informes",
+      "originalText": "PNT «Mejoramiento del manejo productivo de la alpaca» — Lógica de los informes",
+      "fontSize": 24,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "top",
+      "containerId": null,
+      "lineHeight": 1.25,
+      "autoResize": true,
+      "baseline": 24
+    },
+    {
+      "id": "goal",
+      "type": "ellipse",
+      "x": 470,
+      "y": 20,
+      "width": 640,
+      "height": 90,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#ffec99",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1695753999,
+      "version": 1,
+      "versionNonce": 207388625,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "goal_t"
+        },
+        {
+          "type": "arrow",
+          "id": "goal_mayo"
+        },
+        {
+          "type": "arrow",
+          "id": "goal_junio"
+        },
+        {
+          "type": "arrow",
+          "id": "goal_julio"
+        }
+      ],
+      "updated": 1,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "goal_t",
+      "type": "text",
+      "x": 480,
+      "y": 35.0,
+      "width": 620,
+      "height": 60.0,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 311111476,
+      "version": 1,
+      "versionNonce": 404285458,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1,
+      "link": null,
+      "locked": false,
+      "text": "OBJETIVO DEL PNT\nEngordar el lote de saca y venderlo de forma asociativa\na mejor precio (27 socios · 459 animales)",
+      "originalText": "OBJETIVO DEL PNT\nEngordar el lote de saca y venderlo de forma asociativa\na mejor precio (27 socios · 459 animales)",
+      "fontSize": 16,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "goal",
+      "lineHeight": 1.25,
+      "autoResize": true,
+      "baseline": 16
+    },
+    {
+      "id": "mayo_head",
+      "type": "rectangle",
+      "x": 0,
+      "y": 160,
+      "width": 380,
+      "height": 70,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#a5d8ff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1570621945,
+      "version": 1,
+      "versionNonce": 249103478,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "mayo_head_t"
+        },
+        {
+          "type": "arrow",
+          "id": "mayo_a1"
+        },
+        {
+          "type": "arrow",
+          "id": "goal_mayo"
+        }
+      ],
+      "updated": 1,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "mayo_head_t",
+      "type": "text",
+      "x": 10,
+      "y": 170.0,
+      "width": 360,
+      "height": 50.0,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 922121677,
+      "version": 1,
+      "versionNonce": 161042649,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1,
+      "link": null,
+      "locked": false,
+      "text": "MAYO · Informe 005\n«ENGORDAR»",
+      "originalText": "MAYO · Informe 005\n«ENGORDAR»",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "mayo_head",
+      "lineHeight": 1.25,
+      "autoResize": true,
+      "baseline": 20
+    },
+    {
+      "id": "mayo_cap",
+      "type": "rectangle",
+      "x": 0,
+      "y": 270,
+      "width": 380,
+      "height": 110,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 3
+      },
+      "seed": 369140571,
+      "version": 1,
+      "versionNonce": 1862494043,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "mayo_cap_t"
+        },
+        {
+          "type": "arrow",
+          "id": "mayo_a1"
+        },
+        {
+          "type": "arrow",
+          "id": "mayo_a2"
+        },
+        {
+          "type": "arrow",
+          "id": "m_j_cap"
+        }
+      ],
+      "updated": 1,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "mayo_cap_t",
+      "type": "text",
+      "x": 10,
+      "y": 285.0,
+      "width": 360,
+      "height": 80.0,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 1796035740,
+      "version": 1,
+      "versionNonce": 300026768,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1,
+      "link": null,
+      "locked": false,
+      "text": "CAPACITACIÓN (con diapositivas)\nTécnicas de engorde y\nalimentación estratégica\n(16/05 · local de la Asociación)",
+      "originalText": "CAPACITACIÓN (con diapositivas)\nTécnicas de engorde y\nalimentación estratégica\n(16/05 · local de la Asociación)",
+      "fontSize": 16,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "mayo_cap",
+      "lineHeight": 1.25,
+      "autoResize": true,
+      "baseline": 16
+    },
+    {
+      "id": "mayo_at",
+      "type": "rectangle",
+      "x": 0,
+      "y": 420,
+      "width": 380,
+      "height": 90,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1033639717,
+      "version": 1,
+      "versionNonce": 389609434,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "mayo_at_t"
+        },
+        {
+          "type": "arrow",
+          "id": "mayo_a2"
+        },
+        {
+          "type": "arrow",
+          "id": "mayo_a3"
+        }
+      ],
+      "updated": 1,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "mayo_at_t",
+      "type": "text",
+      "x": 10,
+      "y": 435.0,
+      "width": 360,
+      "height": 60.0,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 1823296039,
+      "version": 1,
+      "versionNonce": 253877687,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1,
+      "link": null,
+      "locked": false,
+      "text": "ASISTENCIA TÉCNICA (días 01–20)\nInicio del control de peso\n(cinta biométrica, 14 predios)",
+      "originalText": "ASISTENCIA TÉCNICA (días 01–20)\nInicio del control de peso\n(cinta biométrica, 14 predios)",
+      "fontSize": 16,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "mayo_at",
+      "lineHeight": 1.25,
+      "autoResize": true,
+      "baseline": 16
+    },
+    {
+      "id": "mayo_res",
+      "type": "rectangle",
+      "x": 0,
+      "y": 550,
+      "width": 380,
+      "height": 110,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#a5d8ff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 3
+      },
+      "seed": 531725348,
+      "version": 1,
+      "versionNonce": 958804058,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "mayo_res_t"
+        },
+        {
+          "type": "arrow",
+          "id": "mayo_a3"
+        },
+        {
+          "type": "arrow",
+          "id": "m_j_res"
+        },
+        {
+          "type": "arrow",
+          "id": "data_mayo"
+        }
+      ],
+      "updated": 1,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "mayo_res_t",
+      "type": "text",
+      "x": 10,
+      "y": 575.0,
+      "width": 360,
+      "height": 60.0,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 265695474,
+      "version": 1,
+      "versionNonce": 1703729685,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1,
+      "link": null,
+      "locked": false,
+      "text": "RESULTADO\nLínea base 36.3 kg → 39.5 kg\n0.111 kg/día · 0 bajas",
+      "originalText": "RESULTADO\nLínea base 36.3 kg → 39.5 kg\n0.111 kg/día · 0 bajas",
+      "fontSize": 16,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "mayo_res",
+      "lineHeight": 1.25,
+      "autoResize": true,
+      "baseline": 16
+    },
+    {
+      "id": "mayo_a1",
+      "type": "arrow",
+      "x": 190.0,
+      "y": 230,
+      "width": 0.0,
+      "height": 40,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 212984477,
+      "version": 1,
+      "versionNonce": 949539217,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0.0,
+          40
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "mayo_head",
+        "focus": 0,
+        "gap": 4
+      },
+      "endBinding": {
+        "elementId": "mayo_cap",
+        "focus": 0,
+        "gap": 4
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "mayo_a2",
+      "type": "arrow",
+      "x": 190.0,
+      "y": 380,
+      "width": 0.0,
+      "height": 40,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 200071089,
+      "version": 1,
+      "versionNonce": 571981486,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0.0,
+          40
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "mayo_cap",
+        "focus": 0,
+        "gap": 4
+      },
+      "endBinding": {
+        "elementId": "mayo_at",
+        "focus": 0,
+        "gap": 4
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "mayo_a3",
+      "type": "arrow",
+      "x": 190.0,
+      "y": 510,
+      "width": 0.0,
+      "height": 40,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1243862423,
+      "version": 1,
+      "versionNonce": 1800188483,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0.0,
+          40
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "mayo_at",
+        "focus": 0,
+        "gap": 4
+      },
+      "endBinding": {
+        "elementId": "mayo_res",
+        "focus": 0,
+        "gap": 4
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "junio_head",
+      "type": "rectangle",
+      "x": 600,
+      "y": 160,
+      "width": 380,
+      "height": 70,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#b2f2bb",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 3
+      },
+      "seed": 619570853,
+      "version": 1,
+      "versionNonce": 505913793,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "junio_head_t"
+        },
+        {
+          "type": "arrow",
+          "id": "junio_a1"
+        },
+        {
+          "type": "arrow",
+          "id": "goal_junio"
+        }
+      ],
+      "updated": 1,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "junio_head_t",
+      "type": "text",
+      "x": 610,
+      "y": 170.0,
+      "width": 360,
+      "height": 50.0,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 1324919353,
+      "version": 1,
+      "versionNonce": 776213900,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1,
+      "link": null,
+      "locked": false,
+      "text": "JUNIO · Informe 006\n«PREPARAR LA VENTA»",
+      "originalText": "JUNIO · Informe 006\n«PREPARAR LA VENTA»",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "junio_head",
+      "lineHeight": 1.25,
+      "autoResize": true,
+      "baseline": 20
+    },
+    {
+      "id": "junio_cap",
+      "type": "rectangle",
+      "x": 600,
+      "y": 270,
+      "width": 380,
+      "height": 110,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 3
+      },
+      "seed": 442620899,
+      "version": 1,
+      "versionNonce": 806899910,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "junio_cap_t"
+        },
+        {
+          "type": "arrow",
+          "id": "junio_a1"
+        },
+        {
+          "type": "arrow",
+          "id": "junio_a2"
+        },
+        {
+          "type": "arrow",
+          "id": "m_j_cap"
+        },
+        {
+          "type": "arrow",
+          "id": "j_jl_cap"
+        }
+      ],
+      "updated": 1,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "junio_cap_t",
+      "type": "text",
+      "x": 610,
+      "y": 285.0,
+      "width": 360,
+      "height": 80.0,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 1599435268,
+      "version": 1,
+      "versionNonce": 418461139,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1,
+      "link": null,
+      "locked": false,
+      "text": "CAPACITACIÓN (con diapositivas)\nGestión comercial y\narticulación de mercado\n(20/06 · local de la Asociación)",
+      "originalText": "CAPACITACIÓN (con diapositivas)\nGestión comercial y\narticulación de mercado\n(20/06 · local de la Asociación)",
+      "fontSize": 16,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "junio_cap",
+      "lineHeight": 1.25,
+      "autoResize": true,
+      "baseline": 16
+    },
+    {
+      "id": "junio_at",
+      "type": "rectangle",
+      "x": 600,
+      "y": 420,
+      "width": 380,
+      "height": 90,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 3
+      },
+      "seed": 269676600,
+      "version": 1,
+      "versionNonce": 255985077,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "junio_at_t"
+        },
+        {
+          "type": "arrow",
+          "id": "junio_a2"
+        },
+        {
+          "type": "arrow",
+          "id": "junio_a3"
+        }
+      ],
+      "updated": 1,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "junio_at_t",
+      "type": "text",
+      "x": 610,
+      "y": 435.0,
+      "width": 360,
+      "height": 60.0,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 884585952,
+      "version": 1,
+      "versionNonce": 2132084005,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1,
+      "link": null,
+      "locked": false,
+      "text": "ASISTENCIA TÉCNICA (días 01–20)\nControl de peso en 14 predios +\nevaluación de cercos y rotación",
+      "originalText": "ASISTENCIA TÉCNICA (días 01–20)\nControl de peso en 14 predios +\nevaluación de cercos y rotación",
+      "fontSize": 16,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "junio_at",
+      "lineHeight": 1.25,
+      "autoResize": true,
+      "baseline": 16
+    },
+    {
+      "id": "junio_res",
+      "type": "rectangle",
+      "x": 600,
+      "y": 550,
+      "width": 380,
+      "height": 110,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#b2f2bb",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1836494975,
+      "version": 1,
+      "versionNonce": 1349251824,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "junio_res_t"
+        },
+        {
+          "type": "arrow",
+          "id": "junio_a3"
+        },
+        {
+          "type": "arrow",
+          "id": "m_j_res"
+        },
+        {
+          "type": "arrow",
+          "id": "j_jl_res"
+        },
+        {
+          "type": "arrow",
+          "id": "data_junio"
+        }
+      ],
+      "updated": 1,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "junio_res_t",
+      "type": "text",
+      "x": 610,
+      "y": 575.0,
+      "width": 360,
+      "height": 60.0,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 1999744785,
+      "version": 1,
+      "versionNonce": 1946412081,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1,
+      "link": null,
+      "locked": false,
+      "text": "RESULTADO\n42.7 kg · 0.107 kg/día · 4 bajas\nAcuerdo de acopio conjunto",
+      "originalText": "RESULTADO\n42.7 kg · 0.107 kg/día · 4 bajas\nAcuerdo de acopio conjunto",
+      "fontSize": 16,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "junio_res",
+      "lineHeight": 1.25,
+      "autoResize": true,
+      "baseline": 16
+    },
+    {
+      "id": "junio_a1",
+      "type": "arrow",
+      "x": 790.0,
+      "y": 230,
+      "width": 0.0,
+      "height": 40,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1552984409,
+      "version": 1,
+      "versionNonce": 1287489454,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0.0,
+          40
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "junio_head",
+        "focus": 0,
+        "gap": 4
+      },
+      "endBinding": {
+        "elementId": "junio_cap",
+        "focus": 0,
+        "gap": 4
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "junio_a2",
+      "type": "arrow",
+      "x": 790.0,
+      "y": 380,
+      "width": 0.0,
+      "height": 40,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1066984056,
+      "version": 1,
+      "versionNonce": 772092315,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0.0,
+          40
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "junio_cap",
+        "focus": 0,
+        "gap": 4
+      },
+      "endBinding": {
+        "elementId": "junio_at",
+        "focus": 0,
+        "gap": 4
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "junio_a3",
+      "type": "arrow",
+      "x": 790.0,
+      "y": 510,
+      "width": 0.0,
+      "height": 40,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1048386556,
+      "version": 1,
+      "versionNonce": 351564608,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0.0,
+          40
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "junio_at",
+        "focus": 0,
+        "gap": 4
+      },
+      "endBinding": {
+        "elementId": "junio_res",
+        "focus": 0,
+        "gap": 4
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "julio_head",
+      "type": "rectangle",
+      "x": 1200,
+      "y": 160,
+      "width": 380,
+      "height": 70,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#ffc9c9",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1289560150,
+      "version": 1,
+      "versionNonce": 2126508551,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "julio_head_t"
+        },
+        {
+          "type": "arrow",
+          "id": "julio_a1"
+        },
+        {
+          "type": "arrow",
+          "id": "goal_julio"
+        }
+      ],
+      "updated": 1,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "julio_head_t",
+      "type": "text",
+      "x": 1210,
+      "y": 170.0,
+      "width": 360,
+      "height": 50.0,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 1475216846,
+      "version": 1,
+      "versionNonce": 1927728187,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1,
+      "link": null,
+      "locked": false,
+      "text": "JULIO · Informe 007\n«EVALUAR ACABADO»",
+      "originalText": "JULIO · Informe 007\n«EVALUAR ACABADO»",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "julio_head",
+      "lineHeight": 1.25,
+      "autoResize": true,
+      "baseline": 20
+    },
+    {
+      "id": "julio_cap",
+      "type": "rectangle",
+      "x": 1200,
+      "y": 270,
+      "width": 380,
+      "height": 110,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1236683273,
+      "version": 1,
+      "versionNonce": 314395343,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "julio_cap_t"
+        },
+        {
+          "type": "arrow",
+          "id": "julio_a1"
+        },
+        {
+          "type": "arrow",
+          "id": "julio_a2"
+        },
+        {
+          "type": "arrow",
+          "id": "j_jl_cap"
+        }
+      ],
+      "updated": 1,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "julio_cap_t",
+      "type": "text",
+      "x": 1210,
+      "y": 285.0,
+      "width": 360,
+      "height": 80.0,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 507088657,
+      "version": 1,
+      "versionNonce": 1795823849,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1,
+      "link": null,
+      "locked": false,
+      "text": "CAPACITACIÓN (con diapositivas)\nEvaluación de acabado, rendimiento\nde carcasa y buenas prácticas de beneficio\n(18/07 · local de la Asociación)",
+      "originalText": "CAPACITACIÓN (con diapositivas)\nEvaluación de acabado, rendimiento\nde carcasa y buenas prácticas de beneficio\n(18/07 · local de la Asociación)",
+      "fontSize": 16,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "julio_cap",
+      "lineHeight": 1.25,
+      "autoResize": true,
+      "baseline": 16
+    },
+    {
+      "id": "julio_at",
+      "type": "rectangle",
+      "x": 1200,
+      "y": 420,
+      "width": 380,
+      "height": 90,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 3
+      },
+      "seed": 708506837,
+      "version": 1,
+      "versionNonce": 1469118511,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "julio_at_t"
+        },
+        {
+          "type": "arrow",
+          "id": "julio_a2"
+        },
+        {
+          "type": "arrow",
+          "id": "julio_a3"
+        }
+      ],
+      "updated": 1,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "julio_at_t",
+      "type": "text",
+      "x": 1210,
+      "y": 435.0,
+      "width": 360,
+      "height": 60.0,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 652768598,
+      "version": 1,
+      "versionNonce": 2100080515,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1,
+      "link": null,
+      "locked": false,
+      "text": "ASISTENCIA TÉCNICA (días 01–20)\nControl biométrico final y evaluación\nde acabado en 14 predios",
+      "originalText": "ASISTENCIA TÉCNICA (días 01–20)\nControl biométrico final y evaluación\nde acabado en 14 predios",
+      "fontSize": 16,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "julio_at",
+      "lineHeight": 1.25,
+      "autoResize": true,
+      "baseline": 16
+    },
+    {
+      "id": "julio_res",
+      "type": "rectangle",
+      "x": 1200,
+      "y": 550,
+      "width": 380,
+      "height": 110,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#ffc9c9",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1811180650,
+      "version": 1,
+      "versionNonce": 168393880,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "julio_res_t"
+        },
+        {
+          "type": "arrow",
+          "id": "julio_a3"
+        },
+        {
+          "type": "arrow",
+          "id": "j_jl_res"
+        },
+        {
+          "type": "arrow",
+          "id": "data_julio"
+        }
+      ],
+      "updated": 1,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "julio_res_t",
+      "type": "text",
+      "x": 1210,
+      "y": 575.0,
+      "width": 360,
+      "height": 60.0,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 333377415,
+      "version": 1,
+      "versionNonce": 1347535309,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1,
+      "link": null,
+      "locked": false,
+      "text": "RESULTADO\n45.9 kg · 0.108 kg/día acum.\n451 aptos para venta · 1.7% mort.",
+      "originalText": "RESULTADO\n45.9 kg · 0.108 kg/día acum.\n451 aptos para venta · 1.7% mort.",
+      "fontSize": 16,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "julio_res",
+      "lineHeight": 1.25,
+      "autoResize": true,
+      "baseline": 16
+    },
+    {
+      "id": "julio_a1",
+      "type": "arrow",
+      "x": 1390.0,
+      "y": 230,
+      "width": 0.0,
+      "height": 40,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1460814403,
+      "version": 1,
+      "versionNonce": 1504004732,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0.0,
+          40
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "julio_head",
+        "focus": 0,
+        "gap": 4
+      },
+      "endBinding": {
+        "elementId": "julio_cap",
+        "focus": 0,
+        "gap": 4
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "julio_a2",
+      "type": "arrow",
+      "x": 1390.0,
+      "y": 380,
+      "width": 0.0,
+      "height": 40,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 2133201996,
+      "version": 1,
+      "versionNonce": 1959386987,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0.0,
+          40
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "julio_cap",
+        "focus": 0,
+        "gap": 4
+      },
+      "endBinding": {
+        "elementId": "julio_at",
+        "focus": 0,
+        "gap": 4
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "julio_a3",
+      "type": "arrow",
+      "x": 1390.0,
+      "y": 510,
+      "width": 0.0,
+      "height": 40,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 295334610,
+      "version": 1,
+      "versionNonce": 401991736,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0.0,
+          40
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "julio_at",
+        "focus": 0,
+        "gap": 4
+      },
+      "endBinding": {
+        "elementId": "julio_res",
+        "focus": 0,
+        "gap": 4
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "goal_mayo",
+      "type": "arrow",
+      "x": 790.0,
+      "y": 110,
+      "width": -600.0,
+      "height": 50,
+      "angle": 0,
+      "strokeColor": "#868e96",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "dashed",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1159380354,
+      "version": 1,
+      "versionNonce": 2036236842,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -600.0,
+          50
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "goal",
+        "focus": 0,
+        "gap": 4
+      },
+      "endBinding": {
+        "elementId": "mayo_head",
+        "focus": 0,
+        "gap": 4
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "goal_junio",
+      "type": "arrow",
+      "x": 790.0,
+      "y": 110,
+      "width": 0.0,
+      "height": 50,
+      "angle": 0,
+      "strokeColor": "#868e96",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "dashed",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 279172787,
+      "version": 1,
+      "versionNonce": 260573196,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0.0,
+          50
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "goal",
+        "focus": 0,
+        "gap": 4
+      },
+      "endBinding": {
+        "elementId": "junio_head",
+        "focus": 0,
+        "gap": 4
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "goal_julio",
+      "type": "arrow",
+      "x": 790.0,
+      "y": 110,
+      "width": 600.0,
+      "height": 50,
+      "angle": 0,
+      "strokeColor": "#868e96",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "dashed",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1329753548,
+      "version": 1,
+      "versionNonce": 1914012529,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          600.0,
+          50
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "goal",
+        "focus": 0,
+        "gap": 4
+      },
+      "endBinding": {
+        "elementId": "julio_head",
+        "focus": 0,
+        "gap": 4
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "m_j_res",
+      "type": "arrow",
+      "x": 380,
+      "y": 605.0,
+      "width": 220,
+      "height": 0.0,
+      "angle": 0,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1222328496,
+      "version": 1,
+      "versionNonce": 1656961616,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "m_j_res_t"
+        }
+      ],
+      "updated": 1,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          220,
+          0.0
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "mayo_res",
+        "focus": 0,
+        "gap": 4
+      },
+      "endBinding": {
+        "elementId": "junio_res",
+        "focus": 0,
+        "gap": 4
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "m_j_res_t",
+      "type": "text",
+      "x": 405.0,
+      "y": 587.5,
+      "width": 170,
+      "height": 35.0,
+      "angle": 0,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 1490376254,
+      "version": 1,
+      "versionNonce": 96907016,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1,
+      "link": null,
+      "locked": false,
+      "text": "animales engordados\n→ listos para vender",
+      "originalText": "animales engordados\n→ listos para vender",
+      "fontSize": 14,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "m_j_res",
+      "lineHeight": 1.25,
+      "autoResize": true,
+      "baseline": 14
+    },
+    {
+      "id": "j_jl_res",
+      "type": "arrow",
+      "x": 980,
+      "y": 605.0,
+      "width": 220,
+      "height": 0.0,
+      "angle": 0,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1982966163,
+      "version": 1,
+      "versionNonce": 1526706730,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "j_jl_res_t"
+        }
+      ],
+      "updated": 1,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          220,
+          0.0
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "junio_res",
+        "focus": 0,
+        "gap": 4
+      },
+      "endBinding": {
+        "elementId": "julio_res",
+        "focus": 0,
+        "gap": 4
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "j_jl_res_t",
+      "type": "text",
+      "x": 1005.0,
+      "y": 587.5,
+      "width": 170,
+      "height": 35.0,
+      "angle": 0,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 721762279,
+      "version": 1,
+      "versionNonce": 502922617,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1,
+      "link": null,
+      "locked": false,
+      "text": "acuerdo de acopio\n→ venta asociativa",
+      "originalText": "acuerdo de acopio\n→ venta asociativa",
+      "fontSize": 14,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "j_jl_res",
+      "lineHeight": 1.25,
+      "autoResize": true,
+      "baseline": 14
+    },
+    {
+      "id": "m_j_cap",
+      "type": "arrow",
+      "x": 380,
+      "y": 325.0,
+      "width": 220,
+      "height": 0.0,
+      "angle": 0,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "dashed",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 2120395275,
+      "version": 1,
+      "versionNonce": 253207297,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "m_j_cap_t"
+        }
+      ],
+      "updated": 1,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          220,
+          0.0
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "mayo_cap",
+        "focus": 0,
+        "gap": 4
+      },
+      "endBinding": {
+        "elementId": "junio_cap",
+        "focus": 0,
+        "gap": 4
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "m_j_cap_t",
+      "type": "text",
+      "x": 405.0,
+      "y": 307.5,
+      "width": 170,
+      "height": 35.0,
+      "angle": 0,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 937195260,
+      "version": 1,
+      "versionNonce": 1234510746,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1,
+      "link": null,
+      "locked": false,
+      "text": "mejor condición corporal\n= mejor precio",
+      "originalText": "mejor condición corporal\n= mejor precio",
+      "fontSize": 14,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "m_j_cap",
+      "lineHeight": 1.25,
+      "autoResize": true,
+      "baseline": 14
+    },
+    {
+      "id": "j_jl_cap",
+      "type": "arrow",
+      "x": 980,
+      "y": 325.0,
+      "width": 220,
+      "height": 0.0,
+      "angle": 0,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "dashed",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 555512016,
+      "version": 1,
+      "versionNonce": 1063497604,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "j_jl_cap_t"
+        }
+      ],
+      "updated": 1,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          220,
+          0.0
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "junio_cap",
+        "focus": 0,
+        "gap": 4
+      },
+      "endBinding": {
+        "elementId": "julio_cap",
+        "focus": 0,
+        "gap": 4
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "j_jl_cap_t",
+      "type": "text",
+      "x": 1005.0,
+      "y": 307.5,
+      "width": 170,
+      "height": 35.0,
+      "angle": 0,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 1708957521,
+      "version": 1,
+      "versionNonce": 1679116189,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1,
+      "link": null,
+      "locked": false,
+      "text": "precio y costos\n→ medir la ganancia",
+      "originalText": "precio y costos\n→ medir la ganancia",
+      "fontSize": 14,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "j_jl_cap",
+      "lineHeight": 1.25,
+      "autoResize": true,
+      "baseline": 14
+    },
+    {
+      "id": "data",
+      "type": "rectangle",
+      "x": 390,
+      "y": 730,
+      "width": 800,
+      "height": 100,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#e9ecef",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 3
+      },
+      "seed": 2132480061,
+      "version": 1,
+      "versionNonce": 346094056,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "data_t"
+        },
+        {
+          "type": "arrow",
+          "id": "data_mayo"
+        },
+        {
+          "type": "arrow",
+          "id": "data_junio"
+        },
+        {
+          "type": "arrow",
+          "id": "data_julio"
+        }
+      ],
+      "updated": 1,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "data_t",
+      "type": "text",
+      "x": 400,
+      "y": 745.0,
+      "width": 780,
+      "height": 70.0,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 714537755,
+      "version": 1,
+      "versionNonce": 1929245187,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1,
+      "link": null,
+      "locked": false,
+      "text": "FUENTE DE DATOS (carpeta Mayo/)\nRegistro_Mayo_Julio_2026_Corregido.csv → pesos por animal\nInforme_Produccion_Mayo_Julio_2026.csv → venta\nCostos_Mayo_Julio_2026.csv → costos y ganancia por socio",
+      "originalText": "FUENTE DE DATOS (carpeta Mayo/)\nRegistro_Mayo_Julio_2026_Corregido.csv → pesos por animal\nInforme_Produccion_Mayo_Julio_2026.csv → venta\nCostos_Mayo_Julio_2026.csv → costos y ganancia por socio",
+      "fontSize": 14,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "data",
+      "lineHeight": 1.25,
+      "autoResize": true,
+      "baseline": 14
+    },
+    {
+      "id": "data_mayo",
+      "type": "arrow",
+      "x": 790.0,
+      "y": 730,
+      "width": -600.0,
+      "height": -70,
+      "angle": 0,
+      "strokeColor": "#868e96",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "dotted",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1725048951,
+      "version": 1,
+      "versionNonce": 1193309984,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -600.0,
+          -66
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "data",
+        "focus": 0,
+        "gap": 4
+      },
+      "endBinding": {
+        "elementId": "mayo_res",
+        "focus": 0,
+        "gap": 4
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "data_junio",
+      "type": "arrow",
+      "x": 790.0,
+      "y": 730,
+      "width": 0.0,
+      "height": -70,
+      "angle": 0,
+      "strokeColor": "#868e96",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "dotted",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 588093311,
+      "version": 1,
+      "versionNonce": 1849076401,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0.0,
+          -66
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "data",
+        "focus": 0,
+        "gap": 4
+      },
+      "endBinding": {
+        "elementId": "junio_res",
+        "focus": 0,
+        "gap": 4
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "data_julio",
+      "type": "arrow",
+      "x": 790.0,
+      "y": 730,
+      "width": 600.0,
+      "height": -70,
+      "angle": 0,
+      "strokeColor": "#868e96",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "dotted",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1195809358,
+      "version": 1,
+      "versionNonce": 1783684942,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          600.0,
+          -66
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "data",
+        "focus": 0,
+        "gap": 4
+      },
+      "endBinding": {
+        "elementId": "julio_res",
+        "focus": 0,
+        "gap": 4
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}

@@ -1,9 +1,9 @@
 #set page(
-  paper: "us-letter",
-  margin: (x: 2.5cm, top: 3.0cm, bottom: 2.5cm),
+  paper: "a4",
+  margin: (left: 3.2cm, right: 2.5cm, top: 3.0cm, bottom: 2.8cm), // Margen izquierdo amplio para el empastado
   header: align(center)[
     #set text(font: "Libertinus Serif", size: 10pt)
-    ASOCIACIÓN DE PRODUCTORES AGROPECUARIOS MICROCUENCA NORTE RIO NUÑOA \
+    ASOCIACIÓN DE PRODUCTORES AGROPECUARIOS MICROCUENCA NORTE RÍO NUÑOA \
     #text(style: "italic")[“Año de la Esperanza y el Fortalecimiento de la Democracia”]
   ],
 )
@@ -32,7 +32,7 @@
   [*A :*],
   [
     *SR. MARCELO DIAZ HUAHUASONCCO* \
-    #text(size: 9.5pt)[*PRESIDENTE DE LA APA MICROCUENCA NORTE RIO NUÑOA*]
+    #text(size: 9.5pt)[*PRESIDENTE DE LA APA MICROCUENCA NORTE RÍO NUÑOA*]
   ],
 
   [*DE :*],
@@ -43,14 +43,16 @@
 
   [*ASUNTO :*], [*INFORME DE ACTIVIDADES MES DE MAYO*],
   [*REFERENCIA:*], [*CONTRATO N°005-2025*],
-  [*FECHA :*], [*Nuñoa, 28 de Mayo del 2026.*],
+  [*FECHA :*], [*Nuñoa, 28 de mayo de 2026.*],
 )
 
 #v(0.5em)
 #line(length: 100%, stroke: 0.5pt + rgb("#888888"))
 #v(0.5em)
 
-De mi mayor consideración: Es grato dirigirme a usted con el propósito de hacerle llegar el informe mensual del mes de mayo, detallando las actividades ejecutadas como coordinador del *PNT «MEJORAMIENTO DEL MANEJO PRODUCTIVO DE LA ALPACA»* en la *Asociación de Productores Agropecuarios Microcuenca Norte Río Nuñoa*, conforme al documento de referencia y los archivos adjuntos.
+De mi mayor consideración:
+
+Es grato dirigirme a usted con el propósito de hacerle llegar el informe mensual del mes de mayo, detallando las actividades ejecutadas como coordinador del *PNT «MEJORAMIENTO DEL MANEJO PRODUCTIVO DE LA ALPACA»* en la *Asociación de Productores Agropecuarios Microcuenca Norte Río Nuñoa*, conforme al documento de referencia y los archivos adjuntos.
 
 // ==================== I. INFORMACIÓN GENERAL ====================
 = I. INFORMACIÓN GENERAL DEL PNT.
@@ -60,22 +62,24 @@ CUADRO N°1. Información general del Plan de Negocio.
 #table(
   columns: (140pt, 1fr),
   stroke: 0.75pt + black,
-  fill: (col, row) => if row == 0 { rgb("#6fa8dc") },
-  align: center + horizon,
+  fill: (col, row) => if col == 0 { rgb("#6fa8dc") },
+  align: (col, row) => if col == 0 { center + horizon } else { left + horizon },
   inset: 7pt,
-  [*NOMBRE DE LA OA*], [*ASOCIACIÓN DE PRODUCTORES AGROPECUARIOS \ MICROCUENCA NORTE RIO NUÑOA*],
+  [*NOMBRE DE LA OA*], [*ASOCIACIÓN DE PRODUCTORES AGROPECUARIOS \ MICROCUENCA NORTE RÍO NUÑOA*],
   [*PLAN DE NEGOCIO*], [MEJORAMIENTO DEL MANEJO PRODUCTIVO DE LA ALPACA],
   [*N° DE SOCIOS \ MUJERES \ VARONES*], [27 \ 14 \ 13],
-  [*COMUNIDAD*], [MICROCUENCA NORTE RIO NUÑOA],
+  [*COMUNIDAD*], [MICROCUENCA NORTE RÍO NUÑOA],
   [*DISTRITO*], [NUÑOA],
 )
 
 // ==================== II. ACTIVIDADES ====================
 = II. ACTIVIDADES REALIZADAS DURANTE EL PERIODO
 
+*Punto de partida:* Al inicio de la campaña de engorde se conformó el lote de saca del PNT con 459 animales (330 machos y 129 hembras) de los 27 socios, con un peso vivo promedio inicial de 36.3 kg, valor que sirve de línea base para el seguimiento mensual.
+
 == 2.1 CAPACITACIÓN: TÉCNICAS DE ENGORDE Y ALIMENTACIÓN ESTRATÉGICA
 
-Se capacitó a 27 socios sobre el manejo del engorde para mejorar el rendimiento de carcasa de los animales de saca.
+Se capacitó a los *27 socios beneficiarios* sobre el manejo técnico del engorde para mejorar el rendimiento de carcasa de los animales de saca.
 
 #pad(left: 24pt)[
   *Temas Tratados:* Alimentación estratégica, uso de forrajes suplementarios, manejo del agua y sales minerales, y determinación del punto óptimo de venta.
@@ -85,13 +89,30 @@ Se capacitó a 27 socios sobre el manejo del engorde para mejorar el rendimiento
 
 == 2.2 ASISTENCIA TÉCNICA: CONTROL DE PESO Y RENDIMIENTO DE ENGORDE
 
-Se continuó con el monitoreo del lote de saca, realizando la evaluación biométrica de los animales sometidos a suplementación forrajera.
+Se inició el monitoreo en campo del lote de saca, realizando la evaluación biométrica de los animales sometidos a suplementación forrajera.
 
 #pad(left: 24pt)[
-  *Control de Peso:* Utilizando una cinta métrica zootécnica (cinta biométrica), se realizó la estimación del peso vivo actual de los animales en los predios de 14 socios.
+  *Control de Peso en Predios:* Conforme a lo acordado previamente en reunión con la organización, entre el 01 y el 20 de mayo se visitaron los predios de 14 socios seleccionados, utilizando una cinta métrica zootécnica (cinta biométrica) para estimar el peso vivo de los animales y verificar el manejo alimenticio.
 
-  *Resultados del Periodo:* Al comparar las medidas con las del inicio del proceso, se registraron los promedios de ganancia de peso vivo de los animales por productor. Se ajustaron las raciones para intentar acercarse a la meta proyectada por el PNT.
+  *Resultados del Periodo:* Al comparar el control del mes con el peso inicial del lote (459 animales), se alcanzó un peso vivo promedio de 39.5 kg, equivalente a una ganancia promedio de 3.2 kg por animal (0.111 kg/animal/día), sin mortalidad en el periodo. Se ajustaron las raciones para acercarse a la meta proyectada por el PNT.
 ]
+
+CUADRO N°2. Indicadores productivos del lote de saca (mayo).
+
+#table(
+  columns: (1fr, 100pt),
+  stroke: 0.75pt + black,
+  fill: (col, row) => if row == 0 { rgb("#6fa8dc") },
+  align: (col, row) => if col == 0 { left + horizon } else { center + horizon },
+  inset: 6pt,
+  [*INDICADOR*], [*VALOR*],
+  [Animales en el lote (330 machos, 129 hembras)], [459],
+  [Peso vivo promedio inicial], [36.3 kg],
+  [Peso vivo promedio control mayo], [39.5 kg],
+  [Ganancia promedio del periodo], [3.2 kg],
+  [Ganancia diaria promedio], [0.111 kg/día],
+  [Mortalidad del periodo], [0],
+)
 
 // ==================== III. METODOLOGÍA Y RECURSOS ====================
 = III. METODOLOGÍA Y RECURSOS UTILIZADOS
@@ -99,17 +120,17 @@ Se continuó con el monitoreo del lote de saca, realizando la evaluación biomé
 == 3.1 METODOLOGÍA
 
 #pad(left: 24pt)[
-  *Capacitación:* Método demostrativo participativo en el centro de manejo.
+  *Capacitación:* Exposición teórica participativa con apoyo de diapositivas proyectadas en el local de la Asociación.
 
-  *Asistencia Técnica:* Visitas periódicas a predios para el pesaje y el registro de la ganancia de peso.
+  *Asistencia Técnica:* Visitas programadas a 14 predios (del 01 al 20 de mayo) para el control biométrico de peso y el seguimiento de la suplementación.
 ]
 
 == 3.2 RECURSOS UTILIZADOS
 
 #pad(left: 24pt)[
   Motocicleta para desplazamiento. \
-  Balanza y/o cinta de peso. \
-  Fichas de control de peso. \
+  Proyector multimedia y diapositivas de capacitación. \
+  Cinta biométrica y fichas de control de peso. \
   Sales minerales y suplemento. \
   Computadora. \
   Registro de asistencia. \
@@ -120,9 +141,9 @@ Se continuó con el monitoreo del lote de saca, realizando la evaluación biomé
 = IV. CONCLUSIONES
 
 #pad(left: 12pt)[
-  + Se capacitó a 27 socios en técnicas de engorde, comprendiendo la relación directa entre la buena alimentación y la mejora de la carcasa.
-  + Se realizó el control de peso con cinta métrica en los 14 socios encontrando una ganancia promedio de 0.108 Kg/animal/día en el lote de animales a comercializar.
-  + Se brindaron recomendaciones personalizadas a cada socio para ajustar la ración alimenticia y optimizar la ganancia de peso en la etapa final.
+  + Se capacitó a 27 socios en técnicas de engorde mediante sesión expositiva con diapositivas, comprendiendo la relación directa entre la buena alimentación y la mejora de la carcasa.
+  + Entre el 01 y el 20 de mayo se realizó el control de peso con cinta métrica en los 14 predios acordados, registrando en el lote de 459 animales a comercializar una ganancia promedio de 0.111 kg/animal/día en el periodo.
+  + Se brindaron recomendaciones personalizadas a los productores para ajustar la ración alimenticia y optimizar la ganancia de peso en los siguientes meses.
 ]
 
 // ==================== V. RECOMENDACIONES ====================
@@ -131,23 +152,24 @@ Se continuó con el monitoreo del lote de saca, realizando la evaluación biomé
 #pad(left: 24pt)[
   *A los Socios:* Mantener la suplementación y el pastoreo dirigido de forma constante para no perder la condición ganada.
 
-  *A la Directiva:* Coordinar la venta de los animales engordados en el momento de mejor precio del mercado.
+  *A la Directiva:* Coordinar la futura venta de los animales engordados en el momento de mejor precio del mercado.
 ]
 
 // ==================== VI. ANEXOS ====================
 = VI. ANEXOS
 
 #pad(left: 24pt)[
-  *Anexo 01:* Registro de asistencia al taller de capacitación. \
+  *Anexo 01:* Registro de asistencia a la capacitación. \
   *Anexo 02:* Panel fotográfico (Capacitación, Pesaje de animales). \
   *Anexo 03:* Fichas de control de peso y asistencia técnica. \
   *Anexo 04:* Copia de Recibo por Honorarios.
 ]
 
 #pagebreak()
-// ==================== ANEXO: TALLER DE CAPACITACIÓN ====================
+// ==================== ANEXO: CAPACITACIÓN ====================
 #align(center)[
-  #text(weight: "bold", size: 12pt)[TALLER DE CAPACITACIÓN] \
+  #set text(hyphenate: false)
+  #text(weight: "bold", size: 12pt)[CAPACITACIÓN] \
   #v(0.3em)
   #text(weight: "bold", size: 10.5pt)[TEMA: TÉCNICAS DE ENGORDE Y ALIMENTACIÓN ESTRATÉGICA EN ALPACAS]
 ]
@@ -165,11 +187,11 @@ Se continuó con el monitoreo del lote de saca, realizando la evaluación biomé
 *DESARROLLO DEL EVENTO*
 
 #pad(left: 24pt)[
-  *Fase Teórica (Introducción):* Se explicó el aprovechamiento de las praderas cultivadas y nativas, la suplementación con sales minerales y la importancia del agua en la etapa de engorde.
+  *Exposición del tema:* Con apoyo de diapositivas proyectadas, se inició con una exposición sobre el uso eficiente de las praderas nativas y cultivadas (rotación y carga animal adecuada), la suplementación con sales minerales y el acceso permanente a agua limpia durante la etapa de engorde, resaltando su influencia directa en la ganancia de peso y el rendimiento de carcasa.
 
-  *Demostración:* Con ayuda de herramientas de muestra que se llevó como apoyo didáctico, explicando teóricamente cómo utilizar la cinta métrica en el animal para calcular su peso y cómo anotar la estimación de ese peso en sus cuadernos de registro.
+  *Explicación demostrativa:* Utilizando diapositivas y una cinta biométrica de muestra llevada como apoyo didáctico, el técnico explicó teóricamente cómo colocar la cinta métrica en el perímetro torácico del animal para estimar su peso vivo y cómo anotar dicha estimación en el cuaderno de registro.
 
-  *Participación de Productores:* Los productores practicaron el pesaje de animales y la interpretación de la ganancia de peso bajo supervisión del técnico.
+  *Participación de los productores:* Los productores participaron realizando consultas sobre la preparación de raciones, el registro periódico de pesos y la interpretación de la ganancia diaria de peso.
 
   *Cierre:* Se concluyó con una ronda de preguntas sobre el momento óptimo de venta según la condición corporal.
 ]
@@ -183,15 +205,15 @@ Se continuó con el monitoreo del lote de saca, realizando la evaluación biomé
     inset: 6pt,
     [*Provincia*], [: Melgar],
     [*Distrito*], [: Nuñoa],
-    [*Lugar*], [: Fundo de uno de los socios participantes],
-    [*Fecha y hora*], [: 16 de Mayo, 10:00 am],
+    [*Lugar*], [: Local de la Asociación],
+    [*Fecha y hora*], [: 16 de mayo, 10:00 a. m.],
   )
 ]
 
 *RESULTADOS*
 
 #pad(left: 24pt)[
-  Los productores han adquirido conocimientos sobre alimentación estratégica y control de peso para el engorde.
+  Los 27 productores han adquirido conocimientos teóricos sobre alimentación estratégica y control de peso para el engorde.
 
   Los participantes reconocen la relación entre el manejo alimenticio y el mejor precio de venta de los animales.
 ]
@@ -202,5 +224,3 @@ Se continuó con el monitoreo del lote de saca, realizando la evaluación biomé
   Registro de participantes. \
   Registro fotográfico.
 ]
-
-

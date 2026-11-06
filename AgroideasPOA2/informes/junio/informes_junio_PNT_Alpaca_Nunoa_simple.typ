@@ -1,9 +1,9 @@
 #set page(
   paper: "a4",
-  margin: (x: 2.5cm, top: 3.0cm, bottom: 2.5cm),
+  margin: (left: 3.2cm, right: 2.5cm, top: 3.0cm, bottom: 2.8cm), // Margen izquierdo amplio para el empastado
   header: align(center)[
     #set text(font: "Libertinus Serif", size: 10pt)
-    ASOCIACIÓN DE PRODUCTORES AGROPECUARIOS MICROCUENCA NORTE RIO NUÑOA \
+    ASOCIACIÓN DE PRODUCTORES AGROPECUARIOS MICROCUENCA NORTE RÍO NUÑOA \
     #text(style: "italic")[“Año de la Esperanza y el Fortalecimiento de la Democracia”]
   ],
 )
@@ -11,7 +11,6 @@
 #set par(justify: true, leading: 0.75em, spacing: 1.2em)
 
 // ==================== CONFIGURACIÓN DE TÍTULOS ====================
-
 #show heading.where(level: 1): it => block(spacing: 1.5em)[
   #text(weight: "bold", size: 11.5pt)[#it.body]
 ]
@@ -33,7 +32,7 @@
   [*A :*],
   [
     *SR. MARCELO DIAZ HUAHUASONCCO* \
-    #text(size: 9.5pt)[*PRESIDENTE DE LA APA MICROCUENCA NORTE RIO NUÑOA*]
+    #text(size: 9.5pt)[*PRESIDENTE DE LA APA MICROCUENCA NORTE RÍO NUÑOA*]
   ],
 
   [*DE :*],
@@ -44,12 +43,16 @@
 
   [*ASUNTO :*], [*INFORME DE ACTIVIDADES MES DE JUNIO*],
   [*REFERENCIA:*], [*CONTRATO N°005-2025*],
-  [*FECHA :*], [*Nuñoa, 27 de Junio del 2026.*],
+  [*FECHA :*], [*Nuñoa, 27 de junio de 2026.*],
 )
 
-#v(0.8em)
+#v(0.5em)
+#line(length: 100%, stroke: 0.5pt + rgb("#888888"))
+#v(0.5em)
 
-Previo cordial saludo, mediante el presente documento es grato dirigirme a Ud. para hacer alcance del informe mensual correspondiente al mes de Junio de las actividades realizadas como coordinador del *PNT "MEJORAMIENTO DEL MANEJO PRODUCTIVO DE LA ALPACA"* en la *ASOCIACIÓN DE PRODUCTORES AGROPECUARIOS MICROCUENCA NORTE RIO NUÑOA*, según documento de Referencia, adjuntando también otros documentos al presente.
+De mi mayor consideración:
+
+Es grato dirigirme a usted con el propósito de hacerle llegar el informe mensual del mes de junio, detallando las actividades ejecutadas como coordinador del *PNT «MEJORAMIENTO DEL MANEJO PRODUCTIVO DE LA ALPACA»* en la *Asociación de Productores Agropecuarios Microcuenca Norte Río Nuñoa*, conforme al documento de referencia y los archivos adjuntos.
 
 // ==================== I. INFORMACIÓN GENERAL ====================
 = I. INFORMACIÓN GENERAL DEL PNT.
@@ -59,43 +62,60 @@ CUADRO N°1. Información general del Plan de Negocio.
 #table(
   columns: (140pt, 1fr),
   stroke: 0.75pt + black,
-  fill: (col, row) => if row == 0 { rgb("#6fa8dc") },
-  align: center + horizon,
+  fill: (col, row) => if col == 0 { rgb("#6fa8dc") },
+  align: (col, row) => if col == 0 { center + horizon } else { left + horizon },
   inset: 7pt,
-  [*NOMBRE DE LA OA*], [*ASOCIACIÓN DE PRODUCTORES AGROPECUARIOS \ MICROCUENCA NORTE RIO NUÑOA*],
+  [*NOMBRE DE LA OA*], [*ASOCIACIÓN DE PRODUCTORES AGROPECUARIOS \ MICROCUENCA NORTE RÍO NUÑOA*],
   [*PLAN DE NEGOCIO*], [MEJORAMIENTO DEL MANEJO PRODUCTIVO DE LA ALPACA],
   [*N° DE SOCIOS \ MUJERES \ VARONES*], [27 \ 14 \ 13],
-  [*COMUNIDAD*], [MICROCUENCA NORTE RIO NUÑOA],
+  [*COMUNIDAD*], [MICROCUENCA NORTE RÍO NUÑOA],
   [*DISTRITO*], [NUÑOA],
 )
 
 // ==================== II. ACTIVIDADES ====================
-= II. ACTIVIDADES REALIZADAS DURANTE EL MES
+= II. ACTIVIDADES REALIZADAS DURANTE EL PERIODO
+
+*Avance respecto al mes anterior:* En mayo se capacitó a los socios en técnicas de engorde y se registró en el lote de saca (459 animales) un peso vivo promedio de 39.5 kg, con una ganancia de 0.111 kg/animal/día y sin mortalidad. En junio se continuó con el monitoreo biométrico en los predios acordados y se capacitó a los socios para la comercialización asociativa del lote.
 
 == 2.1 CAPACITACIÓN: GESTIÓN COMERCIAL Y ARTICULACIÓN DE MERCADO
 
-Se llevó a cabo el taller de capacitación técnica con una duración de 4 horas pedagógicas en el local comunal, contando con la participación efectiva de los *27 socios beneficiarios* (14 mujeres y 13 varones, logrando el 100% de asistencia del padrón). La jornada combinó una exposición teórica con un ejercicio práctico de costeo y simulación de comercialización asociativa.
+Se llevó a cabo la capacitación técnica en el local de la Asociación, contando con la participación de los *27 socios beneficiarios* (14 mujeres y 13 varones, logrando el 100% de asistencia del padrón), desarrollada mediante exposición teórica con diapositivas proyectadas.
 
 #pad(left: 24pt)[
   *Temas Tratados:*
-  - *Formación de Precios y Condición Corporal:* Se capacitó en la correlación entre la condición corporal (CC en escala de 1 a 5) y el rendimiento en canal/carcasa. Se demostró que animales con CC 3.0 a 3.5 alcanzan rendimientos de 26.0 a 28.0 kg de carcasa, accediendo al precio referencial de mercado de S/. 14.00 por kg de carne, frente al castigo económico aplicado a animales no engordados con CC inferior a 2.5 (< 22.0 kg canal).
-  - *Ventajas de la Venta Conjunta y Eliminación de Intermediarios:* Análisis comparativo de ingresos. Se evidenció que la venta individual a intermediarios informales en pie genera pérdidas de hasta un 30% del valor real del animal (pagos de S/. 180 a S/. 210 por cabeza), mientras que la consolidación asociativa en carcasa permite superar los S/. 360 a S/. 390 por unidad vendida.
-  - *Costos de Comercialización y Registro:* Manejo del cuaderno básico de registro de ventas, costos de faenado, fletes compartidos y pautas para negociar de forma conjunta con compradores formales.
+  - *Formación de Precios y Condición Corporal:* Relación entre la condición corporal (CC en escala de 1 a 5) y el rendimiento en canal/carcasa, explicando que animales con CC 3.0 a 3.5 alcanzan rendimientos de 26.0 a 28.0 kg de carcasa y acceden al precio referencial de mercado de S/ 14.00 por kg de carne, frente al menor pago aplicado a animales no engordados (\< 22.0 kg canal).
+  - *Ventajas de la Venta Conjunta y Eliminación de Intermediarios:* Comparación entre la venta individual en pie a intermediarios informales (S/ 180 a S/ 210 por cabeza) y la consolidación asociativa en carcasa (S/ 360 a S/ 390 por animal).
+  - *Costos de Comercialización y Registro:* Pautas para el llenado del cuaderno básico de registro de ventas e ingresos y criterios para negociar en bloque con compradores formales.
 
-  *Resultados e Indicadores de Logro:*
-  - *Evaluación de Aprendizaje (Pre y Post-Test):* Se aplicó una evaluación diagnóstica de entrada y salida, evidenciando un incremento en el nivel de conocimientos técnicos del 38% al 88% al cierre de la sesión.
-  - *Acuerdos Comerciales:* Los 27 productores validaron la estrategia de acopio conjunto y acordaron consolidar un primer lote comercial de animales de saca con estándares homogéneos de peso y sanidad para la entrega del periodo.
+  *Resultado:* Los 27 productores conocen las ventajas económicas de la venta organizada y acordaron consolidar el lote comercial de animales de saca con estándares homogéneos de peso y sanidad para el cierre de la campaña.
 ]
 
-== 2.2 ASISTENCIA TÉCNICA: SEGUIMIENTO DE RENDIMIENTO Y EVALUACIÓN DE MANEJO
+== 2.2 ASISTENCIA TÉCNICA: CONTROL DE PESO, SEGUIMIENTO DE RENDIMIENTO Y EVALUACIÓN DE MANEJO
 
-Como cierre del semestre, la asistencia en campo se enfocó en recopilar las observaciones de los socios, evaluar el rendimiento del sistema y monitorear el estado general de las intervenciones.
+La asistencia en campo se enfocó en continuar el monitoreo de peso del lote de saca, recoger las observaciones de los socios y verificar el estado operativo de los cercos.
 
 #pad(left: 24pt)[
-  *Evaluación con los Socios:* Se recorrieron los predios de 14 socios para recoger sus observaciones directas sobre la adaptación de los animales al nuevo sistema y el rendimiento forrajero observado dentro de los cercos.
+  *Control de Peso y Evaluación en Predios:* Conforme a lo acordado en reunión con la organización, entre el 01 y el 20 de junio se recorrieron los predios de 14 socios seleccionados, realizando la estimación del peso vivo con cinta biométrica y recogiendo sus observaciones sobre la adaptación de los animales y el rendimiento forrajero en los cercos. En el control del mes, el lote registró un peso vivo promedio de 42.7 kg, con una ganancia de 3.2 kg por animal respecto a mayo (0.107 kg/animal/día) y 4 bajas en el periodo (455 animales en el lote).
 
   *Supervisión Operativa:* Conjuntamente, se verificó el correcto uso de la infraestructura (puertas cerradas, mallas intactas) y el manejo del calendario de rotación por parte de los productores, asegurando la sostenibilidad técnica del proyecto.
 ]
+
+CUADRO N°2. Evolución de los indicadores productivos del lote de saca.
+
+#table(
+  columns: (1fr, 80pt, 80pt),
+  stroke: 0.75pt + black,
+  fill: (col, row) => if row == 0 { rgb("#6fa8dc") },
+  align: (col, row) => if col == 0 { left + horizon } else { center + horizon },
+  inset: 6pt,
+  [*INDICADOR*], [*MAYO*], [*JUNIO*],
+  [Animales en el lote], [459], [455],
+  [Peso vivo promedio], [39.5 kg], [42.7 kg],
+  [Ganancia promedio del mes], [3.2 kg], [3.2 kg],
+  [Ganancia diaria promedio], [0.111 kg/día], [0.107 kg/día],
+  [Bajas del mes (acumulado)], [0 (0)], [4 (4)],
+  [Mortalidad acumulada], [0.0 %], [0.9 %],
+)
 
 // ==================== III. METODOLOGÍA Y RECURSOS ====================
 = III. METODOLOGÍA Y RECURSOS UTILIZADOS
@@ -103,17 +123,18 @@ Como cierre del semestre, la asistencia en campo se enfocó en recopilar las obs
 == 3.1 METODOLOGÍA
 
 #pad(left: 24pt)[
-  *Capacitación:* Método demostrativo participativo en el centro de manejo.
+  *Capacitación:* Exposición teórica participativa con apoyo de diapositivas proyectadas en el local de la Asociación.
 
-  *Asistencia Técnica:* Visitas de verificación a los módulos de cercos y registro de su estado operativo.
+  *Asistencia Técnica:* Visitas programadas a 14 predios (del 01 al 20 de junio) para el control de peso, la evaluación de los módulos de cercos y el registro de su estado operativo.
 ]
 
 == 3.2 RECURSOS UTILIZADOS
 
 #pad(left: 24pt)[
   Motocicleta para desplazamiento. \
-  GPS y wincha. \
-  Fichas de evaluación de cercos. \
+  Proyector multimedia y diapositivas de capacitación. \
+  Cinta biométrica y fichas de control de peso. \
+  GPS, wincha y fichas de evaluación de cercos. \
   Computadora. \
   Registro de asistencia. \
   Otros.
@@ -123,36 +144,37 @@ Como cierre del semestre, la asistencia en campo se enfocó en recopilar las obs
 = IV. CONCLUSIONES
 
 #pad(left: 12pt)[
-  + Se capacitó a 27 productores en gestión comercial, ratificando la importancia de la venta asociativa y los precios formales de mercado.
-  + Se recogieron las observaciones y retroalimentación de los socios respecto al rendimiento animal y la adaptación al pastoreo rotativo.
-  + Se verificó que los productores están haciendo un uso responsable y operativo de los módulos de infraestructura, garantizando la recuperación sostenida de las praderas nativas.
+  + Se capacitó a 27 productores en gestión comercial mediante exposición con diapositivas, ratificando la importancia de la venta asociativa y los precios formales de mercado.
+  + Entre el 01 y el 20 de junio se realizó el monitoreo en los 14 predios acordados; en el control del periodo el lote alcanzó un peso vivo promedio de 42.7 kg, manteniendo una ganancia de 0.107 kg/animal/día y una mortalidad acumulada de 0.9% (4 animales).
+  + Se recogieron las observaciones de los socios respecto al rendimiento animal y la adaptación al pastoreo rotativo, y se verificó el uso responsable de los módulos de infraestructura, garantizando la recuperación sostenida de las praderas nativas.
 ]
 
 // ==================== V. RECOMENDACIONES ====================
 = V. RECOMENDACIONES
 
 #pad(left: 24pt)[
-  *A los Socios:* Consolidar la oferta asociativa y mantener los registros de venta para negociar mejores precios de manera sostenida.
+  *A los Socios:* Consolidar la oferta asociativa, mantener los registros de venta y reforzar el control sanitario de los animales en observación para llegar al cierre del engorde con el menor número de bajas.
 
-  *A la Directiva:* Dar mantenimiento periódico a los módulos de cercos y dar continuidad a las buenas prácticas aprendidas durante el PNT.
+  *A la Directiva:* Coordinar con compradores formales para la comercialización conjunta del lote en julio, dar mantenimiento periódico a los módulos de cercos y dar continuidad a las buenas prácticas aprendidas durante el PNT.
 ]
 
 // ==================== VI. ANEXOS ====================
 = VI. ANEXOS
 
 #pad(left: 24pt)[
-  *Anexo 01:* Registro de asistencia al taller de capacitación. \
-  *Anexo 02:* Panel fotográfico (Capacitación, Evaluación de cercos). \
-  *Anexo 03:* Fichas de asistencia técnica y evaluación de cercos. \
+  *Anexo 01:* Registro de asistencia a la capacitación. \
+  *Anexo 02:* Panel fotográfico (Capacitación, Control de peso, Evaluación de cercos). \
+  *Anexo 03:* Fichas de control de peso, asistencia técnica y evaluación de cercos. \
   *Anexo 04:* Copia de Recibo por Honorarios.
 ]
 
 #pagebreak()
-// ==================== ANEXO: TALLER DE CAPACITACIÓN ====================
+// ==================== ANEXO: CAPACITACIÓN ====================
 #align(center)[
-  #text(weight: "bold", size: 12pt)[TALLER DE CAPACITACIÓN] \
+  #set text(hyphenate: false)
+  #text(weight: "bold", size: 12pt)[CAPACITACIÓN] \
   #v(0.3em)
-  #text(weight: "bold", size: 10.5pt)[TEMA: GESTIÓN COMERCIAL Y ARTICULACIÓN DE MERCADO DE PRODUCTOS DE ALPACA]
+  #text(weight: "bold", size: 10.5pt)[TEMA: GESTIÓN COMERCIAL Y ARTICULACIÓN DE MERCADO DE CARNE DE ALPACA]
 ]
 
 #v(1em)
@@ -160,7 +182,7 @@ Como cierre del semestre, la asistencia en campo se enfocó en recopilar las obs
 *OBJETIVO*
 
 #pad(left: 24pt)[
-  Que los participantes conozcan las estrategias de comercialización asociativa de la fibra y la carne de alpaca.
+  Que los participantes conozcan las estrategias de comercialización asociativa de la carne de alpaca.
 
   Capacitar a los productores en la formación de precios, el registro de ventas y la identificación de mercados directos.
 ]
@@ -168,13 +190,13 @@ Como cierre del semestre, la asistencia en campo se enfocó en recopilar las obs
 *DESARROLLO DEL EVENTO*
 
 #pad(left: 24pt)[
-  *Exposición del tema:* Se expuso cómo se forma el precio de la alpaca en pie, la carne y la fibra según peso y condición, y las desventajas de vender a intermediarios.
+  *Exposición del tema:* Con apoyo de diapositivas proyectadas, se expuso cómo se forma el precio de la alpaca en pie y en carcasa según peso y condición corporal, así como las desventajas económicas de vender de manera individual a intermediarios.
 
-  *Explicación demostrativa:* Se explicó, con apoyo de ejemplos, cómo consolidar la oferta asociativa (volumen y calidad) y cómo llevar un registro básico de ventas e ingresos.
+  *Explicación audiovisual:* Mediante cuadros comparativos y ejemplos proyectados en las diapositivas, se explicó la diferencia de ingresos entre la venta en pie y la venta asociativa en carcasa, cómo consolidar la oferta (volumen y calidad homogénea) y cómo llevar un registro básico de ventas e ingresos.
 
-  *Participación de los productores:* Los productores participaron consultando sobre la negociación asociativa y la elaboración de un registro de ventas.
+  *Participación de los productores:* Los productores participaron consultando sobre la negociación asociativa, la organización del acopio conjunto y el llenado del registro de ventas.
 
-  *Cierre:* Ronda de preguntas sobre la formalización y la articulación con compradores directos.
+  *Cierre:* Se concluyó con una ronda de preguntas sobre la formalización y la articulación con compradores directos, ratificando el acuerdo de acopio conjunto del lote de saca.
 ]
 
 *LUGAR Y FECHA*
@@ -187,14 +209,14 @@ Como cierre del semestre, la asistencia en campo se enfocó en recopilar las obs
     [*Provincia*], [: Melgar],
     [*Distrito*], [: Nuñoa],
     [*Lugar*], [: Local de la Asociación],
-    [*Fecha y hora*], [: 20 de Junio, 10:00 am],
+    [*Fecha y hora*], [: 20 de junio, 10:00 a. m.],
   )
 ]
 
 *RESULTADOS*
 
 #pad(left: 24pt)[
-  Los productores han adquirido conocimientos sobre comercialización asociativa y formación de precios.
+  Los 27 productores han adquirido conocimientos teóricos sobre comercialización asociativa y formación de precios.
 
   Los participantes reconocen la importancia de vender de forma organizada para reducir la dependencia de los intermediarios.
 ]
